@@ -3,6 +3,8 @@ title: 图片压缩
 lang: zh-CN
 ---
 
+# 图片压缩
+
 ![图片压缩](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031704963.webp)
 
 ## 网站
