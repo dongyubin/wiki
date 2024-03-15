@@ -57,9 +57,9 @@ export const shared = defineConfig({
     search: {
       provider: 'algolia',
       options: {
-        appId: '78WH305X5M',
-        apiKey: '66b681ef9658010ccc13d55b1dafb027',
-        indexName: '文武软件百科',
+        appId: '3VYJU9Z80S',
+        apiKey: '5eb8f34b5a1c5bfae437627bb529d01e',
+        indexName: 'dev_wiki',
         locales: { ...zhSearch}
         // locales: { ...zhSearch, ...ptSearch }
       }
