@@ -10,7 +10,7 @@ export const zh = defineConfig({
 
   themeConfig: {
     nav: nav(),
-
+    
     sidebar: {
       '/zh/guide/': { base: '/zh/guide/', items: sidebarGuide() },
       '/zh/software/': { base: '/zh/software/', items: sidebarReference() }
@@ -32,6 +32,7 @@ export const zh = defineConfig({
     },
 
     outline: {
+      level: 'deep',
       label: '页面导航'
     },
 
@@ -134,6 +135,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: '图片压缩', link: 'image-compress' },
+        { text: '图片消除背景', link: 'image-remove-background' },
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
         // { text: 'CLI', link: 'cli' },
