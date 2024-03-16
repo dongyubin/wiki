@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 软件
-      link: /zh/software/image-compress
+      link: /zh/software/search-engines
     - theme: alt
       text: 指南
       link: /zh/guide/bp-gdsj

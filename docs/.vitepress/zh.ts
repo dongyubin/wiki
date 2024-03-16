@@ -57,7 +57,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: '软件',
-      link: '/zh/software/image-compress',
+      link: '/zh/software/search-engines',
       activeMatch: '/zh/software/'
     },
     {
