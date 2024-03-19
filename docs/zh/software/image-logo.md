@@ -180,27 +180,27 @@
 - 需要登录
 - 没有免费下载
 
-## GraphicSprings
+### GraphicSprings
 
 [GraphicSprings](https://graphicsprings.com/)
 
 - 没有免费下载
 
-## FreeLogoServices
+### FreeLogoServices
 
 [FreeLogoServices](https://www.freelogoservices.com/cn)
 
 - 需要登录
 - 没有免费下载
 
-## Logo Maker
+### Logo Maker
 
 [Logo Maker](https://www.logomaker.com/cn/logosteps) 流程与 FreeLogoServices 类似
 
 - 需要登录
 - 没有免费下载
 
-## LogoMakr
+### LogoMakr
 
 [LogoMakr](https://logomakr.com/)
 
