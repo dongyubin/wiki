@@ -49,15 +49,7 @@
 
 ### 懒人版
 
-<!--wechatfans start-->
-
-将下面3个链接拖动到**浏览器书签栏**，然后按照顺序依次点击即可。
-
-1. <a href="javascript:(function(){ document.querySelectorAll('rect.watermarklayer').forEach(e=>{e.remove()}) })();">1️⃣标小智批量去水印</a>
-2. <a href="javascript:(function(){ document.querySelectorAll('.waterfall-container>div').forEach(e => { e.querySelectorAll('.dynamic-span').forEach(existingSpan => { existingSpan.remove(); }); var pid = document.createElement('span'); pid.textContent = e.getAttribute('layout-id'); pid.className = 'dynamic-span'; pid.style.cssText = 'width:100%; color: red; font-size: 20px; font-weight: bold;'; e.appendChild(pid); }); })();">2️⃣标小智图片编号</a>
-3. <a href="javascript: var image_id = prompt('%E8%AF%B7%E8%BE%93%E5%85%A5%E5%9B%BE%E7%89%87%E7%BC%96%E5%8F%B7'); var divWithLayoutIdZero = document.querySelector('div[layout-id="'+image_id+'"]'); var svgElements = divWithLayoutIdZero.querySelectorAll('.svg-card > svg'); var serializer = new XMLSerializer(); var source = serializer.serializeToString(svgElements[0]); if(!source.match(/^<svg[^>]+xmlns="http:\/\/www.w3.org\/2000\/svg"/)){ source = source.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"'); } if(!source.match(/^<svg[^>]+"http:\/\/www.w3.org\/1999\/xlink"/)){ source = source.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"'); } source = '<?xml%20version=%221.0%22%20standalone=%22no%22?%3E\r\n%27%20+%20source;%20var%20url%20=%20%22data:image/svg+xml;charset=utf-8,%22%20+%20encodeURIComponent(source);%20var%20link%20=%20document.createElement(%22a%22);%20link.href%20=%20url;%20link.download%20=%20%22image_%22%20+%20image_id%20+%20%22.svg%22;%20document.body.appendChild(link);%20link.click();%20document.body.removeChild(link);">3️⃣标小智图片下载</a>
-
-<!--wechatfans end-->
+[懒人版](https://www.wangdu.site/software/ui/2053.html)
 
 ## 标点狗
 

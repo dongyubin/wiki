@@ -1,8 +1,8 @@
-import { createRequire } from 'module'
+// import { createRequire } from 'module'
 import { defineConfig, type DefaultTheme } from 'vitepress'
 
-const require = createRequire(import.meta.url)
-const pkg = require('vitepress/package.json')
+// const require = createRequire(import.meta.url)
+// const pkg = require('vitepress/package.json')
 
 export const zh = defineConfig({
   lang: 'zh-Hans',
@@ -56,7 +56,7 @@ export const zh = defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: '软件',
+      text: '🛠️ 软件',
       link: '/zh/software/search-engines',
       activeMatch: '/zh/software/'
     },
@@ -135,8 +135,6 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: '搜索引擎', link: 'search-engines' },
-
-
         { text: '在线影视', link: 'online-movie' },
 
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
