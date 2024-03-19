@@ -10,7 +10,7 @@ export const zh = defineConfig({
 
   themeConfig: {
     nav: nav(),
-    
+
     sidebar: {
       '/zh/guide/': { base: '/zh/guide/', items: sidebarGuide() },
       '/zh/software/': { base: '/zh/software/', items: sidebarReference() }
@@ -56,12 +56,12 @@ export const zh = defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: '软件',
+      text: '🛠️ 软件',
       link: '/zh/software/image-compress',
       activeMatch: '/zh/software/'
     },
     {
-      text: '指南',
+      text: '📚 指南',
       link: '/zh/guide/bp-gdsj',
       activeMatch: '/zh/guide/'
     },
