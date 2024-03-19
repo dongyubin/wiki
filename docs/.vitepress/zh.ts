@@ -56,8 +56,8 @@ export const zh = defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: '🛠️ 软件',
-      link: '/zh/software/image-compress',
+      text: '软件',
+      link: '/zh/software/search-engines',
       activeMatch: '/zh/software/'
     },
     {
@@ -88,7 +88,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: '白嫖稿定设计', link: 'bp-gdsj' },
-        
+
         // { text: '快速开始', link: 'getting-started' },
         // { text: '路由', link: 'routing' },
         // { text: '部署', link: 'deploy' }
@@ -134,32 +134,70 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       text: '软件',
       collapsed: false,
       items: [
-        { text: '图片压缩', link: 'image-compress' },
-        { text: '图片消除背景', link: 'image-remove-background' },
+        { text: '搜索引擎', link: 'search-engines' },
+
+
+        { text: '在线影视', link: 'online-movie' },
+
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
         // { text: 'CLI', link: 'cli' },
         // {
-          // text: '默认主题',
-          // base: '/zh/reference/default-theme-',
-          // items: [
-          //   { text: '概览', link: 'config' },
-          //   { text: '导航栏', link: 'nav' },
-          //   { text: '侧边栏', link: 'sidebar' },
-          //   { text: '主页', link: 'home-page' },
-          //   { text: '页脚', link: 'footer' },
-          //   { text: '布局', link: 'layout' },
-          //   { text: '徽章', link: 'badge' },
-          //   { text: '团队页', link: 'team-page' },
-          //   { text: '上下页链接', link: 'prev-next-links' },
-          //   { text: '编辑链接', link: 'edit-link' },
-          //   { text: '最后更新时间戳', link: 'last-updated' },
-          //   { text: '搜索', link: 'search' },
-          //   { text: 'Carbon Ads', link: 'carbon-ads' }
-          // ]
+        // text: '默认主题',
+        // base: '/zh/reference/default-theme-',
+        // items: [
+        //   { text: '概览', link: 'config' },
+        //   { text: '导航栏', link: 'nav' },
+        //   { text: '侧边栏', link: 'sidebar' },
+        //   { text: '主页', link: 'home-page' },
+        //   { text: '页脚', link: 'footer' },
+        //   { text: '布局', link: 'layout' },
+        //   { text: '徽章', link: 'badge' },
+        //   { text: '团队页', link: 'team-page' },
+        //   { text: '上下页链接', link: 'prev-next-links' },
+        //   { text: '编辑链接', link: 'edit-link' },
+        //   { text: '最后更新时间戳', link: 'last-updated' },
+        //   { text: '搜索', link: 'search' },
+        //   { text: 'Carbon Ads', link: 'carbon-ads' }
+        // ]
         // }
       ]
-    }
+    },
+    {
+      text: 'Windows',
+      collapsed: true,
+      items: [
+        { text: 'PE系统', link: 'windows-pe-system' },
+        { text: '激活工具', link: 'windows-active-software' },
+        { text: '必备工具', link: 'windows-essential-software' },
+        { text: '桌面整理', link: 'windows-desktop-organization' }
+      ]
+    },
+    {
+      text: 'MacOS',
+      collapsed: true,
+      items: [
+        { text: 'Mac软件下载网站', link: 'mac-software-download' },
+      ]
+    },
+    {
+      text: '图片',
+      collapsed: true,
+      items: [
+        { text: 'emoji网站合集', link: 'image-emoji' },
+        { text: '图片免费无版权', link: 'image-free' },
+        { text: '图片压缩', link: 'image-compress' },
+        { text: '图片消除背景', link: 'image-remove-background' },
+      ]
+    },
+    {
+      text: '办公',
+      collapsed: true,
+      items: [
+        { text: '压缩软件', link: 'work-compression-software' },
+        { text: '剪贴板', link: 'work-clipboard' }
+      ]
+    },
   ]
 }
 
