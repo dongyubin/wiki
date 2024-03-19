@@ -184,6 +184,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       text: '图片',
       collapsed: true,
       items: [
+        { text: '免费logo设计网站', link: 'image-logo' },
         { text: 'emoji网站合集', link: 'image-emoji' },
         { text: '图片免费无版权', link: 'image-free' },
         { text: '图片压缩', link: 'image-compress' },
