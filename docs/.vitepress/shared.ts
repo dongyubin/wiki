@@ -43,6 +43,7 @@ export const shared = defineConfig({
     ['meta', { property: 'og:site_name', content: '文武软件百科' }],
     // ['meta', { property: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg' }],
     ['meta', { property: 'og:url', content: 'https://wiki.wangdu.site' }],
+    ['script', { src: 'https://font.wangdu.site/script.js', 'data-website-id': 'f1d6d35a-b736-4702-95dd-03bf623debf3' }]
     // ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
   ],
 
@@ -51,7 +52,7 @@ export const shared = defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/dongyubin' },
-      { icon: 'twitter', link: 'https://twitter.com/wwkjs666'}
+      { icon: 'twitter', link: 'https://twitter.com/wwkjs666' }
     ],
     search: {
       provider: 'local'
