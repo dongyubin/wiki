@@ -54,20 +54,20 @@ export const shared = defineConfig({
       { icon: 'github', link: 'https://github.com/dongyubin' },
       { icon: 'twitter', link: 'https://twitter.com/wwkjs666' }
     ],
-    search: {
-      provider: 'local'
-    }
-
     // search: {
-    //   provider: 'algolia',
-    //   options: {
-    //     appId: '3VYJU9Z80S',
-    //     apiKey: '5eb8f34b5a1c5bfae437627bb529d01e',
-    //     indexName: 'dev_wiki',
-    //     locales: { ...zhSearch}
-    //     // locales: { ...zhSearch, ...ptSearch }
-    //   }
-    // },
+    //   provider: 'local'
+    // }
+
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'I6ACIL0K09',
+        apiKey: '7873521a47b0fffb076ec2f7b978efc2',
+        indexName: 'wangdu',
+        locales: { ...zhSearch }
+        // locales: { ...zhSearch, ...ptSearch }
+      }
+    },
 
     // carbonAds: { code: 'CEBDT27Y', placement: 'vuejsorg' }
   }
