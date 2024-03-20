@@ -2,6 +2,8 @@
 
 [WordPress AI文章总结插件获取地址](https://www.wangdu.site/course/2050.html)
 
+（如有不能访问的官网，请富强上网试试）
+
 ## 通用设置
 
 ### 正文最大长度
@@ -31,6 +33,9 @@
      - `moonshot-v1-8k`: 它是一个长度为 8k 的模型，适用于生成短文本。
      - `moonshot-v1-32k`: 它是一个长度为 32k 的模型，适用于生成长文本。
      - `moonshot-v1-128k`: 它是一个长度为 128k 的模型，适用于生成超长文本。
+   - [OpenRouter](https://openrouter.ai/)：`https://openrouter.ai/api/v1`（[获取 API 密钥](https://openrouter.ai/keys)、[API使用情况](https://openrouter.ai/activity)）
+     - `openai/gpt-3.5-turbo`
+     - [其他模型介绍](https://openrouter.ai/docs#models)
 
 ### OpenAI 密钥
 
