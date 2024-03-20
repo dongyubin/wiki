@@ -87,7 +87,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: '白嫖',
       collapsed: false,
       items: [
-        { text: '白嫖稿定设计', link: 'bp-gdsj' },
+        { text: '白嫖京豆/小火箭账号', link: 'free-welfare' },
+        { text: '白嫖稿定设计', link: 'free-gdsj' },
 
         // { text: '快速开始', link: 'getting-started' },
         // { text: '路由', link: 'routing' },
