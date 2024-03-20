@@ -62,7 +62,7 @@ function nav(): DefaultTheme.NavItem[] {
     },
     {
       text: '📚 指南',
-      link: '/zh/guide/bp-gdsj',
+      link: '/zh/guide/free-welfare',
       activeMatch: '/zh/guide/'
     },
     {
