@@ -84,7 +84,7 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '指南',
+      text: '白嫖',
       collapsed: false,
       items: [
         { text: '白嫖稿定设计', link: 'bp-gdsj' },
@@ -94,17 +94,17 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         // { text: '部署', link: 'deploy' }
       ]
     },
-    // {
-    //   text: '写作',
-    //   collapsed: false,
-    //   items: [
-    //     { text: 'Markdown 扩展', link: 'markdown' },
-    //     { text: '资源处理', link: 'asset-handling' },
-    //     { text: 'frontmatter', link: 'frontmatter' },
-    //     { text: '在 Markdown 使用 Vue', link: 'using-vue' },
-    //     { text: '国际化', link: 'i18n' }
-    //   ]
-    // },
+    {
+      text: '编程',
+      collapsed: true,
+      items: [
+        { text: 'VitePress 踩坑', link: 'vitepress-vercel' },
+        // { text: '资源处理', link: 'asset-handling' },
+        // { text: 'frontmatter', link: 'frontmatter' },
+        // { text: '在 Markdown 使用 Vue', link: 'using-vue' },
+        // { text: '国际化', link: 'i18n' }
+      ]
+    },
     // {
     //   text: '自定义',
     //   collapsed: false,
@@ -124,7 +124,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     //     { text: 'sitemap 生成', link: 'sitemap-generation' }
     //   ]
     // },
-    { text: '软件', base: '/zh/software/', link: 'image-compress' }
+    { text: '软件', base: '/zh/software/', link: 'search-engines' }
   ]
 }
 
