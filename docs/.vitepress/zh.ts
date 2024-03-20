@@ -104,6 +104,13 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         // { text: 'frontmatter', link: 'frontmatter' },
         // { text: '在 Markdown 使用 Vue', link: 'using-vue' },
         // { text: '国际化', link: 'i18n' }
+        {
+          text: 'WordPress',
+          collapsed: false,
+          items: [
+            { text: 'AI Article Summary', link: 'wordpress-ai-article-summary' },
+          ]
+        },
       ]
     },
     // {

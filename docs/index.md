@@ -12,7 +12,7 @@ hero:
       link: /zh/software/search-engines
     - theme: alt
       text: 指南
-      link: /zh/guide/bp-gdsj
+      link: /zh/guide/free-welfare
     - theme: alt
       text: GitHub
       link: https://github.com/dongyubin
