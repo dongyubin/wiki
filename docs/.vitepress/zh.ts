@@ -1,26 +1,17 @@
 // import { createRequire } from 'module'
 import { defineConfig, type DefaultTheme } from 'vitepress'
-import { rss } from './genFeed'
 // const require = createRequire(import.meta.url)
 // const pkg = require('vitepress/package.json')
 
-import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 
-const RSS: RSSOptions = {
-  title: "文武软件百科",
-  baseUrl: `https://wiki.wangdu.site`,
-  copyright: "Copyright (c) 文武软件百科",
-  filename: "rss.xml",
-};
+
+
 
 export const zh = defineConfig({
   lang: 'zh-Hans',
   // description: '由 Vite 和 Vue 驱动的静态站点生成器',
   cleanUrls: true,
-  buildEnd: rss,
-  vite: {
-    plugins: [RssPlugin(RSS)]
-  },
+
   themeConfig: {
     nav: nav(),
 
