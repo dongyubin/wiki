@@ -22,7 +22,7 @@ export default defineConfig({
   },
   buildEnd: rss,
   vite: {
-    plugins: [RssPlugin(RSS)]
+    // plugins: [RssPlugin(RSS)]
   },
 
   // themeConfig: {
