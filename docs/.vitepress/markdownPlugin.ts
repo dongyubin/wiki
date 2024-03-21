@@ -3,6 +3,7 @@ import MarkdownIt from "markdown-it";
  * 参考文档
  * [markdown-it 14.1.0 API documentation](https://markdown-it.github.io/markdown-it/)
  * [luoleiorg/docs/.vitepress/markdownPlugin.ts](https://github.com/foru17/luoleiorg/blob/main/docs/.vitepress/markdownPlugin.ts)
+ * [修改 Markdown 图像输出](https://www.hendricks.rocks/articles/modify-markdown-image-output/)
  * @param md 
  */
 const markdownImagePlugin: MarkdownIt.PluginSimple = (md) => {
