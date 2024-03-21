@@ -14,15 +14,15 @@ const RSS: RSSOptions = {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   ...shared,
-  buildEnd: rss,
-  vite: {
-    plugins: [RssPlugin(RSS)]
-  },
   locales: {
     root: { label: '简体中文', ...zh },
     // root: { label: 'English', ...en },
     // zh: { label: '简体中文', ...zh },
     // pt: { label: 'Português', ...pt }
+  },
+  buildEnd: rss,
+  vite: {
+    plugins: [RssPlugin(RSS)]
   },
 
   // themeConfig: {
