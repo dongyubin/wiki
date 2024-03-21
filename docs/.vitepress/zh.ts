@@ -18,6 +18,9 @@ export const zh = defineConfig({
   // description: '由 Vite 和 Vue 驱动的静态站点生成器',
   cleanUrls: true,
   buildEnd: rss,
+  vite: {
+    plugins: [RssPlugin(RSS)]
+  },
   themeConfig: {
     nav: nav(),
 
