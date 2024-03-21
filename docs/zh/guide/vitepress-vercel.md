@@ -191,3 +191,45 @@
 3. 配置成功后，点击左侧栏：Overview，点击 `Restart crawling` 按钮即可重新抓取你网站的页面信息了。
 
    ![Overview](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201054776.webp)
+
+## VitePress 图片放大
+
+[图片放大教程](https://bddxg.top/article/note/vitepress%E4%BC%98%E5%8C%96/%E7%82%B9%E5%87%BB%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7.html)
+
+## VitePress image提示信息
+
+::: code-group
+
+```ts [markdownPlugin.ts]
+// docs/.vitepress/markdownPlugin.ts
+import MarkdownIt from "markdown-it";
+
+const markdownImagePlugin: MarkdownIt.PluginSimple = (md) => {
+  md.renderer.rules.image = (tokens, idx, options, env, self) => {
+    const token = tokens[idx];
+    const src = token.attrGet("src");
+    const alt = token.content;
+    let html = `<img src="${src}" alt="${alt}" title="${alt}">`
+    if (alt) {
+      html = `<figure class="ss-img-wrapper"><img src="${src}" alt="${alt}" title="${alt}"><figcaption>${alt}</figcaption></figure>`
+    }
+    return html;
+  };
+};
+
+export default markdownImagePlugin;
+```
+
+```ts [config.mts]
+// docs/.vitepress/config.mts
+import markdownImagePlugin from './markdownPlugin' // [!code ++]
+export default defineConfig({
+  markdown: { // [!code ++]
+    config: (md) => { // [!code ++]
+      md.use(markdownImagePlugin);// [!code ++]
+    },// [!code ++]
+  }, // [!code ++]
+})
+```
+
+:::

@@ -144,7 +144,8 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: '搜索引擎', link: 'search-engines' },
-        { text: '在线影视', link: 'online-movie' },
+        { text: '在线影视', link: 'play-online-movie' },
+        { text: '小说', link: 'play-novel' },
 
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
@@ -192,6 +193,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       collapsed: true,
       items: [
         { text: '免费logo设计网站', link: 'image-logo' },
+        { text: 'icon&矢量插画', link: 'image-icon-svg' },
         { text: 'emoji网站合集', link: 'image-emoji' },
         { text: '图片免费无版权', link: 'image-free' },
         { text: '图片压缩', link: 'image-compress' },
@@ -203,7 +205,9 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       collapsed: true,
       items: [
         { text: '压缩软件', link: 'work-compression-software' },
-        { text: '剪贴板', link: 'work-clipboard' }
+        { text: '剪贴板', link: 'work-clipboard' },
+        { text: '输入法', link: 'work-shurufa' },
+        { text: '远程桌面', link: 'work-remote-desktop' },
       ]
     },
   ]
