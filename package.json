@@ -1,6 +1,9 @@
 {
+  "name": "wwrjbk",
+  "private": true,
   "type": "module",
   "devDependencies": {
+    "feed": "^4.2.2",
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "1.0.0-rc.45"
   },
@@ -16,5 +19,8 @@
         "search-insights"
       ]
     }
+  },
+  "dependencies": {
+    "vitepress-plugin-rss": "^0.2.2"
   }
 }
