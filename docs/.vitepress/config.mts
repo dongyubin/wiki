@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { zh } from './zh'
 import { shared } from './shared'
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
-// import { rss } from './genFeed'
+import markdownImagePlugin from './markdownPlugin'
 
 const RSS: RSSOptions = {
   title: "文武软件百科",
@@ -19,6 +19,12 @@ export default defineConfig({
     // root: { label: 'English', ...en },
     // zh: { label: '简体中文', ...zh },
     // pt: { label: 'Português', ...pt }
+  },
+  markdown: {
+    lineNumbers: true,
+    config: (md) => {
+      md.use(markdownImagePlugin);
+    },
   },
   // buildEnd: rss,
   vite: {

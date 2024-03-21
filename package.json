@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "devDependencies": {
+    "@types/markdown-it": "^12.2.3",
     "feed": "^4.2.2",
     "markdown-it-mathjax3": "^4.3.2",
-    "vitepress": "1.0.0-rc.45"
+    "vitepress": "1.0.0-rc.45",
+    "vue": "^3.4.5"
   },
   "scripts": {
     "dev": "vitepress dev docs",
@@ -21,6 +23,7 @@
     }
   },
   "dependencies": {
+    "medium-zoom": "^1.1.0",
     "vitepress-plugin-rss": "^0.2.2"
   }
 }

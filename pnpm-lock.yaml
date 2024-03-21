@@ -5,11 +5,17 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  medium-zoom:
+    specifier: ^1.1.0
+    version: 1.1.0
   vitepress-plugin-rss:
     specifier: ^0.2.2
     version: 0.2.2
 
 devDependencies:
+  '@types/markdown-it':
+    specifier: ^12.2.3
+    version: 12.2.3
   feed:
     specifier: ^4.2.2
     version: 4.2.2
@@ -19,6 +25,9 @@ devDependencies:
   vitepress:
     specifier: 1.0.0-rc.45
     version: 1.0.0-rc.45(markdown-it-mathjax3@4.3.2)
+  vue:
+    specifier: ^3.4.5
+    version: 3.4.21
 
 packages:
 
@@ -585,6 +594,13 @@ packages:
     resolution: {integrity: sha512-yg6E+u0/+Zjva+buc3EIb+29XEg4wltq7cSmd4Uc2EE/1nUVmxyzpX6gUXD0V8jIrG0r7YeOGVIbYRkxeooCtw==}
     dev: true
 
+  /@types/markdown-it@12.2.3:
+    resolution: {integrity: sha512-GKMHFfv3458yYy+v/N8gjufHO6MSZKCOXpZc5GXIWWy8uldwfmPn98vp81gZ5f9SVw8YYBctgfJ22a2d7AOMeQ==}
+    dependencies:
+      '@types/linkify-it': 3.0.5
+      '@types/mdurl': 1.0.5
+    dev: true
+
   /@types/markdown-it@13.0.7:
     resolution: {integrity: sha512-U/CBi2YUUcTHBt5tjO2r5QV/x0Po6nsYwQU4Y04fBS6vfoImaiZ6f8bi3CjTCxBPQSO1LMyUqkByzi8AidyxfA==}
     dependencies:
@@ -1140,6 +1156,10 @@ packages:
       mj-context-menu: 0.6.1
       speech-rule-engine: 4.0.7
     dev: true
+
+  /medium-zoom@1.1.0:
+    resolution: {integrity: sha512-ewyDsp7k4InCUp3jRmwHBRFGyjBimKps/AJLjRSox+2q/2H4p/PNpQf+pwONWlJiOudkBXtbdmVbFjqyybfTmQ==}
+    dev: false
 
   /mensch@0.3.4:
     resolution: {integrity: sha512-IAeFvcOnV9V0Yk+bFhYR07O3yNina9ANIN5MoXBKYJ/RLYPurd2d0yw14MDhpr9/momp0WofT1bPUh3hkzdi/g==}

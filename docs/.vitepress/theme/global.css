@@ -1,0 +1,23 @@
+/* docs/.vitepress/theme/global.css */
+/* 图片点击放大优先级调整 */
+.medium-zoom-image {
+  z-index: 9999 !important;
+}
+
+/* 图片底部提示信息 */
+.ss-img-wrapper {
+  position: relative;
+  text-align: center;
+  outline: none;
+  max-width: 100%;
+}
+
+.ss-img-wrapper figcaption {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #8e8787;
+  margin-top: 20px;
+}

@@ -6,7 +6,7 @@
 
 1. 在设计页面按 F12 打开控制台，在 `源代码/来源` 关闭调试
 
-   ![关闭调试](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403191035540.png)
+   ![关闭调试](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403191035540.png "关闭调试")
 
 2. 删除水印代码
 
