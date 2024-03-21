@@ -6,6 +6,9 @@ hero:
   name: "文武软件百科"
   text: "致力于软件的百科全书"
   tagline: 一篇文章一类软件，不分平台
+  image:
+    src: /logo-large.png
+    alt: VitePress
   actions:
     - theme: brand
       text: 软件
