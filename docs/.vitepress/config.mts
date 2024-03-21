@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { zh } from './zh'
 import { shared } from './shared'
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
-import { rss } from './genFeed'
+// import { rss } from './genFeed'
 
 const RSS: RSSOptions = {
   title: "文武软件百科",
@@ -20,9 +20,9 @@ export default defineConfig({
     // zh: { label: '简体中文', ...zh },
     // pt: { label: 'Português', ...pt }
   },
-  buildEnd: rss,
+  // buildEnd: rss,
   vite: {
-    // plugins: [RssPlugin(RSS)]
+    plugins: [RssPlugin(RSS)]
   },
 
   // themeConfig: {
