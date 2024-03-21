@@ -42,6 +42,7 @@ export const shared = defineConfig({
     ['meta', { property: 'og:title', content: '文武软件百科 | 致力于软件的百科全书' }],
     ['meta', { property: 'og:site_name', content: '文武软件百科' }],
     // ['meta', { property: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg' }],
+    ['meta', { name: 'google-site-verification', content: 'KBPn5wrmRqhyywKks4B7wK6kIXpOyxcFpm1FCx4XdR8' }],
     ['meta', { property: 'og:url', content: 'https://wiki.wangdu.site' }],
     ['script', { src: 'https://font.wangdu.site/script.js', 'data-website-id': 'f1d6d35a-b736-4702-95dd-03bf623debf3' }]
     // ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
