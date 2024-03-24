@@ -116,7 +116,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     },
     {
       text: '出海',
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: '出海灵感、工具', link: 'money-indiehackers' },
         // { text: '扩展默认主题', link: 'extending-default-theme' },
