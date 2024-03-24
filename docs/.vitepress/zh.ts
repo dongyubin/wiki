@@ -114,17 +114,17 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         },
       ]
     },
-    // {
-    //   text: '自定义',
-    //   collapsed: false,
-    //   items: [
-    //     { text: '自定义主题', link: 'custom-theme' },
-    //     { text: '扩展默认主题', link: 'extending-default-theme' },
-    //     { text: '构建时数据加载', link: 'data-loading' },
-    //     { text: 'SSR 兼容性', link: 'ssr-compat' },
-    //     { text: '连接 CMS', link: 'cms' }
-    //   ]
-    // },
+    {
+      text: '出海',
+      collapsed: false,
+      items: [
+        { text: '出海灵感、工具', link: 'money-indiehackers' },
+        // { text: '扩展默认主题', link: 'extending-default-theme' },
+        // { text: '构建时数据加载', link: 'data-loading' },
+        // { text: 'SSR 兼容性', link: 'ssr-compat' },
+        // { text: '连接 CMS', link: 'cms' }
+      ]
+    },
     // {
     //   text: '实验性功能',
     //   collapsed: false,
