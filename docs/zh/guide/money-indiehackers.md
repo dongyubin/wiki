@@ -6,6 +6,10 @@ title: 出海导航
 
 - [Decohack Wiki](https://wiki.decohack.com/)：独立开发者的实践手册，旨在帮助有想法的人构建自己的互联网产品。
 
+## 心得
+
+- [想做全职独立开发，要准备好 18 个月的耐心](https://twitter.com/bestlacklock/status/1772091747545539064)（富强访问）
+
 ## 灵感
 
 - [ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益](https://github.com/bleedline/aimoneyhunter)
