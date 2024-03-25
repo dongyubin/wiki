@@ -1,3 +1,7 @@
+---
+title: 小说合集
+---
+
 ![小说合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301021710.jpg)
 
 ## 网页端

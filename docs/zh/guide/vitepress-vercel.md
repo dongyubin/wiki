@@ -1,4 +1,6 @@
-# VitePress 部署踩坑
+---
+title: VitePress 部署踩坑
+---
 
 ## 部署Vercel单独链接访问空白
 

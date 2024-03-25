@@ -1,3 +1,7 @@
+---
+title: WordPress插件 - AI Article Summary
+---
+
 # AI Article Summary
 
 [WordPress AI文章总结插件获取地址](https://www.wangdu.site/course/2050.html)

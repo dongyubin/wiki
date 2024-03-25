@@ -1,3 +1,7 @@
+---
+title: 稿定设计如何去水印
+---
+
 ![稿定设计](https://image.baidu.com/search/down?url=https://gzw.sinaimg.cn/large/006xxuvply1gov37y4fqij32yo1o014l.jpg)
 
 [稿定设计官网](https://www.gaoding.com/)

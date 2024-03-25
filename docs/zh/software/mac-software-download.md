@@ -1,3 +1,7 @@
+---
+title: Mac软件下载网站合集
+---
+
 ![Mac软件下载](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031509800.webp)
 
 PS：需要使用`高速下载`百毒网盘文件的同学，可以看这篇文章：[百毒网盘高速下载](https://www.wangdu.site/software/948.html)

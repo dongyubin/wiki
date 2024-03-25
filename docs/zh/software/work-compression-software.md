@@ -1,4 +1,8 @@
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511162423.png)
+---
+title: 压缩软件合集
+---
+
+![压缩软件合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511162423.png)
 
 ## Windows
 

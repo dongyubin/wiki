@@ -1,3 +1,7 @@
+---
+title: Emoji合集
+---
+
 ![Emoji合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031719852.jpg)
 
 ## [emoji在线工具](https://emoji6.com/)

@@ -1,3 +1,7 @@
+---
+title: 剪贴板历史管理工具
+---
+
 ![剪贴板历史管理](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009739.webp)
 
 ## 软件列表

@@ -1,3 +1,7 @@
+---
+title: 远程桌面控制软件合集
+---
+
 ![远程桌面控制](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202204291620245.png)
 
 ## GotoHTTP

@@ -1,3 +1,7 @@
+---
+title: 消除图片背景
+---
+
 # 消除图片背景
 
 ![消除图片背景](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202208230937342.png)

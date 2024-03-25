@@ -1,4 +1,8 @@
-![](https://tucang.cc/api/image/show/4311b1bdbafeeb207bc4827df5588efa)
+---
+title: PE系统
+---
+
+![PE系统](https://tucang.cc/api/image/show/4311b1bdbafeeb207bc4827df5588efa)
 
 ## [微 PE 工具箱](http://www.wepe.com.cn/download.html "微 PE 工具箱")
 一款比较干净地PE系统，只需要插上U盘，点击立即安装就可以将PE系统写入U盘。

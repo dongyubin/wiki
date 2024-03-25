@@ -1,3 +1,7 @@
+---
+title: Windows激活工具
+---
+
 ![Windows激活工具](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291051445.webp)
 
 [Windows数字许可证激活和密钥激活到底有什么不同?](http://mp.weixin.qq.com/s?__biz=MzU0NzA2MTQ3Mw==&mid=2247484428&idx=1&sn=5240646d01865cf909ce48500fd92b4a&chksm=fb556f82cc22e694c89ca5b01794371931904ac067e531f9d6a478cccc55c3f88ab992f994fe#rd)
