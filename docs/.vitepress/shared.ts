@@ -5,11 +5,9 @@ import { search as zhSearch } from './zh'
 export const shared = defineConfig({
   title: "文武软件百科",
   description: "致力于软件的百科全书",
-
   lastUpdated: true,
-  cleanUrls: true,
+  // cleanUrls: true,
   metaChunk: true,
-
 
   sitemap: {
     hostname: 'https://wiki.wangdu.site',
