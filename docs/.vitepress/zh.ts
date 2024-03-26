@@ -6,7 +6,7 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 export const zh = defineConfig({
   lang: 'zh-Hans',
   // description: '由 Vite 和 Vue 驱动的静态站点生成器',
-  cleanUrls: true,
+  // cleanUrls: true,
 
   themeConfig: {
     nav: nav(),
