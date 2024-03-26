@@ -13,7 +13,7 @@ const markdownImagePlugin: MarkdownIt.PluginSimple = (md) => {
     const alt = token.content;
     let html = `<img src="${src}" alt="${alt}" title="${alt}">`
     if (alt) {
-      html = `<figure class="ss-img-wrapper"><img src="${src}" alt="${alt}" title="${alt}"><figcaption>${alt}</figcaption></figure>`
+      html = `<img src="${src}" alt="${alt}" title="${alt}"><span>${alt}</span>`
     }
     return html;
   };

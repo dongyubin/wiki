@@ -4,20 +4,16 @@
   z-index: 9999 !important;
 }
 
-/* 图片底部提示信息 */
-.ss-img-wrapper {
-  position: relative;
+p:has(img, span) {
   text-align: center;
-  outline: none;
-  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.ss-img-wrapper figcaption {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 16px;
-  text-align: center;
+/* 为了确保支持不同的浏览器，请为 span 设置 display 属性 */
+p:has(img) span {
+  display: inline-block;
+  /* 或者您可以选择 flex 或 inline-flex，取决于您的需求 */
   color: #8e8787;
-  margin-top: 20px;
 }
