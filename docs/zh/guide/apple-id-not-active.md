@@ -27,11 +27,11 @@ This Apple ID is not active.
 ### 恢复方法：在线客服
 
 
->📌提醒：
->
-> 提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
-> 
+::: tip
 
+提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
+
+:::
 
 1. 打开 [Apple官网](https://www.apple.com/)，拉到页面底部，点击 `Manage Your Apple ID` （注意：右下角为：United States）
 
