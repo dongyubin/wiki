@@ -6,7 +6,7 @@
     "@types/markdown-it": "^12.2.3",
     "feed": "^4.2.2",
     "markdown-it-mathjax3": "^4.3.2",
-    "vitepress": "1.0.0-rc.45",
+    "vitepress": "1.0.1",
     "vue": "^3.4.5"
   },
   "scripts": {
