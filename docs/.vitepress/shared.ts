@@ -5,6 +5,7 @@ import { search as zhSearch } from './zh'
 export const shared = defineConfig({
   title: "文武软件百科",
   description: "致力于软件的百科全书",
+  base: '/',
   lastUpdated: true,
   // cleanUrls: true,
   metaChunk: true,
@@ -15,11 +16,6 @@ export const shared = defineConfig({
       return items.filter((item) => !item.url.includes('migration'))
     }
   },
-
-  // head: [
-  //   ['link', {rel: 'icon', href: 'public/favicon.ico'}]
-  // ],
-  /* prettier-ignore */
   head: [
     // ['link', { rel: 'icon', type: 'image/svg+xml', href: '/vitepress-logo-mini.svg' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
