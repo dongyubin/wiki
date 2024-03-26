@@ -25,6 +25,15 @@ export default defineConfig({
     config: (md) => {
       md.use(markdownImagePlugin);
     },
+    math: true,
+    codeTransformers: [
+      // We use `[!!code` in demo to prevent transformation, here we revert it back.
+      {
+        postprocess(code) {
+          return code.replace(/\[\!\!code/g, '[!code')
+        }
+      }
+    ],
     container: {
       tipLabel: '提示',
       warningLabel: '警告',
