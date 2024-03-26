@@ -4,7 +4,7 @@ title: Apple ID
 
 ## 这个Apple ID没有被激活？你的id已被禁用/停用怎么办？
 
-```
+```sh
 This Apple ID is not active.
 ```
 
@@ -50,7 +50,7 @@ This Apple ID is not active.
 
 7. 再点击`"The Apple ID is not active" alert`
 
-   !["The Apple ID is not active" alert](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261050196.webp)
+   ![The Apple ID is not active alert](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261050196.webp)
 
 8. 选择：`Chat`
 
