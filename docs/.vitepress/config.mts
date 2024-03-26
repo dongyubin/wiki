@@ -26,9 +26,9 @@ export default defineConfig({
   },
   markdown: {
     lineNumbers: true,
-    config: (md) => {
-      md.use(markdownImagePlugin);
-    },
+    // config: (md) => {
+    //   md.use(markdownImagePlugin);
+    // },
     math: true,
     codeTransformers: [
       // We use `[!!code` in demo to prevent transformation, here we revert it back.
