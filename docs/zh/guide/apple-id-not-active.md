@@ -27,12 +27,6 @@ This Apple ID is not active.
 ### 恢复方法：在线客服
 
 
-::: tip
-
-提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
-
-:::
-
 1. 打开 [Apple官网](https://www.apple.com/)，拉到页面底部，点击 `Manage Your Apple ID` （注意：右下角为：United States）
 
    ![Manage Your Apple ID](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261042999.webp)
@@ -59,7 +53,7 @@ This Apple ID is not active.
 
 7. 再点击`"The Apple ID is not active" alert`
 
-   ![The Apple ID is not active alert](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261050196.webp)
+   ![The Apple ID is not active](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261050196.webp)
 
 8. 选择：`Chat`
 
@@ -83,3 +77,10 @@ This Apple ID is not active.
     ```
 
    ![与Apple ID客服聊天截图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261059669.webp)
+
+
+::: tip
+
+提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
+
+:::
