@@ -125,14 +125,14 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         // { text: '连接 CMS', link: 'cms' }
       ]
     },
-    // {
-    //   text: '实验性功能',
-    //   collapsed: false,
-    //   items: [
-    //     { text: 'MPA 模式', link: 'mpa-mode' },
-    //     { text: 'sitemap 生成', link: 'sitemap-generation' }
-    //   ]
-    // },
+    {
+      text: 'Apple ID',
+      collapsed: true,
+      items: [
+        { text: '帐号解锁与找回', link: 'apple-id-not-active' },
+        // { text: 'sitemap 生成', link: 'sitemap-generation' }
+      ]
+    },
     { text: '软件', base: '/zh/software/', link: 'search-engines' }
   ]
 }

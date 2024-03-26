@@ -31,3 +31,12 @@ title: 出海导航
 - [Indie Makers Tools](https://www.indiemakers.tools/)（国外）
 - [The repo of tools made by indie hackers](https://www.indiehacker.tools/)（国外）
 - [Indie Hackers Wiki](https://indiehackers.wiki/)（国外）
+
+## SEO优化
+
+- [怎么做seo-搜索引擎优化？](https://twitter.com/Yangyixxxx/status/1772270074516410716)（富强访问）
+
+## 出海项目
+
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): 开源在线PDF工具
+- [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search?tab=readme-ov-file): RAG Search API
