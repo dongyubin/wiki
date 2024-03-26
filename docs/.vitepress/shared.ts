@@ -10,6 +10,7 @@ export const shared = defineConfig({
   cleanUrls: true,
   metaChunk: true,
 
+
   sitemap: {
     hostname: 'https://wiki.wangdu.site',
     transformItems(items) {
@@ -26,6 +27,7 @@ export const shared = defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
     ['meta', { name: 'keywords', content: '教程,资源,电影,软件,software,tutorial,tip,wiki,文武软件百科,科技' }],
+    ['meta', { name: "description", content: "文武软件百科，致力于软件的百科全书，内容主题涉及软件、电影、指南、出海等领域。" }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'zh' }],
     ['meta', { property: 'og:title', content: '文武软件百科 | 致力于软件的百科全书' }],
