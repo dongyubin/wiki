@@ -1,5 +1,5 @@
 ---
-title: Apple ID
+title: 解决办法：这个Apple ID没有被激活
 ---
 
 ## 这个Apple ID没有被激活？你的id已被禁用/停用怎么办？
