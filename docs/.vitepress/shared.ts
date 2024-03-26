@@ -26,7 +26,7 @@ export const shared = defineConfig({
     ['meta', { property: 'og:locale', content: 'zh' }],
     ['meta', { property: 'og:title', content: '文武软件百科 | 致力于软件的百科全书' }],
     ['meta', { property: 'og:site_name', content: '文武软件百科' }],
-    ['meta', { property: 'og:image', content: '/og.png' }],
+    ['meta', { property: 'og:image', content: 'https://wiki.wangdu.site/og.png' }],
     ['meta', { name: "og:description", content: "文武软件百科，致力于软件的百科全书，内容主题涉及软件、电影、小说、音乐、指南、出海等领域。" }],
     ['meta', { property: 'og:url', content: 'https://wiki.wangdu.site' }],
     ['meta', { name: 'google-site-verification', content: 'KBPn5wrmRqhyywKks4B7wK6kIXpOyxcFpm1FCx4XdR8' }],
@@ -35,7 +35,7 @@ export const shared = defineConfig({
     ['meta', { property: 'twitter:creator', content: '@wwkjs666' }],
     ['meta', { property: 'twitter:title', content: '文武软件百科 | 致力于软件的百科全书' }],
     ['meta', { property: 'twitter:site', content: '文武软件百科' }],
-    ['meta', { property: 'twitter:image', content: '/og.png' }],
+    ['meta', { property: 'twitter:image', content: 'https://wiki.wangdu.site/og.png' }],
     ['meta', { property: 'twitter:description', content: '致力于软件的百科全书' }]
     // ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
   ],
