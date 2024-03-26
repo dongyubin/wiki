@@ -71,7 +71,7 @@ This Apple ID is not active.
 
 10. 聊天话术（将 xxx 改为自己的信息即可，搭配 [翻译软件](https://www.wangdu.site/software/bangongyingyong/584.html) 一起使用）
 
-    ```
+    ```sh
     //我的账号提示：这个Apple ID没有被激活
     My account prompt: This Apple ID has not been activated.
     
