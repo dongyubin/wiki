@@ -79,8 +79,5 @@ This Apple ID is not active.
    ![与Apple ID客服聊天截图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261059669.webp)
 
 
-::: tip
-
-提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
-
-:::
+> [!TIP]
+> 提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）
