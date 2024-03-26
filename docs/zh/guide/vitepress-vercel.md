@@ -235,3 +235,16 @@ export default defineConfig({
 ```
 
 :::
+
+## 解决 HTML 压缩导致 VitePress 异常
+
+```js
+Hydration completed but contains mismatches.
+```
+
+![CloudFlare关闭Auto Minify](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261605468.png)
+
+### 参考链接
+
+- [https://github.com/vuejs/vitepress/issues/1143#issuecomment-1212374302](https://github.com/vuejs/vitepress/issues/1143#issuecomment-1212374302)
+- [解决 HTML 压缩导致 VitePress 异常 - 清北博客](https://blog.tsinbei.com/archives/1237/)
