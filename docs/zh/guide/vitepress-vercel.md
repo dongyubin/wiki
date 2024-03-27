@@ -2,6 +2,12 @@
 title: VitePress 部署踩坑
 ---
 
+## 部署教程
+
+- [VitePress官网](https://vitepress.dev/zh/)
+- [VitePress](https://vitepress.qzxdp.cn/)
+- [VitePress](https://vitepress.yiov.top/)
+
 ## 部署Vercel单独链接访问空白
 
 1. 在项目根目录创建 vercel.json 文件
@@ -54,7 +60,7 @@ title: VitePress 部署踩坑
 2. 点击左侧栏：Editor，修改左侧代码（[VitePress爬虫配置](https://vitepress.dev/zh/reference/default-theme-search#crawler-config)），可以使用下面我的代码，记得`将其中的信息修改为自己真实信息`；修改完可以在右侧输入`自己的网址`，点击 `Run Test` 看看是否能否抓取成功。
 
    ![Editor](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201049552.webp)
-
+   ::: details 点我查看代码
    ```js
    new Crawler({
      rateLimit: 8,
@@ -189,6 +195,7 @@ title: VitePress 部署踩坑
      apiKey: "自己的apiKey",
    });
    ```
+   :::
 
 3. 配置成功后，点击左侧栏：Overview，点击 `Restart crawling` 按钮即可重新抓取你网站的页面信息了。
 
@@ -213,7 +220,7 @@ const markdownImagePlugin: MarkdownIt.PluginSimple = (md) => {
     const alt = token.content;
     let html = `<img src="${src}" alt="${alt}" title="${alt}">`
     if (alt) {
-      html = `<figure class="ss-img-wrapper"><img src="${src}" alt="${alt}" title="${alt}"><figcaption>${alt}</figcaption></figure>`
+      html = `<img src="${src}" alt="${alt}" title="${alt}"><span>${alt}</span>`
     }
     return html;
   };
@@ -234,6 +241,50 @@ export default defineConfig({
 })
 ```
 
+```css [global.css]
+/* docs/.vitepress/theme/global.css */
+p:has(img, span) {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 为了确保支持不同的浏览器，请为 span 设置 display 属性 */
+p:has(img) span {
+  display: inline-block;
+  /* 或者您可以选择 flex 或 inline-flex，取决于您的需求 */
+  color: #8e8787;
+}
+```
+
+```ts [index.ts]
+// docs/.vitepress/theme/index.ts
+import DefaultTheme from 'vitepress/theme'
+import { onMounted, watch, nextTick } from 'vue'
+import { useRoute } from 'vitepress'
+import mediumZoom from 'medium-zoom'
+import './global.css' // [!code ++]
+
+export default {
+  ...DefaultTheme,
+  setup() {
+    const route = useRoute()
+    const initZoom = () => {
+      // 不显式添加{data-zoomable}的情况下为所有图像启用此功能
+      mediumZoom('.main img', { background: 'var(--vp-c-bg)' })
+    }
+    onMounted(() => {
+      initZoom()
+    })
+    watch(
+      () => route.path,
+      () => nextTick(() => initZoom())
+    )
+  },
+}
+```
+
 :::
 
 ## 解决 HTML 压缩导致 VitePress 异常
@@ -246,5 +297,5 @@ Hydration completed but contains mismatches.
 
 ### 参考链接
 
-- [https://github.com/vuejs/vitepress/issues/1143#issuecomment-1212374302](https://github.com/vuejs/vitepress/issues/1143#issuecomment-1212374302)
-- [解决 HTML 压缩导致 VitePress 异常 - 清北博客](https://blog.tsinbei.com/archives/1237/)
+- [github issue](https://github.com/vuejs/vitepress/issues/1143#issuecomment-1212374302)
+- [解决 HTML 压缩导致 VitePress 异常](https://blog.tsinbei.com/archives/1237/)
