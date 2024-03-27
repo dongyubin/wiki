@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 软件
-      link: /zh/software/search-engines
+      link: /software/search-engines
     - theme: alt
       text: 指南
-      link: /zh/guide/free-welfare
+      link: /guide/free-welfare
     - theme: alt
       text: GitHub
       link: https://github.com/dongyubin
