@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { zh } from './zh'
+import { en } from './en'
 import { shared } from './shared'
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 import markdownImagePlugin from './markdownPlugin'
@@ -16,7 +17,7 @@ export default defineConfig({
   ...shared,
   locales: {
     root: { label: '简体中文', ...zh },
-    // root: { label: 'English', ...en },
+    en: { label: 'English', ...en },
     // pt: { label: 'Português', ...pt }
   },
 

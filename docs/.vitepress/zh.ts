@@ -12,8 +12,8 @@ export const zh = defineConfig({
     nav: nav(),
 
     sidebar: {
-      '/zh/guide/': { base: '/zh/guide/', items: sidebarGuide() },
-      '/zh/software/': { base: '/zh/software/', items: sidebarReference() }
+      '/guide/': { base: '/guide/', items: sidebarGuide() },
+      '/software/': { base: '/software/', items: sidebarReference() }
     },
 
     editLink: {
@@ -58,13 +58,13 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: '🛠️ 软件',
-      link: '/zh/software/search-engines',
-      activeMatch: '/zh/software/'
+      link: '/software/search-engines',
+      activeMatch: '/software/'
     },
     {
       text: '📚 指南',
-      link: '/zh/guide/free-welfare',
-      activeMatch: '/zh/guide/'
+      link: '/guide/free-welfare',
+      activeMatch: '/guide/'
     },
     {
       // text: pkg.version,
@@ -120,7 +120,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '帐号解锁与找回', link: 'apple-id-not-active' },
       ]
     },
-    { text: '软件', base: '/zh/software/', link: 'search-engines' }
+    { text: '软件', base: '/software/', link: 'search-engines' }
   ]
 }
 

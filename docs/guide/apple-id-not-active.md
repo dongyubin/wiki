@@ -8,6 +8,8 @@ title: 解决办法：这个Apple ID没有被激活
 
 ```sh
 This Apple ID is not active.
+
+Your Apple ID or password was incorrect.
 ```
 
 ![This Apple ID is not active.](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261031120.webp)
