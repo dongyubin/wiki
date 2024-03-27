@@ -120,6 +120,20 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '帐号解锁与找回', link: 'apple-id-not-active' },
       ]
     },
+    {
+      text: 'AI 工具',
+      collapsed: true,
+      items: [
+        {
+          text: 'ChatGPT',
+          collapsed: false,
+          items: [
+            { text: 'Coze 搭建 ChatGPT4', link: 'ai-coze-chatgpt4' },
+          ]
+        },
+
+      ]
+    },
     { text: '软件', base: '/software/', link: 'search-engines' }
   ]
 }
@@ -179,11 +193,12 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       text: '图片',
       collapsed: true,
       items: [
-        { text: '免费logo设计网站', link: 'image-logo' },
-        { text: 'icon&矢量插画', link: 'image-icon-svg' },
-        { text: 'emoji网站合集', link: 'image-emoji' },
+        { text: '免费 Logo 设计网站', link: 'image-logo' },
+        { text: 'ICON & 矢量插画', link: 'image-icon-svg' },
+        { text: 'Emoji 网站合集', link: 'image-emoji' },
         { text: '图片免费无版权', link: 'image-free' },
         { text: '图片压缩', link: 'image-compress' },
+        { text: 'GIF 图片压缩', link: 'image-gif-compress' },
         { text: '图片消除背景', link: 'image-remove-background' },
       ]
     },
@@ -195,6 +210,21 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '剪贴板', link: 'work-clipboard' },
         { text: '输入法', link: 'work-shurufa' },
         { text: '远程桌面', link: 'work-remote-desktop' },
+      ]
+    },
+    {
+      text: 'AI 工具',
+      collapsed: true,
+      items: [
+        { text: 'AI 工具合集', link: 'ai-tools' },
+        {
+          text: 'ChatGPT',
+          collapsed: false,
+          items: [
+            { text: '免费使用 ChatGPT', link: 'ai-chatgpt-api' },
+          ]
+        },
+
       ]
     },
   ]
