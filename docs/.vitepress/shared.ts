@@ -7,7 +7,7 @@ export const shared = defineConfig({
   description: "致力于软件的百科全书",
   base: '/',
   lastUpdated: true,
-  // cleanUrls: true,
+  cleanUrls: true,
   metaChunk: true,
 
   sitemap: {
