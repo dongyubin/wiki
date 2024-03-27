@@ -8,7 +8,7 @@ hero:
   tagline: 一篇文章一类软件，不分平台
   image:
     src: /logo-large.png
-    alt: VitePress
+    alt: 文武软件百科
   actions:
     - theme: brand
       text: 软件
