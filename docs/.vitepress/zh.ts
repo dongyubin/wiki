@@ -96,7 +96,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: '编程',
       collapsed: true,
       items: [
-        { text: 'VitePress 踩坑', link: 'vitepress-vercel' },
+        { text: 'Python', link: 'code-python' },
+        { text: 'VitePress', link: 'code-vitepress-vercel' },
         {
           text: 'WordPress',
           collapsed: false,
@@ -147,6 +148,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '搜索引擎', link: 'search-engines' },
         { text: '在线影视', link: 'play-online-movie' },
         { text: '小说', link: 'play-novel' },
+        { text: '动漫', link: 'play-anime' },
 
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
@@ -179,7 +181,8 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: 'PE系统', link: 'windows-pe-system' },
         { text: '激活工具', link: 'windows-active-software' },
         { text: '必备工具', link: 'windows-essential-software' },
-        { text: '桌面整理', link: 'windows-desktop-organization' }
+        { text: '桌面整理', link: 'windows-desktop-organization' },
+        { text: '文件管理器', link: 'windows-file-management' },
       ]
     },
     {
@@ -200,6 +203,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '图片压缩', link: 'image-compress' },
         { text: 'GIF 图片压缩', link: 'image-gif-compress' },
         { text: '图片消除背景', link: 'image-remove-background' },
+        { text: '图片去水印', link: 'image-remove-watermark' }
       ]
     },
     {
@@ -210,6 +214,8 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '剪贴板', link: 'work-clipboard' },
         { text: '输入法', link: 'work-shurufa' },
         { text: '远程桌面', link: 'work-remote-desktop' },
+        { text: '录屏软件', link: 'work-screen-recording' },
+        { text: '实时显示按键&教鞭工具', link: 'work-keyboard-teaching' }
       ]
     },
     {
