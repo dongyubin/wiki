@@ -1,7 +1,15 @@
 /* docs/.vitepress/theme/global.css */
 /* 图片点击放大优先级调整 */
-.medium-zoom-image {
+/* .medium-zoom-image {
   z-index: 9999 !important;
+} */
+
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image--opened {
+  z-index: 31;
 }
 
 p:has(img, span) {

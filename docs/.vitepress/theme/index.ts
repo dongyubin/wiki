@@ -11,7 +11,8 @@ export default {
     const route = useRoute()
     const initZoom = () => {
       // 不显式添加{data-zoomable}的情况下为所有图像启用此功能
-      mediumZoom('.main img', { background: 'var(--vp-c-bg)' })
+      // mediumZoom('.main img', { background: 'var(--vp-c-bg)' })
+      mediumZoom('.main img', { background: 'var(--vp-c-bg)' });
     }
     onMounted(() => {
       initZoom()
