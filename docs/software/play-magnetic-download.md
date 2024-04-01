@@ -131,7 +131,7 @@ title: 磁力下载
 
 回复关键词：**20200812**
 
-[付费获取资源，快人一步！](https://fk.wangdu.site/buy/4)
+[付费获取资源，快人一步！](https://fk.wwkejishe.top/buy/4)
 
 ### 不推荐系列
 
