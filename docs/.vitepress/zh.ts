@@ -149,7 +149,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '在线影视', link: 'play-online-movie' },
         { text: '小说', link: 'play-novel' },
         { text: '动漫', link: 'play-anime' },
-
+        { text: '磁力搜索', link: 'play-magnetic-search' },
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
         // { text: 'CLI', link: 'cli' },
@@ -183,6 +183,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '必备工具', link: 'windows-essential-software' },
         { text: '桌面整理', link: 'windows-desktop-organization' },
         { text: '文件管理器', link: 'windows-file-management' },
+        { text: '硬件工具箱', link: 'windows-hardware-toolbox' },
       ]
     },
     {
@@ -215,7 +216,9 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '输入法', link: 'work-shurufa' },
         { text: '远程桌面', link: 'work-remote-desktop' },
         { text: '录屏软件', link: 'work-screen-recording' },
-        { text: '实时显示按键&教鞭工具', link: 'work-keyboard-teaching' }
+        { text: '实时显示按键&教鞭工具', link: 'work-keyboard-teaching' },
+        { text: '思维导图', link: 'work-mind-map' },
+        { text: 'windows-硬件工具箱', link: 'windows-hardware-toolbox' },
       ]
     },
     {
