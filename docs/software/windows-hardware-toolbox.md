@@ -7,7 +7,7 @@ title: Windows硬件工具箱
 ## 图吧工具箱
 图吧工具箱集成了常用的硬件检测与系统维护等软件，方便图钉使用。工具箱纯绿色，无需安装，无广告推广，不会联网不会捆绑或者诱导用户安装任意程序或改变系统设置，界面清爽大方，适合保存一份到硬盘或U盘，方便日后使用。
 
-![图吧工具箱](https://bw.wangdu.site:5291/WP-CDN/202201101042239.png)
+![图吧工具箱](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/202201101042239.png)
 
 [图吧官网下载](http://www.tbtool.cn/)
 
@@ -15,7 +15,7 @@ title: Windows硬件工具箱
 
 卡硬工具箱 - 致力于打造最全面实用的硬件检测、管理、性能测试工具，软件集合熟知的各个配件的检测工具；超频工具；拷机测试工具；以及各种实用软件，助力您的玩机生涯。
 
-![卡硬工具箱](https://bw.wangdu.site:5291/WP-CDN/202201101040444.png)
+![卡硬工具箱](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/202201101040444.png)
 
 [卡硬工具箱](http://www.kbtool.cn/)
 
