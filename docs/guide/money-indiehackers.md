@@ -16,6 +16,8 @@ title: 出海导航
 - [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)
 - [独立开发前线 - 独立开发者的成长指南](https://www.91wink.com/)
 - [Indie Hackers](https://www.indiehackers.com/)（国外）
+- [Fiverr](https://www.fiverr.com/categories/programming-tech/ai-coding)
+- [AI Tool Requests](https://theresanaiforthat.com/requests/)：AI工具需求
 
 ## 支付方式
 
@@ -36,7 +38,9 @@ title: 出海导航
 
 - [怎么做seo-搜索引擎优化？](https://twitter.com/Yangyixxxx/status/1772270074516410716)（富强访问）
 
-## 出海项目
+## 出海开源项目
 
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): 开源在线PDF工具
-- [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search?tab=readme-ov-file): RAG Search API
+- [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search): RAG Search API
+- [harry0703/MoneyPrinterTurbo ](https://github.com/harry0703/MoneyPrinterTurbo): 利用AI大模型，一键生成高清短视频
+- [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping): 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
