@@ -23,7 +23,7 @@ title: Windows硬件工具箱
 
 入梦工具箱是入梦本人仿照图吧工具箱开发的,完全开源(源代码网页最下角),相比于图吧工具箱,我在入梦工具箱上进行了创新,体积只有200KB,且不报毒,永久免费分享,相比于图吧工具箱进行的创新,集成了数十款常用的硬件工具箱,包括常用的CPUZ,GPUZ,AIDA64等多款工具.
 
-![入梦工具箱](https://bw.wangdu.site:5291/WP-CDN/202201101037415.png)
+![入梦工具箱](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/WP-CDN/202201101037415.png)
 
 [入梦工具箱(入梦硬件工具箱)](https://www.bianshengruanjian.com/html/yuanchuangruanjian/2021/1010/47.html)
 
