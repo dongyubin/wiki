@@ -230,7 +230,13 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
             { text: '免费使用 ChatGPT', link: 'ai-chatgpt-api' },
           ]
         },
-
+      ]
+    },
+    {
+      text: '编程',
+      collapsed: true,
+      items: [
+        { text: '博客系统', link: 'code-blog-system' },
       ]
     },
   ]

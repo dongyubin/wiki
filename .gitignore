@@ -17,3 +17,5 @@ pnpm-global
 TODOs.md
 *.mjs
 .vercel
+venv
+*.py
