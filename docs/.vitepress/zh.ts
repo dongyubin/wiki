@@ -219,7 +219,6 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '录屏软件', link: 'work-screen-recording' },
         { text: '实时显示按键&教鞭工具', link: 'work-keyboard-teaching' },
         { text: '思维导图', link: 'work-mind-map' },
-        { text: 'windows-硬件工具箱', link: 'windows-hardware-toolbox' },
       ]
     },
     {
