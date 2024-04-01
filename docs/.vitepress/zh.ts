@@ -150,6 +150,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '小说', link: 'play-novel' },
         { text: '动漫', link: 'play-anime' },
         { text: '磁力搜索', link: 'play-magnetic-search' },
+        { text: '磁力下载', link: 'play-magnetic-download' },
         // { text: 'frontmatter 配置', link: 'frontmatter-config' },
         // { text: '运行时 API', link: 'runtime-api' },
         // { text: 'CLI', link: 'cli' },
