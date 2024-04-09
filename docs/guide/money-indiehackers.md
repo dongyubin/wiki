@@ -44,3 +44,7 @@ title: 出海导航
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search): RAG Search API
 - [harry0703/MoneyPrinterTurbo ](https://github.com/harry0703/MoneyPrinterTurbo): 利用AI大模型，一键生成高清短视频
 - [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping): 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+
+## 推广
+
+- [1000UserGuide](https://1000userguide.com/#/)：整理300多个独立开发者的免费推广渠道清单，涵盖了相关网站、论坛社区、网址导航、产品目录、垂直领域版块等等。帮助独立开发者、早期创业者，用不花钱的招数，把产品推出去，让更多人看到，找到第一批1000个用户。
