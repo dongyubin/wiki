@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /guide/
+
+User-agent: Googlebot
+Allow: /guide/
+
+Sitemap: https://wiki.wangdu.site/sitemap.xml
