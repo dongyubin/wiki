@@ -9,6 +9,7 @@ title: 出海导航
 ## 心得
 
 - [想做全职独立开发，要准备好 18 个月的耐心](https://twitter.com/bestlacklock/status/1772091747545539064)（富强访问）
+- [硬地骇客](https://book.hardhacker.com/):本书是关于 Podwise 产品从灵感到变现过程的忠实记录以及复盘。(两个月 $12000 ARR 实践之路)
 
 ## 灵感
 
