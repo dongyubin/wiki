@@ -12,8 +12,8 @@ export const zh = defineConfig({
     nav: nav(),
 
     sidebar: {
-      '/guide/': { base: '/guide/', items: sidebarGuide() },
-      '/software/': { base: '/software/', items: sidebarReference() }
+      '/zh/guide/': { base: '/zh/guide/', items: sidebarGuide() },
+      '/zh/software/': { base: '/zh/software/', items: sidebarReference() }
     },
 
     editLink: {
@@ -57,13 +57,13 @@ export const zh = defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: '🛠️ 软件',
-      link: '/software/search-engines',
+      text: '免费软件',
+      link: '/zh/software/search-engines',
       activeMatch: '/software/'
     },
     {
-      text: '📚 指南',
-      link: '/guide/free-welfare',
+      text: '软件指南',
+      link: '/zh/guide/free-welfare',
       activeMatch: '/guide/'
     },
     {
@@ -85,15 +85,15 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '白嫖',
+      text: '白嫖资源',
       collapsed: false,
       items: [
-        { text: '白嫖京豆/小火箭账号', link: 'free-welfare' },
-        { text: '白嫖稿定设计', link: 'free-gdsj' },
+        { text: '京豆/小火箭账号', link: 'free-welfare' },
+        { text: '稿定设计去水印', link: 'free-gdsj' },
       ]
     },
     {
-      text: '编程',
+      text: '编程资源',
       collapsed: true,
       items: [
         { text: 'Python', link: 'code-python' },
@@ -108,7 +108,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: '出海',
+      text: '出海工具',
       collapsed: true,
       items: [
         { text: '出海灵感、工具', link: 'money-indiehackers' },
@@ -135,44 +135,23 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
 
       ]
     },
-    { text: '软件', base: '/software/', link: 'search-engines' }
+    { text: '免费软件', base: '/zh/software/', link: 'search-engines' }
   ]
 }
 
 function sidebarReference(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '软件',
+      text: '免费软件',
       collapsed: false,
       items: [
         { text: '搜索引擎', link: 'search-engines' },
+        { text: 'AI搜索引擎', link: 'search-engines-ai' },
         { text: '在线影视', link: 'play-online-movie' },
         { text: '小说', link: 'play-novel' },
         { text: '动漫', link: 'play-anime' },
         { text: '磁力搜索', link: 'play-magnetic-search' },
         { text: '磁力下载', link: 'play-magnetic-download' },
-        // { text: 'frontmatter 配置', link: 'frontmatter-config' },
-        // { text: '运行时 API', link: 'runtime-api' },
-        // { text: 'CLI', link: 'cli' },
-        // {
-        // text: '默认主题',
-        // base: '/zh/reference/default-theme-',
-        // items: [
-        //   { text: '概览', link: 'config' },
-        //   { text: '导航栏', link: 'nav' },
-        //   { text: '侧边栏', link: 'sidebar' },
-        //   { text: '主页', link: 'home-page' },
-        //   { text: '页脚', link: 'footer' },
-        //   { text: '布局', link: 'layout' },
-        //   { text: '徽章', link: 'badge' },
-        //   { text: '团队页', link: 'team-page' },
-        //   { text: '上下页链接', link: 'prev-next-links' },
-        //   { text: '编辑链接', link: 'edit-link' },
-        //   { text: '最后更新时间戳', link: 'last-updated' },
-        //   { text: '搜索', link: 'search' },
-        //   { text: 'Carbon Ads', link: 'carbon-ads' }
-        // ]
-        // }
       ]
     },
     {
@@ -195,7 +174,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: '图片',
+      text: '免费图片',
       collapsed: true,
       items: [
         { text: '免费 Logo 设计网站', link: 'image-logo' },
@@ -209,7 +188,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: '办公',
+      text: '办公工具',
       collapsed: true,
       items: [
         { text: '压缩软件', link: 'work-compression-software' },
@@ -227,7 +206,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'AI 工具合集', link: 'ai-tools' },
         {
-          text: 'ChatGPT',
+          text: '聊天机器人',
           collapsed: false,
           items: [
             { text: '免费使用 ChatGPT', link: 'ai-chatgpt-api' },
@@ -236,7 +215,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: '编程',
+      text: '编程资源',
       collapsed: true,
       items: [
         { text: '博客系统', link: 'code-blog-system' },

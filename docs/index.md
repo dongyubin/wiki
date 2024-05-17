@@ -3,32 +3,29 @@
 layout: home
 
 hero:
-  name: "文武软件百科"
-  text: "致力于软件的百科全书"
-  tagline: 一篇文章一类软件，不分平台
+  name: "Free Software Wiki"
+  text: "免费软件的百科全书"
+  # tagline: 一篇文章一类软件，不分平台
   image:
     src: /logo-large.png
-    alt: 文武软件百科
+    alt: Free Software Wiki
   actions:
     - theme: brand
-      text: 软件
-      link: /software/search-engines
+      text: 免费软件
+      link: /zh/software/search-engines
     - theme: alt
-      text: 指南
-      link: /guide/free-welfare
+      text: 软件指南
+      link: /zh/guide/free-welfare
     - theme: alt
       text: GitHub
       link: https://github.com/dongyubin
 
 features:
   - icon: 🛠️
-    title: 专注软件
-    details: 收录好用、好玩的软件
+    title: 免费软件
+    details: 收录好用、好玩、高效的免费软件、免费AI工具，找到付费软件的替代品
   - icon: 📚
-    title: 指南
-    details: 简单易懂、实用可用的软件指南
-  - icon: 🚀
-    title: 速度快
-    details: 纯静态页面，加载&搜索速度更快
+    title: 软件指南
+    details: 收集整理免费软件使用指南
 ---
 
