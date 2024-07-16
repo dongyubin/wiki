@@ -74,8 +74,16 @@ function nav(): DefaultTheme.NavItem[] {
           link: 'https://www.wangdu.site'
         },
         {
-          text: 'MD翻译',
-          link: 'https://mt.wwkejishe.top'
+          text: '共享小火箭',
+          link: 'https://fk.wwkejishe.top/'
+        },
+        {
+          text: 'VPS优惠',
+          link: 'https://bestvps.wwkejishe.top/'
+        },
+        {
+          text: '科学上网',
+          link: 'https://help.wwkejishe.top/wang-shang-xue-ke'
         }
       ]
     }
