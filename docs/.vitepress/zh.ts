@@ -152,6 +152,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '动漫', link: 'play-anime' },
         { text: '磁力搜索', link: 'play-magnetic-search' },
         { text: '磁力下载', link: 'play-magnetic-download' },
+        { text: 'IPTV直播源/工具', link: 'play-iptv' },
       ]
     },
     {
