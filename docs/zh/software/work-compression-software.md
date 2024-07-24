@@ -4,7 +4,7 @@ title: Win、Mac：免费纯净无广告压缩软件合集推荐
 
 # Win、Mac：免费纯净无广告压缩软件合集推荐
 
-![压缩软件合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511162423.png)
+![压缩软件合集](https://b2.wwkejishe.top/WP-CDN/20210511162423.png)
 
 ## Windows
 
@@ -32,7 +32,7 @@ title: Win、Mac：免费纯净无广告压缩软件合集推荐
 - 加密
 - 文件预览
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210120155650.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210120155650.png)
 
 ### [ExtractNow](http://www.extractnow.com/)
 
@@ -107,7 +107,7 @@ MyZip彻底摒弃传统、繁琐的设计理念。整个界面设计简洁，仅
 - 拖拽文件，直接压缩/解压，操作更轻松
 - 支持选多个文件压缩，压缩更高效
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210507092417.jpeg)
+![](https://b2.wwkejishe.top/WP-CDN/20210507092417.jpeg)
 
 ### The Unarchiver
 

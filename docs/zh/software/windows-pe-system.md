@@ -69,13 +69,13 @@ PE维修工具都有，比如：**傲梅分区助手（磁盘管理）**、Winnt
 - 支持MBR和GPT分区格式
 - 同时支持 x86 Legacy BIOS 以及 IA32/x86_64/ARM64/MIPS64 UEFI
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021051414.webp)
+![](https://b2.wwkejishe.top/WP-CDN/uPic/2021051414.webp)
 
 ## FirPE Project
 
 [FirPE](https://www.firpe.cn/) 是一款系统预安装环境（Windows PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具，有效提高系统安装效率。FirPE 将为大家带来全新的用户体验！
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202202101107826.webp)
+![](https://b2.wwkejishe.top/WP-CDN-02/2022/202202101107826.webp)
 
 ## HotPE
 
@@ -104,7 +104,7 @@ PE维修工具都有，比如：**傲梅分区助手（磁盘管理）**、Winnt
 自行配置WI-FI.ini 例子：ADSL-wlan BAIYUN2.4G,xc19990505
 进PE后即可自动连接WIFI
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304201511905.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304201511905.png)
 
 ## 破晓PE工具箱（DawnPE）
 
@@ -114,10 +114,10 @@ PE维修工具都有，比如：**傲梅分区助手（磁盘管理）**、Winnt
 
 [CowPE](http://cowpe.myzwq.cn/project/8c11)是一个**三无**（无捆绑无广告无劫持）PE，无任何广告和夹带私货行为 做纯净好用的PE，本项目无盈利，由一个初中生写的。母盘：Windows 11 (business editions), version 21H2 (updated Aug 2022) (x64) - DVD (Chinese-Simplified)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304201509726.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304201509726.png)
 
 ## 蜂鸟PE
 
 [蜂鸟PE](http://www.fengpe.top/)是基于WimBuilder2构建而成的PE维护系统。作者励志做一个安全、小巧、稳定、流畅的维护PE。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202306061344827.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202306061344827.png)

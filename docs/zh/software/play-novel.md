@@ -4,7 +4,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 
 # 网站、APP、客户端合集：免费无广告看小说&下载
 
-![小说合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301021710.jpg)
+![小说合集](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301021710.jpg)
 
 ## 网页端
 
@@ -14,28 +14,28 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 支持简体/繁体
 - 可看斗罗大陆、斗破苍穹等
 
-![免费小说阅读网](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030456.webp)
+![免费小说阅读网](https://b2.wwkejishe.top/WP-CDN/uPic/2021030456.webp)
 
 ### [小说TXT下载](http://downnovel.com/)
 
 - 只支持TXT下载
 - 可看斗罗大陆、斗破苍穹等
 
-![小说TXT下载](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030424.webp)
+![小说TXT下载](https://b2.wwkejishe.top/WP-CDN/uPic/2021030424.webp)
 
 ### [八零电子书](http://www.balingtxt.com/)
 
 - 支持在线查看、下载 TXT
 - 可看斗罗大陆、斗破苍穹等
 
-![八零电子书](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030440.webp)
+![八零电子书](https://b2.wwkejishe.top/WP-CDN/uPic/2021030440.webp)
 
 ### [免费小说网](http://www.12z.cn/index.html)
 
 - 只支持下载 TXT
 - 可看斗罗大陆、斗破苍穹等
 
-![免费小说网](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030450.webp)
+![免费小说网](https://b2.wwkejishe.top/WP-CDN/uPic/2021030450.webp)
 
 ### 全小说无弹窗
 
@@ -92,7 +92,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 支持多种翻页模式，覆盖、仿真、滑动、滚动等
 - 软件开源，持续优化，无广告
 
-![阅读](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030413.webp)
+![阅读](https://b2.wwkejishe.top/WP-CDN/uPic/2021030413.webp)
 
 书源导入：
 
@@ -118,7 +118,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 书源：书源仓库自制规则：https://github.com/chimisgo/BookSourceRepository
 - [最新版本下载地址](https://apkpure.com/cn/%E5%8E%9A%E5%A2%A8/cn.deepink.reader)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030432.webp)
+![](https://b2.wwkejishe.top/WP-CDN/uPic/2021030432.webp)
 
 高速书源（一个一个添加即可）：
 
@@ -143,7 +143,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 算法加持 热门漫改 精心推荐
 - 个性区域 神漫专属 倾心定制
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210402095144.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210402095144.webp)
 
 ### [咪咪阅读](http://www.mimiread.com/)
 
@@ -326,7 +326,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 支持对内容过滤、替换
 - 支持本地TXT、EPUB文件
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/uPic/2021030438.webp)
+![](https://b2.wwkejishe.top/WP-CDN/uPic/2021030438.webp)
 
 | 书源作者        | 地址                                              | 操作                                                         |
 | --------------- | ------------------------------------------------- | ------------------------------------------------------------ |
@@ -347,7 +347,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 
 ### [智能搜书](https://apps.apple.com/cn/app/%E6%99%BA%E8%83%BD%E6%90%9C%E4%B9%A6-%E7%9C%8B%E5%B0%8F%E8%AF%B4%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E6%90%9C%E4%B9%A6%E7%A5%9E%E5%99%A8/id1524423293)：iOS已下架
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210407111441.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210407111441.webp)
 
 ## PC
 
@@ -367,7 +367,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 支持TXT、epub、ol格式的文件
 - 支持在线阅读源
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210305101447.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210305101447.webp)
 
 导入阅读源：
 
@@ -394,7 +394,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 - 朗读
 - 配色主题
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210305102439.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210305102439.webp)
 
 ### Uncle小说
 
@@ -406,7 +406,7 @@ title: 网站、APP、客户端合集：免费无广告看小说&下载
 
 [Koodo Reader ](https://koodo.960960.xyz/zh) 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/202201131554497.webp)
+![](https://b2.wwkejishe.top/WP-CDN/202201131554497.webp)
 
 ### 小强阅读V6
 

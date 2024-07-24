@@ -4,13 +4,13 @@ title: 京豆、免费共享小火箭账号
 
 # 免费京豆领取、免费共享小火箭账号
 
-![福利](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202207191528247.webp)
+![福利](https://b2.wwkejishe.top/WP-CDN-02/2022/202207191528247.webp)
 
 ## JD签到上车
 
 [上车地址](https://bw.wangdu.site:5282/)：不仅可以领Jing豆，还能领实物，车位有限，先到先得
 
-![JD签到上车](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202207191449508.webp)
+![JD签到上车](https://b2.wwkejishe.top/WP-CDN-02/2022/202207191449508.webp)
 
 ## iOS小🚀账号
 

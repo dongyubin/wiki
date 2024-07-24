@@ -20,7 +20,7 @@ title: AI Article Summary：让你的WordPress主题拥有AI摘要
 
 在 `文章 - 分类目录 ` 查看不需要 AI模型来总结的一类文章，在发布文章时，只要选择了此分类，此文章就不会调用 AI总结。
 
-![分类ID](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201132225.webp)
+![分类ID](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201132225.webp)
 
 ### 限制字符
 
@@ -71,7 +71,7 @@ title: AI Article Summary：让你的WordPress主题拥有AI摘要
 
 1. 在 [讯飞开放平台控制台](https://console.xfyun.cn/app/myapp) 创建应用，选择应用 - 左侧栏：星火认知大模型，根据上面选择的 `星火大模型` 填入 `APPID、APISecret、APIKey`
 
-   ![星火大模型](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201355663.webp)
+   ![星火大模型](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201355663.webp)
 
 ### APISecret
 

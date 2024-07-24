@@ -2,7 +2,7 @@
 title: Windows桌面整理
 ---
 
-![桌面整理](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210113180406.webp)
+![桌面整理](https://b2.wwkejishe.top/WP-CDN/20210113180406.webp)
 
 ## 腾讯桌面整理：Win
 
@@ -11,7 +11,7 @@ title: Windows桌面整理
 - 文件搜索
 - 魔镜壁纸
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210113165941.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210113165941.webp)
 
 [下载地址](https://guanjia.qq.com/product/zmzl/)
 
@@ -23,7 +23,7 @@ title: Windows桌面整理
 
 而且官网图标包多样，适合Diy党
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210113170927.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210113170927.webp)
 
 [下载地址](https://www.pcclean.io/dr-folder/download/)
 
@@ -34,11 +34,11 @@ title: Windows桌面整理
 - 定义规则以组织桌面图标
 - 在多页围栏之间滑动
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210113170505.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210113170505.webp)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210113170543.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210113170543.webp)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291037487.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291037487.jpg)
 
 [Fences](https://www.stardock.com/products/fences/)
 
@@ -55,7 +55,7 @@ title: Windows桌面整理
 - 可定制
 - 功能很多可以自行发掘
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291038461.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291038461.jpg)
 
 [Nimi Places](http://mynimi.net/Projects/Nimi-Places/)
 
@@ -82,7 +82,7 @@ Coodesker可以充当PC上任何文件夹的门户。例如，您的文档文件
 - 更改颜色和透明度
 - 按照文件类型分类整理
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210617105448.gif)
+![](https://b2.wwkejishe.top/WP-CDN/20210617105448.gif)
 
 [小智桌面](http://xzdesktop.cqttech.com/)
 

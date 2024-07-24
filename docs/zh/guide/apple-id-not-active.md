@@ -14,7 +14,7 @@ This Apple ID is not active.
 Your Apple ID or password was incorrect.
 ```
 
-![This Apple ID is not active.](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261031120.webp)
+![This Apple ID is not active.](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261031120.webp)
 
 ### 恢复方法：电话联系苹果客服（可以中文沟通）
 
@@ -33,39 +33,39 @@ Your Apple ID or password was incorrect.
 
 1. 打开 [Apple官网](https://www.apple.com/)，拉到页面底部，点击 `Manage Your Apple ID` （注意：右下角为：United States）
 
-   ![Manage Your Apple ID](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261042999.webp)
+   ![Manage Your Apple ID](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261042999.webp)
 
 2. 点击右上角的 `FAQ`
 
-   ![FAQ](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261044023.webp)
+   ![FAQ](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261044023.webp)
 
 3. 下拉到底部，点击 `visit Apple Support`
 
-   ![visit Apple Support](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261045749.webp)
+   ![visit Apple Support](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261045749.webp)
 
 4. 再下拉到底部，点击 `Start now`
 
-   ![Start now](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261047638.webp)
+   ![Start now](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261047638.webp)
 
 5. Apple 和你的数据隐私：`同意并继续`
 
-   ![同意并继续](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261047691.webp)
+   ![同意并继续](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261047691.webp)
 
 6. 在搜索框输入：apple，点击第一个
 
-   ![apple id搜索框](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261049111.webp)
+   ![apple id搜索框](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261049111.webp)
 
 7. 再点击`"The Apple ID is not active" alert`
 
-   ![The Apple ID is not active](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261050196.webp)
+   ![The Apple ID is not active](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261050196.webp)
 
 8. 选择：`Chat`
 
-   ![Chat](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261051464.webp)
+   ![Chat](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261051464.webp)
 
 9. 填入信息，点击 `Continue`，则会弹出对话框，等待客服接入就可以聊天了。
 
-   ![Chat with Apple Support](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261054957.webp)
+   ![Chat with Apple Support](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261054957.webp)
 
 10. 聊天话术（将 xxx 改为自己的信息即可，搭配 [翻译软件](https://www.wangdu.site/software/bangongyingyong/584.html) 一起使用）
 
@@ -80,7 +80,7 @@ Your Apple ID or password was incorrect.
     My contact phone number is xxx.
     ```
 
-   ![与Apple ID客服聊天截图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261059669.webp)
+   ![与Apple ID客服聊天截图](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261059669.webp)
 
 ::: tip 说明
 提交给客服激活后，都需要等24小时之后才能正常使用。（预祝大家都能激活成功。😝）

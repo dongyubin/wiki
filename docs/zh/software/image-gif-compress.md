@@ -10,7 +10,7 @@ title: 在线、客户端：免费好用的GIF动图压缩工具合集
 
 今天，阿斌将介绍一些常见的 **GIF 压缩工具**。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211509486.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211509486.png)
 
 ## 网站
 
@@ -27,37 +27,37 @@ title: 在线、客户端：免费好用的GIF动图压缩工具合集
 
 [Gif Compressor](https://gifcompressor.com/zh/) 免费的在线压缩GIF动画工具。只需两个简单的步骤, 它会为您照顾GIF的优化。 您可以一次压缩多个文件，并上传大小不超过50MB的GIF文件。一次最多20个要压缩的GIF文件，以ZIP压缩文件获取所有文件。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211037366.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211037366.png)
 
 ### ILoveImg
 
 [ILoveImg](https://www.iloveimg.com/zh-cn/compress-image/compress-gif) 免费的在线压缩GIF动画工具
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211048317.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211048317.png)
 
 ### EZGIF
 
 [EZGIF](https://ezgif.com/optimize) 是一个在线GIF压缩工具，它使用Gifsicle和Lossy GIF编码器优化GIF，实现了有损LZW压缩。它可以将动画GIF文件大小减少30％-50％，代价是一些抖动/噪声。您可以使用简单的滑块调整压缩级别，以获得最佳结果。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211152745.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211152745.png)
 
 ### Online-convert
 
 [Online-convert](https://image.online-convert.com/convert-to-gif) 免费的在线压缩GIF动画工具，可调节压缩强度、尺寸、滤色器、背景、分辨率、大小和黑白阈值。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211356776.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211356776.png)
 
 ### docsmall
 
 [docsmall](https://docsmall.com/gif-compress) 最多上传 30 个文件，单个图片最大为 25 M，仅支持 gif 格式，可调节压缩强度和缩放比例。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211348612.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211348612.png)
 
 ### 压缩图
 
 [压缩图](https://www.yasuotu.com/gif)是一款专业的在线图片压缩工具，它支持多种图片格式的压缩，包括GIF、JPG、PNG、JP2等。它的支持一次压缩最多`60张`GIF动图，单张图片最大支持`100M`，只需设置好参数即可一键应用至全部GIF图，让图片处理不再局限于单张，办公效率飞速提升。支持调整压缩等级，等级越低压缩后的图片越小；同时支持在压缩GIF动图的同时调整图片宽高尺寸；独特的帧数抽取功能能够减少GIF帧数，将GIF压缩至更小。支持批量下载或者生成下载链接，方便用户保存和分享压缩后的GIF图片。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211446509.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211446509.png)
 
 ## 电脑软件
 
@@ -70,7 +70,7 @@ title: 在线、客户端：免费好用的GIF动图压缩工具合集
 
 [GIFSicle](https://github.com/dandll/WinForGIFSicle)可视化操作工具，目前有按比例压缩，直接压缩功能还可以lossy压缩
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304211420261.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202304211420261.png)
 
 ### ImageOptim：Mac
 

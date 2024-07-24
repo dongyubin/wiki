@@ -12,7 +12,7 @@ title: ChatGPT镜像网站&免费API
 
 国内很多人无私奉献，做了很多镜像网站供国内人使用。阿斌也整合了一些，方便大家直接使用。（精彩的在后面）
 
-![ChatGPT](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202212091551137.webp)
+![ChatGPT](https://b2.wwkejishe.top/WP-CDN-02/2022/202212091551137.webp)
 
 ## ChatGPT 镜像网站
 
@@ -64,7 +64,7 @@ title: ChatGPT镜像网站&免费API
 
 以 [ChatGPT Next](https://wwchatgpt.wangdu.site/) 为例，访问密码：`861168`
 
-![ChatGPT Next](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202312042200611.webp)
+![ChatGPT Next](https://b2.wwkejishe.top/WP-CDN-02/2023/202312042200611.webp)
 
 ## 付费购买ChatGPT
 

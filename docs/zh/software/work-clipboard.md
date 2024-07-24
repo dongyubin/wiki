@@ -4,7 +4,7 @@ title: 10个免费Win、Mac剪贴板历史管理工具合集
 
 # 10个免费Win、Mac剪贴板历史管理工具合集
 
-![剪贴板历史管理](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009739.webp)
+![剪贴板历史管理](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301009739.webp)
 
 ## 软件列表
 
@@ -37,7 +37,7 @@ title: 10个免费Win、Mac剪贴板历史管理工具合集
 - 可定制外观
 - 添加注释或标签
 
-![CopyQ](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009514.webp)
+![CopyQ](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301009514.webp)
 
 ### [1clipboard](http://1clipboard.io/)：Win、Mac
 
@@ -47,7 +47,7 @@ title: 10个免费Win、Mac剪贴板历史管理工具合集
 - 在“脱机模式”下仍能发挥最佳效果
 - 标记为收藏夹可快速访问剪贴板以供将来使用
 
-![1clipboard](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009476.webp)
+![1clipboard](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301009476.webp)
 
 ### [Clibor](https://www.portablefreeware.com/index.php?id=2777)：Win
 
@@ -59,7 +59,7 @@ title: 10个免费Win、Mac剪贴板历史管理工具合集
 - 多项选择，备份/还原
 - 最多可以存储10,000个剪贴板项目
 
-![Clibor](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009647.webp)
+![Clibor](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301009647.webp)
 
 ### [ClipboardFusion](https://www.clipboardfusion.com/Download/)：全平台
 
@@ -69,18 +69,18 @@ title: 10个免费Win、Mac剪贴板历史管理工具合集
 - ClipboardFusion擦拭复制到剪贴板的文本，以便它可以粘贴到不同的应用程序，而不需要格式化。它可以自动完成或与自定义热键。
 - 您可以查看剪贴板历史记录、固定项、在线项和自定义宏。
 
-![ClipboardFusion](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301009722.webp)
+![ClipboardFusion](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301009722.webp)
 
 ### [Maccy](https://github.com/p0deje/Maccy/releases)：Mac👍
 
 - Maccy 只做一项工作-保留您的复制历史记录并让您快速访问它。您不会被不必要的功能所困扰。
 - Maccy 的工作速度非常快。您可以在几分之一秒内打开并搜索整个剪贴板历史记录。
 
-![Maccy](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301301010299.webp)
+![Maccy](https://b2.wwkejishe.top/WP-CDN-02/2023/202301301010299.webp)
 
 ### [Paste](https://apps.apple.com/cn/app/paste-clipboard-history-manager/id967805235)：Mac
 
-![Paste](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2021/20210409105609.webp)
+![Paste](https://b2.wwkejishe.top/WP-CDN-02/2021/20210409105609.webp)
 
 ### [Copy++](https://github.com/CopyPlusPlus/CopyPlusPlus-NetFramework)：Win
 

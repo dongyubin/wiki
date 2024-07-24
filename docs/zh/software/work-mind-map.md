@@ -3,7 +3,7 @@ title: 9款免费比收费强的思维导图工具合集
 ---
 # 9款免费比收费强的思维导图工具合集
 
-![思维导图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291352527.jpg)
+![思维导图](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291352527.jpg)
 
 ## 思维导图
 
@@ -18,7 +18,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 图片导出
 - 样式多样：思维导图、逻辑图、组织结构图、时间轴、鱼骨头、矩阵图
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291352126.jpg)
+![](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291352126.jpg)
 
 ### GitMind
 
@@ -29,7 +29,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 海量素材
 - 协同分享
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413134615.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413134615.png)
 
 ### MindMaster
 
@@ -39,13 +39,13 @@ title: 9款免费比收费强的思维导图工具合集
 - 免费：思维导图、单向导图、树状导图、组织架构图
 - 分享协作
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413135644.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413135644.png)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413140032.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413140032.png)
 
 会员价格看下图：
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413141440.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413141440.png)
 
 ### PrecessOn
 
@@ -59,7 +59,7 @@ title: 9款免费比收费强的思维导图工具合集
 
 会员制度，详情看下图：
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413140522.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413140522.png)
 
 ### 坚果云思维导图
 
@@ -69,7 +69,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 云端存储
 - 一键分享
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413141640.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413141640.png)
 
 ### 幕布
 
@@ -83,7 +83,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 分享
 
 会员制度，详情看下图：
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210413143039.png)
+![](https://b2.wwkejishe.top/WP-CDN/20210413143039.png)
 
 ### MindLine
 
@@ -103,7 +103,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 不同设备同步共享
   提供强大的云空间，支持iOS、安卓设备和电脑网页版文件同步和共享 ，可在线查看和编辑云空间上的文件。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202201131613012.webp)
+![](https://b2.wwkejishe.top/WP-CDN-02/2022/202201131613012.webp)
 
 ### 知犀
 
@@ -116,7 +116,7 @@ title: 9款免费比收费强的思维导图工具合集
 - 导出图片质量不限
 - 海量模板
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202204280928674.png)
+![](https://b2.wwkejishe.top/WP-CDN-02/2022/202204280928674.png)
 
 ### TreeMind
 

@@ -6,7 +6,7 @@ title: 图片去水印工具合集
 
 之前阿斌推荐过一些 [图片压缩](https://www.wangdu.site/software/33.html)、[图片转Webp](https://www.wangdu.site/software/796.html)、[生成证件照](https://www.wangdu.site/software/1665.html)、[图片快速去背景](https://www.wangdu.site/software/86.html) 的工具，今天再推荐一些**图片去水印的工具**，这个工具不需要有什么PS技术，只需要涂抹要消除的地方就能自动去除，简直是懒人的福音。
 
-![图片去水印](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307301155053.png)
+![图片去水印](https://b2.wwkejishe.top/WP-CDN-02/2023/202307301155053.png)
 
 ## 工具介绍
 
@@ -30,7 +30,7 @@ PS：图片为一次处理的效果图
 
 [smart picture](https://vaiui.com/) 免费在线消除工具。
 
-![smart picture效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403291139031.webp)
+![smart picture效果图](https://b2.wwkejishe.top/WP-CDN-02/2024/202403291139031.webp)
 
 ### jpgRM
 
@@ -38,7 +38,7 @@ PS：图片为一次处理的效果图
 
 - 价格：免费版（限制 720px、图片数量）
 
-![你能看出来右侧原来有条鱼？](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307281732545.jpg)
+![你能看出来右侧原来有条鱼？](https://b2.wwkejishe.top/WP-CDN-02/2023/202307281732545.jpg)
 
 ### 佐糖
 
@@ -46,7 +46,7 @@ PS：图片为一次处理的效果图
 
 - 下载需要登陆
 
-![佐糖效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307281735720.jpg)
+![佐糖效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307281735720.jpg)
 
 ### Vidmore
 
@@ -54,19 +54,19 @@ PS：图片为一次处理的效果图
 
 - 可直接保存
 
-![Vidmore效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307281745454.jpg)
+![Vidmore效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307281745454.jpg)
 
 ### Aiseesoft
 
 [Aiseesoft](https://zh-cn.aiseesoft.com/watermark-remover-online/#)
 
-![界面与Vidmore类似，不知道谁抄谁](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307281750057.jpg)
+![界面与Vidmore类似，不知道谁抄谁](https://b2.wwkejishe.top/WP-CDN-02/2023/202307281750057.jpg)
 
 ### 美图秀秀
 
 [美图秀秀](https://pc.meitu.com/image/edit/?from=special_function)：消除笔
 
-![美图秀秀效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307301037173.jpg)
+![美图秀秀效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307301037173.jpg)
 
 ### Magic Eraser
 
@@ -79,7 +79,7 @@ PS：图片为一次处理的效果图
 - 以低分辨率编辑
 - 最高 600 像素下载
 
-![Magic Eraser效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307301022918.jpg)
+![Magic Eraser效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307301022918.jpg)
 
 ### 水印一键去去去
 
@@ -88,7 +88,7 @@ PS：图片为一次处理的效果图
 - 免费下载：540X720，下载高清图（收费）
 - 效果看效果图吧，一言难尽，只能说和原图一毛一样
 
-![水印一键去去去效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307301030152.webp)
+![水印一键去去去效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307301030152.webp)
 
 ### WatermarkRemover
 
@@ -100,13 +100,13 @@ PS：图片为一次处理的效果图
 
 [在线体验地址](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama)
 
-![Lama Cleaner效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202307301116239.jpg)
+![Lama Cleaner效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202307301116239.jpg)
 
 ### Inpaint
 
 [Inpaint](https://www.52pojie.cn/thread-1831710-1-1.html)
 
-![Inpaint效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202309110953737.webp)
+![Inpaint效果图](https://b2.wwkejishe.top/WP-CDN-02/2023/202309110953737.webp)
 
 ## 总结
 

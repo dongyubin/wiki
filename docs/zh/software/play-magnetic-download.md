@@ -6,7 +6,7 @@ title: 磁力下载软件合集：老司机必备！
 
 [磁力下载软件合集：老司机必备！](https://zhuanlan.zhihu.com/p/663437629)
 
-![磁力下载](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291348755.webp)
+![磁力下载](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291348755.webp)
 
 ## App
 
@@ -261,7 +261,7 @@ Free Download Manager(FDM)，是一款强大、易用且完全免费的多点续
 
 ###  Liii BitTorrent
 
-![Liii BitTorrent](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210609102610.png)
+![Liii BitTorrent](https://b2.wwkejishe.top/WP-CDN/20210609102610.png)
 
 [下载地址](https://codecpack.co/download/LIII-BitTorrent-Client.html)
 
@@ -269,7 +269,7 @@ Free Download Manager(FDM)，是一款强大、易用且完全免费的多点续
 
 - 支持系统：Windows
 
-![EagleGet（猎鹰）](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202201051010018.webp)
+![EagleGet（猎鹰）](https://b2.wwkejishe.top/WP-CDN-02/2022/202201051010018.webp)
 
 官网：[http://www.eagleget.com/cn/](http://www.eagleget.com/cn/)
 

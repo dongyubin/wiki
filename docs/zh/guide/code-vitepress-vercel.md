@@ -49,11 +49,11 @@ title: 使用VitePress 1.1.4 搭建文档网站踩坑记录
 
 1. 打开 [DocSearch](https://docsearch.algolia.com/apply/) 申请网址，填入信息，等待审核通过即可，**邮箱一定要正确**（官方提醒：整个过程（从申请到部署）可能需要**长达两周的时间**，多次申请或打开问题**只会减慢过程**，请耐心等待）
 
-   ![DocSearch申请页面](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201038984.webp)
+   ![DocSearch申请页面](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201038984.webp)
 
 2. 通过后，会告诉你新的 `appId、apiKey、indexName`，在你的配置文件修改原来的信息即可（新增：[官方教程](https://vitepress.dev/zh/reference/default-theme-search#algolia-search)）
 
-   ![DocSeach邮件内容](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201042259.webp)
+   ![DocSeach邮件内容](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201042259.webp)
 
 3. 提交部署即可
 
@@ -61,11 +61,11 @@ title: 使用VitePress 1.1.4 搭建文档网站踩坑记录
 
 1. 打开 [DocSearch 爬虫管理页面](https://crawler.algolia.com/)（[官网教程](https://www.algolia.com/doc/tools/crawler/getting-started/crawler-configuration/in-depth/crawler-admin/)），选择项目记录
 
-   ![DocSearch爬虫管理页面](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201047665.webp)
+   ![DocSearch爬虫管理页面](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201047665.webp)
 
 2. 点击左侧栏：Editor，修改左侧代码（[VitePress爬虫配置](https://vitepress.dev/zh/reference/default-theme-search#crawler-config)），可以使用下面我的代码，记得`将其中的信息修改为自己真实信息`；修改完可以在右侧输入`自己的网址`，点击 `Run Test` 看看是否能否抓取成功。
 
-   ![Editor](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201049552.webp)
+   ![Editor](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201049552.webp)
    ::: details 点我查看代码
    ```js
    new Crawler({
@@ -205,7 +205,7 @@ title: 使用VitePress 1.1.4 搭建文档网站踩坑记录
 
 3. 配置成功后，点击左侧栏：Overview，点击 `Restart crawling` 按钮即可重新抓取你网站的页面信息了。
 
-   ![Overview](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403201054776.webp)
+   ![Overview](https://b2.wwkejishe.top/WP-CDN-02/2024/202403201054776.webp)
 
 ## VitePress 图片放大
 
@@ -314,7 +314,7 @@ export default {
 Hydration completed but contains mismatches.
 ```
 
-![CloudFlare关闭Auto Minify](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403261605468.png)
+![CloudFlare关闭Auto Minify](https://b2.wwkejishe.top/WP-CDN-02/2024/202403261605468.png)
 
 ### 参考链接
 

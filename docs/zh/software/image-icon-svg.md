@@ -4,7 +4,7 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 # 网站：免费可商用的icon图标/矢量插画
 
-![ICON&矢量插画](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291433727.webp)
+![ICON&矢量插画](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291433727.webp)
 
 ## ICON 合集
 
@@ -52,7 +52,7 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 下载后的每个文件都包含该图像的 SVG，PNG 和 PNGx2 版本。这为您提供了很多在网站和社交媒体上使用它们的机会。
 
-![Lucasz Adam](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511141100.webp)
+![Lucasz Adam](https://b2.wwkejishe.top/WP-CDN/20210511141100.webp)
 
 ### Paper Illustrations
 
@@ -62,7 +62,7 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 但是，在使用出版物中的文件时，您必须确保将 Iconscout 写入来源。下载文件后，通过复制方便的属性文字可以轻松完成此操作。
 
-![Paper Illustrations](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511141550.webp)
+![Paper Illustrations](https://b2.wwkejishe.top/WP-CDN/20210511141550.webp)
 
 ### unDraw
 
@@ -70,7 +70,7 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 一个特别有用的功能是能够在下载之前编辑图片的颜色。你可以是图片配合你网站的整体风格。
 
-![unDraw](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511141726.webp)
+![unDraw](https://b2.wwkejishe.top/WP-CDN/20210511141726.webp)
 
 ### Vector4Free
 
@@ -80,7 +80,7 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 所有素材都可以免费使用，但是网站规定使用它们时应该提供一个网站链接指向他们。
 
-![Vector4Free](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511143530.webp)
+![Vector4Free](https://b2.wwkejishe.top/WP-CDN/20210511143530.webp)
 
 ### DrawKit
 
@@ -88,31 +88,31 @@ title: 网站：免费可商用的icon图标/矢量插画
 
 所有插图都可用于个人和商业项目，而无需注明出处。而且，如果您需要一些更详细的信息，可以使用一系列包含多达 100 张图像的图像包进行购买。
 
-![DrawKit](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210511144545.webp)
+![DrawKit](https://b2.wwkejishe.top/WP-CDN/20210511144545.webp)
 
 ### illlustrations
 
 [illlustrations](https://illlustrations.co/) 提供 AI、SVG、PNG 和 EPS 格式档案，所有插图都採用 MIT License 授权，可提供个人使用、商业用途使用。
 
-![illlustrations](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210513162541.webp)
+![illlustrations](https://b2.wwkejishe.top/WP-CDN/20210513162541.webp)
 
 ### Dribbble
 
 [Dribbble](https://dribbble.com/) 
 
-![Dribbble](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210513163203.webp)
+![Dribbble](https://b2.wwkejishe.top/WP-CDN/20210513163203.webp)
 
 ### Open Doodles
 
 [Open Doodles](https://www.opendoodles.com/)
 
-![Open Doodles](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/202201061719920.webp)
+![Open Doodles](https://b2.wwkejishe.top/WP-CDN/202201061719920.webp)
 
 ### Storyset
 
 [Storyset](https://storyset.com/) 是一个提供免费插画的网站，你可以按照标签，颜色进行插图筛选，将合适的插图用于你的项目之中。你还可以对插图进行简单的自定义，改变颜色，隐藏不想要的内容，插图支持 png 格式和 svg 格式进行保存。
 
-![Storyset](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/202201131702342.webp)
+![Storyset](https://b2.wwkejishe.top/WP-CDN/202201131702342.webp)
 
 ### 其他网站
 

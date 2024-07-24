@@ -4,7 +4,7 @@ title: 10+网站：Emoji表情符号合集
 
 # 10+网站：Emoji表情符号合集
 
-![Emoji合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031719852.jpg)
+![Emoji合集](https://b2.wwkejishe.top/WP-CDN-02/2023/202302031719852.jpg)
 
 ## [emoji在线工具](https://emoji6.com/)
 
@@ -12,7 +12,7 @@ title: 10+网站：Emoji表情符号合集
 - 文字转emoji
 - emoji搜索
 
-![emoji在线工具](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031720481.jpg)
+![emoji在线工具](https://b2.wwkejishe.top/WP-CDN-02/2023/202302031720481.jpg)
 
 ## [EmojiXD](https://emojixd.com/)
 
@@ -21,7 +21,7 @@ title: 10+网站：Emoji表情符号合集
 - 颜文字口袋
 - Emoji杂志
 
-![EmojiXD](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031720710.jpg)
+![EmojiXD](https://b2.wwkejishe.top/WP-CDN-02/2023/202302031720710.jpg)
 
 ## [EmojiAll](https://www.emojiall.com/zh-hans)
 
@@ -30,7 +30,7 @@ title: 10+网站：Emoji表情符号合集
 - emoji转换
 - emoji游戏
 
-![emojiall](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202302031720978.jpg)
+![emojiall](https://b2.wwkejishe.top/WP-CDN-02/2023/202302031720978.jpg)
 
 ## [emoji表情大全](https://www.emojidaquan.com/)
 
@@ -40,13 +40,13 @@ title: 10+网站：Emoji表情符号合集
 - 颜文字 / 颜moji
 - 表情包专题
 
-![emoji表情大全](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022042114.png)
+![emoji表情大全](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022042114.png)
 
 ### [EmojiCopy](https://www.emojicopy.com/)
 
 - emoji 的复制
 
-![EmojiCopy](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022042111.png)
+![EmojiCopy](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022042111.png)
 
 ### [Noto Emoji](https://fonts.google.com/noto/specimen/Noto+Emoji)：魔法访问
 

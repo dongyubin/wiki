@@ -8,7 +8,7 @@ title: 免费白嫖 ChatGPT-4 服务：Coze 扣子 - 字节最强AI Bot
 
 通过 Coze（根服务） + Discord（对接服务） + coze-discord-proxy（服务代理）从而实现 API 形式请求GPT4+DALL·E 3。
 
-![Coze](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202402071433884.webp)
+![Coze](https://b2.wwkejishe.top/WP-CDN-02/2024/202402071433884.webp)
 
 ## 网址
 
@@ -40,4 +40,4 @@ title: 免费白嫖 ChatGPT-4 服务：Coze 扣子 - 字节最强AI Bot
 
 ## 效果图
 
-![效果图](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202402071357587.webp)
+![效果图](https://b2.wwkejishe.top/WP-CDN-02/2024/202402071357587.webp)

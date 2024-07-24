@@ -4,7 +4,7 @@ title: 100+ AI（人工智能）工具网站集合
 
 # 100+ AI（人工智能）工具网站集合
 
-![AI（人工智能）工具](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202304111519920.webp)
+![AI（人工智能）工具](https://b2.wwkejishe.top/WP-CDN-02/2023/202304111519920.webp)
 
 ## 图标示意
 

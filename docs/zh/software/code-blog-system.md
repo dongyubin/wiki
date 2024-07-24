@@ -4,7 +4,7 @@ title: 博客系统推荐合集
 
 # 动态、静态：免费开源个人博客系统
 
-![博客系统](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202301291357785.webp)
+![博客系统](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291357785.webp)
 
 ## [OneBlog](https://gitee.com/yadong.zhang/DBlog)：Java博客
 
@@ -24,7 +24,7 @@ title: 博客系统推荐合集
 - **文件搬运工**：集成[blog-hunter](https://gitee.com/yadong.zhang/blog-hunter)实现“文章搬运工”功能，支持一键同步imooc、csdn、iteye或者cnblogs上的文章，可抓取列表和单个文章
 - **第三方授权登录**：集成[JustAuth](https://gitee.com/yadong.zhang/JustAuth)实现第三方授权登录
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322102300.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322102300.webp)
 
 [预览示例](http://www.itsoku.com/)
 
@@ -54,13 +54,13 @@ title: 博客系统推荐合集
 - 评论系统
 拥有独立的评论插件，使用 Vue 开发，只需在页面引入构建好的 JS 文件即可，完美地和主题相结合。目前已有多款评论组件，你可以非常方便的切换。
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322102925.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322102925.webp)
 
 [预览示例](https://blog.chihiro.org.cn/)
 
 ## [Solo](https://gitee.com/dl88250/solo)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322103326.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322103326.webp)
 
 [预览示例](https://88250.b3log.org/)
 
@@ -79,7 +79,7 @@ title: 博客系统推荐合集
 - 强大的媒体管理
 - 简单且无障碍
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322104129.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322104129.webp)
 
 [预览示例](https://www.wangdu.site/)
 
@@ -89,7 +89,7 @@ title: 博客系统推荐合集
 
 [Github地址](https://github.com/typecho/typecho/)
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322104733.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322104733.webp)
 
 [预览示例](http://www.eknown.cn/)
 
@@ -97,7 +97,7 @@ title: 博客系统推荐合集
 
 - 需要服务器、数据库
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322103921.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322103921.webp)
 
 [预览示例](https://blog.zblogcn.com/)
 
@@ -123,7 +123,7 @@ title: 博客系统推荐合集
 
   强大的 API 带来无限的可能，与数种模板引擎（EJS，Pug，Nunjucks）和工具（Babel，PostCSS，Less/Sass）轻易集成
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322104920.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322104920.webp)
 
 [预览示例](https://blog.wangdu.site/)
 
@@ -131,7 +131,7 @@ title: 博客系统推荐合集
 
 - 不需要服务器、数据库
 
-![](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN/20210322105459.webp)
+![](https://b2.wwkejishe.top/WP-CDN/20210322105459.webp)
 
 [预览示例](https://ublogger.netlify.app/)
 

@@ -4,7 +4,7 @@ title: TeamViewer替代品：10款可远程控制电脑的免费软件合集
 
 # TeamViewer替代品：10款可远程控制电脑的免费软件合集
 
-![远程桌面控制](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202204291620245.png)
+![远程桌面控制](https://b2.wwkejishe.top/WP-CDN-02/2022/202204291620245.png)
 
 ## GotoHTTP
 
@@ -57,7 +57,7 @@ title: TeamViewer替代品：10款可远程控制电脑的免费软件合集
 
 - 支持系统：web、Win
 
-![一键远控](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2021/202112301345900.webp)
+![一键远控](https://b2.wwkejishe.top/WP-CDN-02/2021/202112301345900.webp)
 
 ## RustDesk
 
@@ -73,7 +73,7 @@ title: TeamViewer替代品：10款可远程控制电脑的免费软件合集
 
 [AnyViewer](https://www.anyviewer.com/download.html) 是一款支持 Windows 和 iOS远程控制桌面软件，分为免费、专业、企业 3 个档，基本上免费版就可以满足日常使用。
 
-![AnyViewer](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202205101148828.png)
+![AnyViewer](https://b2.wwkejishe.top/WP-CDN-02/2022/202205101148828.png)
 
 ## Parsec
 

@@ -4,17 +4,17 @@ title: 网站、APP：为动漫迷提供优质看动漫工具
 
 # 网站、APP：为动漫迷提供优质看动漫工具
 
-![动漫合集](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202303161734946.jpeg)
+![动漫合集](https://b2.wwkejishe.top/WP-CDN-02/2023/202303161734946.jpeg)
 
 ## 网页
 
 ### [ZzzFun](http://www.zzzfun.com/)
 
-![ZzzFun](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2021/20210419174931.webp)
+![ZzzFun](https://b2.wwkejishe.top/WP-CDN-02/2021/20210419174931.webp)
 
 ### [批哩啪哩](http://pilipali.cc/vod/type/id/4.html)
 
-![批哩啪哩](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2021/20210421104327.webp)
+![批哩啪哩](https://b2.wwkejishe.top/WP-CDN-02/2021/20210421104327.webp)
 
 ### [ギリギリ愛彈幕網](https://girigirilove.com/)
 

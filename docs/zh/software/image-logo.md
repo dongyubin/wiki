@@ -4,7 +4,7 @@ title: 国内外：免费设计及下载的LOGO在线设计网站
 
 # 国内外：免费设计及下载的LOGO在线设计网站
 
-![免费设计下载LOGO](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403191057268.webp)
+![免费设计下载LOGO](https://b2.wwkejishe.top/WP-CDN-02/2024/202403191057268.webp)
 
 ## AIDesign👍
 
@@ -14,7 +14,7 @@ title: 国内外：免费设计及下载的LOGO在线设计网站
 - 免费设计、下载高清图
 - 标注清晰：个人、商用许可
 
-![AIDesign](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403191048064.webp)
+![AIDesign](https://b2.wwkejishe.top/WP-CDN-02/2024/202403191048064.webp)
 
 ## U钙网
 
@@ -45,11 +45,11 @@ title: 国内外：免费设计及下载的LOGO在线设计网站
    <rect data-v-0dd9719b="" x="0" y="0" width="100%" height="100%" fill="url(#watermark)" fill-opacity="1" class="watermarklayer"></rect>
    ```
 
-   ![水印位置](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403181450290.png)
+   ![水印位置](https://b2.wwkejishe.top/WP-CDN-02/2024/202403181450290.png)
 
 2. 往上找到`svg标签`，右键 - 复制 - 复制元素
 
-   ![svg位置](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202403181451780.png)
+   ![svg位置](https://b2.wwkejishe.top/WP-CDN-02/2024/202403181451780.png)
 
 3. 在本地建一个 txt 文档，将代码粘贴进去，保存，再将 `txt`扩展名改为`svg`即可。
 

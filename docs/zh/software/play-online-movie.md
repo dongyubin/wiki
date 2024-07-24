@@ -2,7 +2,7 @@
 title: 在线影视网站合集
 ---
 
-![在线影视](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022072840.webp)
+![在线影视](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022072840.webp)
 
 [iOS、安卓合集](https://www.wangdu.site/software/21.html)
 
