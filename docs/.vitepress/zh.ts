@@ -74,8 +74,16 @@ function nav(): DefaultTheme.NavItem[] {
           link: 'https://www.wangdu.site'
         },
         {
-          text: 'MD翻译',
-          link: 'https://mt.wwkejishe.top'
+          text: '共享小火箭',
+          link: 'https://fk.wwkejishe.top/'
+        },
+        {
+          text: 'VPS优惠',
+          link: 'https://bestvps.wwkejishe.top/'
+        },
+        {
+          text: '科学上网',
+          link: 'https://help.wwkejishe.top/wang-shang-xue-ke'
         }
       ]
     }
@@ -152,6 +160,7 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '动漫', link: 'play-anime' },
         { text: '磁力搜索', link: 'play-magnetic-search' },
         { text: '磁力下载', link: 'play-magnetic-download' },
+        { text: 'IPTV直播源/工具', link: 'play-iptv' },
       ]
     },
     {
