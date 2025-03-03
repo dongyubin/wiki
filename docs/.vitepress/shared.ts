@@ -36,8 +36,9 @@ export const shared = defineConfig({
     ['meta', { property: 'twitter:title', content: 'Free Software Wiki | 免费软件的百科全书' }],
     ['meta', { property: 'twitter:site', content: 'Free Software Wiki' }],
     ['meta', { property: 'twitter:image', content: 'https://wiki.wangdu.site/og.png' }],
-    ['meta', { property: 'twitter:description', content: '免费软件的百科全书' }]
+    ['meta', { property: 'twitter:description', content: '免费软件的百科全书' }],
     // ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
+    ['script', { async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4173113313418612', crossorigin: 'anonymous' }]
   ],
 
   themeConfig: {
