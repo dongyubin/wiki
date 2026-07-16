@@ -16,8 +16,8 @@ const RSS: RSSOptions = {
 export default defineConfig({
   ...shared,
   locales: {
-    root: { label: '简体中文', ...zh },
-    // en: { label: 'English', ...en },
+    root: { label: '简体中文', link: '/zh/software/search-engines', ...zh },
+    en: { label: 'English', link: '/en/guide/money-indiehackers', ...en },
     // pt: { label: 'Português', ...pt }
   },
 

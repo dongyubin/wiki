@@ -12,7 +12,7 @@ export const en = defineConfig({
     nav: nav(),
 
     sidebar: {
-      '/guide/': { base: '/guide/', items: sidebarGuide() },
+      '/en/guide/': { base: '/en/guide/', items: sidebarGuide() },
       // '/reference/': { base: '/reference/', items: sidebarReference() }
     },
 
@@ -32,8 +32,8 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     {
       text: 'Guide',
-      link: '/guide/money-indiehackers',
-      activeMatch: '/guide/'
+      link: '/en/guide/money-indiehackers',
+      activeMatch: '/en/guide/'
     },
     // {
     //   text: 'Reference',

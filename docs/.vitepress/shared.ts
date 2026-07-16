@@ -2,6 +2,16 @@ import { defineConfig } from 'vitepress'
 import { search as zhSearch } from './zh'
 // import { search as ptSearch } from './pt'
 
+const siteUrl = 'https://wiki.wangdu.site'
+
+function canonicalUrl(relativePath: string) {
+  const pathname = relativePath
+    .replace(/(^|\/)index\.md$/, '$1')
+    .replace(/\.md$/, '')
+
+  return new URL(`/${pathname}`, siteUrl).href
+}
+
 export const shared = defineConfig({
   title: "Free Software Wiki",
   description: "免费软件的百科全书",
@@ -26,7 +36,6 @@ export const shared = defineConfig({
     ['meta', { property: 'og:title', content: 'Free Software Wiki | 免费软件的百科全书' }],
     ['meta', { property: 'og:site_name', content: 'Free Software Wiki' }],
     ['meta', { property: 'og:image', content: 'https://wiki.wangdu.site/og.png' }],
-    ['meta', { property: 'og:url', content: 'https://wiki.wangdu.site' }],
     ['meta', { name: 'google-site-verification', content: 'KBPn5wrmRqhyywKks4B7wK6kIXpOyxcFpm1FCx4XdR8' }],
     ['script', { src: 'https://font.wangdu.site/script.js', 'data-website-id': 'f1d6d35a-b736-4702-95dd-03bf623debf3' }],
     ['meta', { property: 'twitter:card', content: 'summary' }],
@@ -40,9 +49,12 @@ export const shared = defineConfig({
 
   transformHead({ pageData, siteData }) {
     const description = pageData.frontmatter.description || pageData.description || siteData.description
+    const canonical = pageData.frontmatter.canonical || canonicalUrl(pageData.relativePath)
 
     return [
+      ['link', { rel: 'canonical', href: canonical }],
       ['meta', { name: 'description', content: description }],
+      ['meta', { property: 'og:url', content: canonical }],
       ['meta', { property: 'og:description', content: description }],
       ['meta', { property: 'twitter:description', content: description }]
     ]
