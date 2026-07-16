@@ -1,5 +1,5 @@
 ---
-title: "2024年自行搭建Clash订阅转换平台，自建Sub-Web前端和SubConverter后端"
+title: "2026年自行搭建Clash订阅转换平台，自建Sub-Web前端和SubConverter后端"
 description: "前置条件 一台可部署的服务器：2024年国外高性价比便宜 VPS 推荐(稳定、好用、免费体验) Docker部署SubConverter 1. 使用SSH工具连接Linux系统，输入下面内容，回车（下面Docker镜像已配置加速） 2. 登录个人的宝塔面板，Docker - 容器，容器名：SubConvert..."
 category: "VPS教程"
 tags: [VPS, 主机, 服务器, SubConverter, Sub-Web, Clash]
