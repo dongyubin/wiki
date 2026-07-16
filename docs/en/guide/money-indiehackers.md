@@ -1,5 +1,6 @@
 ---
-title: Overseas Navigation
+title: "Indie Hacker Tools and Overseas Startup Resources"
+description: "A curated guide to indie hacker resources, payment options, tech stacks, SEO tips, and overseas project directories for builders launching global products."
 ---
 
 ## Comprehensive

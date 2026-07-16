@@ -1,5 +1,6 @@
 ---
-title: Win、Mac：免费纯净无广告压缩软件合集推荐
+title: "免费压缩软件推荐：WinRAR、7-Zip 和 Mac 解压工具"
+description: "整理 Windows 和 Mac 常用压缩解压软件，包括 7-Zip、Bandizip、WinRAR、Keka 等，适合日常打包、解压和格式转换。"
 ---
 
 # Win、Mac：免费纯净无广告压缩软件合集推荐

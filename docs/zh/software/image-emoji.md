@@ -1,5 +1,6 @@
 ---
-title: 10+网站：Emoji表情符号合集
+title: "Emoji 表情符号复制网站合集：颜文字和图标搜索"
+description: "精选 Emoji 表情、颜文字、Noto Emoji 和图标查询网站，支持搜索、复制、文字转 emoji，适合社交文案、设计和网页内容使用。"
 ---
 
 # 10+网站：Emoji表情符号合集

@@ -1,5 +1,6 @@
 ---
-title: Windows必备工具
+title: "Windows 装机必备软件清单：浏览器、下载和办公工具"
+description: "整理 Windows 新机常用软件，包括浏览器、文档处理、下载工具、输入法、编程工具、桌面整理、杀毒和系统优化工具。"
 ---
 
 ![Windows必备工具](https://b2.wwkejishe.top/WP-CDN-02/2022/202207281643644.webp)

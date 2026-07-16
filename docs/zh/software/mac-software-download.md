@@ -1,5 +1,6 @@
 ---
-title: 良心网站合集：Mac破解软件免费下载
+title: "Mac 破解软件和免费软件下载网站合集"
+description: "整理 MacKed、MacWk、ORANGE MAC、Digit77 等 Mac 软件资源站，包含下载方式、站点特点和常用 Mac 应用获取入口。"
 ---
 
 # 良心网站合集：Mac破解软件免费下载

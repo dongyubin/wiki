@@ -1,5 +1,6 @@
 ---
-title: 10个免费Win、Mac剪贴板历史管理工具合集
+title: "免费剪贴板历史管理工具推荐：Windows 和 Mac 合集"
+description: "整理 Ditto、CopyQ、Maccy、Paste、Copy++ 等剪贴板增强工具，支持历史记录、跨平台复制、搜索和常用文本管理。"
 ---
 
 # 10个免费Win、Mac剪贴板历史管理工具合集

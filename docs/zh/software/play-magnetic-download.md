@@ -1,5 +1,6 @@
 ---
-title: 磁力下载软件合集：老司机必备！
+title: "磁力下载软件推荐：BT 种子和 Magnet 下载工具合集"
+description: "整理 BT 磁力下载原理、在线下载器、PikPak、Webtor、Motrix、迅雷替代工具和 NAS 下载方案，适合高速下载种子资源。"
 ---
 
 # 磁力下载软件合集：老司机必备！

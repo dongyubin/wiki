@@ -1,5 +1,6 @@
 ---
-title: TeamViewer替代品：10款可远程控制电脑的免费软件合集
+title: "远程桌面软件推荐：TeamViewer 替代和跨平台控制工具"
+description: "整理网易 UU 远程、ToDesk、AnyDesk、向日葵、RustDesk、GotoHTTP 等远程控制软件，对比系统支持和适用场景。"
 ---
 
 # TeamViewer替代品：10款可远程控制电脑的免费软件合集

@@ -1,5 +1,6 @@
 ---
-title: 使用VitePress 1.1.4 搭建文档网站踩坑记录
+title: "VitePress 搭建文档网站和 Vercel 部署踩坑记录"
+description: "记录使用 VitePress 搭建 Markdown 文档站、配置 cleanUrls、Algolia DocSearch、Vercel 部署和缓存问题的实操经验。"
 ---
 
 # 使用VitePress 1.1.4 搭建文档网站踩坑记录

@@ -1,5 +1,6 @@
 ---
-title: 2024年免费好用的8个搜索引擎工具推荐
+title: "免费搜索引擎推荐：Google 替代和聚合搜索工具"
+description: "整理 Google、DuckDuckGo、F搜、Dogpile、Magi、虫部落等搜索工具，适合查资料、找网站、聚合检索和隐私搜索。"
 ---
 
 # 2024年免费好用的8个搜索引擎工具推荐

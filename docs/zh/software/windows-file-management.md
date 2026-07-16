@@ -1,5 +1,6 @@
 ---
-title: Windows文件管理器
+title: "Windows 文件管理器推荐：多标签资源管理器替代工具"
+description: "整理 Clover、Tablacus Explorer、Total Commander、Files、One Commander 等工具，提升文件浏览、双栏管理和标签页操作效率。"
 ---
 
 ![文件管理器](https://b2.wwkejishe.top/WP-CDN-02/2022/202205181106489.webp)

@@ -1,5 +1,6 @@
 ---
-title: 免费白嫖 ChatGPT-4 服务：Coze 扣子 - 字节最强AI Bot
+title: "免费 ChatGPT 镜像站和 API 申请教程合集"
+description: "整理可用的 ChatGPT 免费镜像、API 申请网站、客户端和自建方案，适合想低成本体验 GPT、获取 API Key 或搭建私人 AI 服务的用户。"
 ---
 
 # 免费白嫖 ChatGPT-4 服务：Coze 扣子 - 字节最强AI Bot

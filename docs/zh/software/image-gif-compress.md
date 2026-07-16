@@ -1,5 +1,6 @@
 ---
-title: 在线、客户端：免费好用的GIF动图压缩工具合集
+title: "免费 GIF 压缩工具推荐：在线压缩和客户端合集"
+description: "整理 Gif Compressor、EZGIF、ILoveImg、docsmall、GIFSicle 等工具，帮助压缩动图体积、优化网页加载和制作表情包。"
 ---
 
 # 在线、客户端：免费好用的GIF动图压缩工具合集

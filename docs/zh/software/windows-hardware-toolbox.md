@@ -1,5 +1,6 @@
 ---
-title: Windows硬件工具箱
+title: "Windows 硬件检测工具箱推荐：图吧、卡硬和维护工具"
+description: "整理图吧工具箱、卡硬工具箱、入梦工具箱、LDTools 等硬件检测和系统维护工具，适合装机验机、跑分和排查电脑问题。"
 ---
 
 ![Windows硬件工具箱](https://b2.wwkejishe.top/WP-CDN-02/2023/202301291104104.jpg)

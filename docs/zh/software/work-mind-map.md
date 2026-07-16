@@ -1,5 +1,6 @@
 ---
-title: 9款免费比收费强的思维导图工具合集
+title: "免费思维导图软件推荐：XMind、GitMind 和在线工具"
+description: "整理 XMind、GitMind、MindMaster、ProcessOn、幕布等思维导图工具，适合学习笔记、项目规划、头脑风暴和大纲整理。"
 ---
 # 9款免费比收费强的思维导图工具合集
 

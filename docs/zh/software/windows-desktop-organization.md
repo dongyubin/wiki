@@ -1,5 +1,6 @@
 ---
-title: Windows桌面整理
+title: "Windows 桌面整理工具推荐：图标收纳和文件分类"
+description: "整理腾讯桌面整理、Fences、Nimi Places、小智桌面等工具，适合分类桌面图标、整理文件、搜索应用和提升桌面效率。"
 ---
 
 ![桌面整理](https://b2.wwkejishe.top/WP-CDN/20210113180406.webp)

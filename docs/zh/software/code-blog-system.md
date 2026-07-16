@@ -1,5 +1,6 @@
 ---
-title: 博客系统推荐合集
+title: "免费开源博客系统推荐：WordPress、Halo、静态博客"
+description: "对比整理动态和静态博客系统，包括 WordPress、Halo、Solo、Typecho、Hexo 等，适合个人建站、技术博客和内容网站选型。"
 ---
 
 # 动态、静态：免费开源个人博客系统

@@ -1,5 +1,6 @@
 ---
-title: 解决办法：这个Apple ID没有被激活
+title: "Apple ID 未激活怎么办？在线和电话恢复方法"
+description: "针对 This Apple ID is not active、账号被禁用或停用等问题，整理苹果官网、电话客服和在线客服恢复流程，帮助找回可用 Apple ID。"
 ---
 
 # 解决办法：This Apple ID is not active.

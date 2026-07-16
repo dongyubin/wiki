@@ -1,5 +1,6 @@
 ---
-title: ChatGPT镜像网站&免费API
+title: "免费 ChatGPT 镜像网站和 API Key 资源合集"
+description: "整理国内可用的 ChatGPT 镜像站、免费 API 申请渠道、AI 客户端和自建方案，适合想低成本体验 GPT 或接入 API 的用户。"
 ---
 
 # 免费的ChatGPT镜像网站列表&API

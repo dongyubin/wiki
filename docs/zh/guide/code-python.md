@@ -1,5 +1,6 @@
 ---
-title: Python教程推荐：更快入门Python语言
+title: "Python 入门教程推荐：30 天快速学习编程"
+description: "精选适合新手的 Python 学习资料，包括 30 Days Of Python 和中文学习笔记，覆盖函数、文件、异常、网络编程等入门内容。"
 ---
 
 # Python教程推荐：更快入门Python语言

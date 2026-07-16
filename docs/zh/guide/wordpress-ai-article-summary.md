@@ -1,5 +1,6 @@
 ---
-title: AI Article Summary：让你的WordPress主题拥有AI摘要
+title: "WordPress AI 摘要插件 AI SEO Summary Pro 教程"
+description: "介绍 AI SEO Summary Pro 的功能、下载、激活、摘要生成、关键词提取和通用设置，适合想给 WordPress 文章添加 AI 摘要的站长。"
 ---
 
 # AI Article Summary：让你的WordPress主题拥有AI摘要
