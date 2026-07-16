@@ -13,7 +13,8 @@ export const zh = defineConfig({
 
     sidebar: {
       '/zh/guide/': { base: '/zh/guide/', items: sidebarGuide() },
-      '/zh/software/': { base: '/zh/software/', items: sidebarReference() }
+      '/zh/software/': { base: '/zh/software/', items: sidebarReference() },
+      '/zh/vps/': { base: '/zh/vps/', items: sidebarVps() }
     },
 
     editLink: {
@@ -67,19 +68,24 @@ function nav(): DefaultTheme.NavItem[] {
       activeMatch: '/guide/'
     },
     {
+      text: 'VPS优惠',
+      link: '/zh/vps/index',
+      activeMatch: '/zh/vps/'
+    },
+    {
       // text: pkg.version,
       items: [
         {
-          text: '博客',
+          text: '文武软件柜',
           link: 'https://www.wangdu.site'
         },
         {
           text: '共享小火箭',
-          link: 'https://fk.wwkejishe.top/'
+          link: 'https://ios.wwkejishe.top/'
         },
         {
           text: 'VPS优惠',
-          link: 'https://bestvps.wwkejishe.top/'
+          link: '/zh/vps/index'
         },
         {
           text: '科学上网',
@@ -230,6 +236,82 @@ function sidebarReference(): DefaultTheme.SidebarItem[] {
         { text: '博客系统', link: 'code-blog-system' },
       ]
     },
+  ]
+}
+
+function sidebarVps(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'VPS推荐',
+      collapsed: false,
+      items: [
+        { text: 'VPS推荐总览', link: 'index' }
+      ]
+    },
+    {
+      text: 'VPS选购指南',
+      collapsed: true,
+      items: [
+        { text: '如何选择 VPS', link: 'guide/choose-vps' },
+        { text: '购买 VPS 注意事项', link: 'guide/choose-vps-note' }
+      ]
+    },
+    {
+      text: '国外VPS',
+      collapsed: false,
+      items: [
+        { text: 'RackNerd', link: 'foreign/racknerd' },
+        { text: '搬瓦工 BandwagonHost', link: 'foreign/banwagon' },
+        { text: 'DMIT', link: 'foreign/dmit' },
+        { text: 'BuyVM', link: 'foreign/buyvm' },
+        { text: 'CloudCone', link: 'foreign/cloudcone' },
+        { text: 'CloudSilk', link: 'foreign/cloudsilk' },
+        { text: 'V.PS / VPS.Hosting', link: 'foreign/vps-hosting' },
+        { text: 'JustHost', link: 'foreign/justhost' },
+        { text: 'Hosteons', link: 'foreign/hosteons' },
+        { text: 'GigsGigsCloud', link: 'foreign/gigsgigscloud' },
+        { text: 'EthernetServers', link: 'foreign/ethernetservers' },
+        { text: 'DesiVPS', link: 'foreign/desivps' },
+        { text: 'AlphaVPS', link: 'foreign/alphavps' },
+        { text: 'AkileCloud', link: 'foreign/akilecloud' },
+        { text: 'RAKsmart', link: 'foreign/raksmart' },
+        { text: 'Tototel', link: 'foreign/tototel' },
+        { text: 'ZgoCloud', link: 'foreign/zgocloud' }
+      ]
+    },
+    {
+      text: '国内VPS',
+      collapsed: true,
+      items: [
+        { text: '阿里云 300 元无门槛代金券', link: 'china/aliyun-300' },
+        { text: '阿里云 99 元 ECS', link: 'china/aliyun-99-ecs' },
+        { text: '阿里云双11', link: 'china/aliyun-shuang11' },
+        { text: '腾讯云双11', link: 'china/tencent-shuang11' },
+        { text: 'DogYun', link: 'china/dogyun' },
+        { text: 'CubeCloud', link: 'china/cubecloud' }
+      ]
+    },
+    {
+      text: '稳定机场',
+      collapsed: true,
+      items: [
+        { text: 'Just My Socks', link: 'proxy/justmysocks' }
+      ]
+    },
+    {
+      text: 'VPS教程',
+      collapsed: true,
+      items: [
+        { text: '搬瓦工购买教程', link: 'tutorial/banwagong-buy' },
+        { text: '一键脚本搭建 Trojan', link: 'tutorial/vps-trojan' },
+        { text: 'VPS 流媒体解锁测试', link: 'tutorial/vps-check' },
+        { text: 'serv00 搭建 WordPress', link: 'tutorial/serv00-wordpress' },
+        { text: 'serv00 自动保活', link: 'tutorial/serv00-keep-active' },
+        { text: 'Sub-Web 订阅转换平台', link: 'tutorial/subconverter-subweb' },
+        { text: '宝塔面板开心版', link: 'tutorial/baotamianban' },
+        { text: 'Fuclaude 使用指南', link: 'tutorial/fuclaude' }
+      ]
+    }
   ]
 }
 

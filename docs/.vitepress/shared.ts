@@ -21,13 +21,11 @@ export const shared = defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
     ['meta', { name: 'keywords', content: 'Free software,Free Software Wiki,Free Software tutorial,Free AI Software,' }],
-    ['meta', { name: "description", content: "Free Software Wiki，免费软件的百科全书" }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'zh' }],
     ['meta', { property: 'og:title', content: 'Free Software Wiki | 免费软件的百科全书' }],
     ['meta', { property: 'og:site_name', content: 'Free Software Wiki' }],
     ['meta', { property: 'og:image', content: 'https://wiki.wangdu.site/og.png' }],
-    ['meta', { name: "og:description", content: "Free Software Wiki，免费软件的百科全书" }],
     ['meta', { property: 'og:url', content: 'https://wiki.wangdu.site' }],
     ['meta', { name: 'google-site-verification', content: 'KBPn5wrmRqhyywKks4B7wK6kIXpOyxcFpm1FCx4XdR8' }],
     ['script', { src: 'https://font.wangdu.site/script.js', 'data-website-id': 'f1d6d35a-b736-4702-95dd-03bf623debf3' }],
@@ -36,10 +34,19 @@ export const shared = defineConfig({
     ['meta', { property: 'twitter:title', content: 'Free Software Wiki | 免费软件的百科全书' }],
     ['meta', { property: 'twitter:site', content: 'Free Software Wiki' }],
     ['meta', { property: 'twitter:image', content: 'https://wiki.wangdu.site/og.png' }],
-    ['meta', { property: 'twitter:description', content: '免费软件的百科全书' }],
     // ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
     ['script', { async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4173113313418612', crossorigin: 'anonymous' }]
   ],
+
+  transformHead({ pageData, siteData }) {
+    const description = pageData.frontmatter.description || pageData.description || siteData.description
+
+    return [
+      ['meta', { name: 'description', content: description }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'twitter:description', content: description }]
+    ]
+  },
 
   themeConfig: {
     logo: { src: '/logo.png', width: 24, height: 24 },
