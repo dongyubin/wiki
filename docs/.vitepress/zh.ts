@@ -133,6 +133,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       collapsed: true,
       items: [
         { text: '帐号解锁与找回', link: 'apple-id-not-active' },
+        { text: '帐号被锁定、禁用或停用', link: 'apple-id-question' }
       ]
     },
     {

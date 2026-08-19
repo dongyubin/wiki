@@ -5,8 +5,6 @@ description: "针对 This Apple ID is not active、账号被禁用或停用等�
 
 # 解决办法：This Apple ID is not active.
 
-[助激活服务](https://fk.wwkejishe.top/buy/15)（英语不是很好，嫌麻烦的可以使用此服务）
-
 ## 这个Apple ID没有被激活？你的id已被禁用/停用怎么办？
 
 ```sh
