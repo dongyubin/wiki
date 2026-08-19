@@ -49,7 +49,7 @@ description: ""
     
     - **提示：** 请务必设置一个包含大小写字母、数字和特殊符号的强密码，并妥善保管。
     
-        ![Apple ID修改密码](https://img.muooy.com/img/1/2025/06/26/685d5088aa8e3.webp)
+        ![Apple ID修改密码](https://cdn.wwkejishe.top/wp-cdn-02/2026/20260819093539984.webp)
     
 2. **修改Apple ID安全问题及答案：**
     - 在“**账户安全**”部分，点击“**更改安全提示问题**”按钮。
