@@ -1,9 +1,9 @@
 ---
-title: 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年7月8日持续更新）
+title: 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月3日持续更新）
 description: 这篇文章介绍了2026年7月最新的中国大陆、台湾、香港、澳门及海外的IPTV直播源M3U和观看工具。内容包括直播源的分类（如纯IPv4源、纯IPv6源、部分IPv4和IPv6源等），以及相关的播放工具（如IPTV Pro、VideoLAN、Kodi等）。还提供了一些直播源的检测和转换工具、EPG节目单及其使用方法，并总结了智能电视安装TVBox和影视仓的方法。
 ---
 
-# 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年7月8日持续更新）
+# 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月3日持续更新）
 
 ![APTV、IPTV、TVBox直播源&播放工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
@@ -62,16 +62,16 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 稳定套餐详情（推荐）
 
-- 常用频道：汇聚了 300 多个优质频道，涵盖国内外新闻时事、影视娱乐、体育赛事、纪录片、少儿教育等各类精彩内容，满足全家不同的观影需求。
+- 常用频道：汇聚了 `400` 多个优质频道，涵盖国内外新闻时事、影视娱乐、体育赛事、纪录片、少儿教育等各类精彩内容，满足全家不同的观影需求。
 - 注意：每个订阅账户仅限 `1` 个设备数播放，`不能同时超过 2 个设备打开播放`，请勿随意分享，否则可能被系统自动封禁。
 - **不支持切换套餐，请看准后下单购买。**
 - 支持 `APTV`（Apple TV） 、Televizo、Tivimate（有 Xtream Codes 协议的软件）
 - 3 条对于不同运营商的优化线路
 - **XSTREAM CODES 登录**，非 m3u 订阅地址（m3u 订阅地址可看下面 `国内频道 m3u 套餐`）
 
-| 常用频道类目                    | 试用版（2 小时，创建即激活）                                 | 季卡（90天）                                                 | 年卡（365天）                                                |
+| 常用频道类目                    | 试用版（1天）                                                | 季卡（90天）                                                 | 年卡（365天+赠送180天）                                      |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [110元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [330元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
+| 价格                            | [5元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [140元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [400元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
 | 港澳台                          | ✅                                                            | ✅                                                            | ✅                                                            |
 | 国内体育                        | ✅                                                            | ✅                                                            | ✅                                                            |
@@ -110,7 +110,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 > 2026年国际足联世界杯（英语：2026 FIFA World Cup Canada/Mexico/United States、法语：Coupe du monde de la FIFA de 2026 Canada/Mexique/États-Unis、西班牙语：Copa mundial de la FIFA Canadá/México/Estados Unidos 2026）为第23届国际足联世界杯赛事，由国际足联主办，定于2026年6月11日至7月19日举行，由美国、墨西哥和加拿大三国联合举办。赛事将在三个国家的16座城市间展开，是世界杯历史上首次由三个国家联合举办。
 
-2026 美加墨世界杯 **6 月 11 日开赛**，海外华人想看 **中文解说**， 央视的 CCTV5 / CCTV5+ / 央视频与咪咕视频都做了 IP 地域限制。
+2026 美加墨世界杯 **6 月 11 日开赛**，海外华人想看 **中文解说**， 央视的 CCTV5 / CCTV5+ / 央视频与咪咕视频都做了 IP 地域限制。 
 
 ### 海外能看中文解说的 3 个渠道
 
@@ -292,24 +292,41 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
   热门频道：纬来体育台、TVB翡翠台、CCTV5体育频道、CCTV5+体育赛事频道、爱尔达体育1台、爱尔达体育2台、爱尔达体育3台、TVBS 56台
 
-- 123IPTV 支持在线观看央视频道、 卫视频道、 体育频道、 台湾频道、 香港頻道、马来西亚、国外电视、新加坡频道、越南频道、韩国频道、印尼频道、日本频道、澳门频道等分类的电视频道。
+- [電視直播,全球電視直播,網絡電視直播 - 123iptv](https://www.123iptv.tv/) 支持在线观看央视频道、 卫视频道、 体育频道、 台湾频道、 香港頻道、马来西亚、国外电视、新加坡频道、越南频道、韩国频道、印尼频道、日本频道、澳门频道等分类的电视频道。
 
   对中国进行了详细的地区分类来进行更加细化的查找电视台。
 
-- IPTV807 支持在线观看综合、体育（广东体育、劲爆体育、五星体育、新视觉HD、极速汽车、游戏风云等）、央视、卫视、港澳台、其他、电影、咪咕视频、福建移动IPTV、黑龙江移动IPTV、IPv6网络电视(限IPv6)等分类的电视频道。
+- [IPTV807電視直播](https://iptv807.com/)支持在线观看综合、体育（广东体育、劲爆体育、五星体育、新视觉HD、极速汽车、游戏风云等）、央视、卫视、港澳台、其他、电影、咪咕视频、福建移动IPTV、黑龙江移动IPTV、IPv6网络电视(限IPv6)等分类的电视频道。
 
 - [央视网](https://tv.cctv.com/live/)：CCTV-1 综合、CCTV-2 财经、CCTV-3 综艺、CCTV-4 中文国际、CCTV-4 中文国际美洲、CCTV-4 中文国际欧洲、CCTV-5 体育、CCTV-5+ 体育赛事、CCTV-6 电影、CCTV-7 国防军事、CCTV-8 电视剧、CCTV-9 纪录、CCTV-10 科教、CCTV-11 戏曲、CCTV-12 社会与法、CCTV-13 新闻、CCTV-14 少儿、CCTV-15 音乐、CCTV-17 农业农村
 
 - [央视频](https://www.yangshipin.cn/tv/home)：CCTV1-CCTV17、CGTN
 
-- [電視直播](https://iptv807.com/)
-- [電視直播,全球電視直播,網絡電視直播 - 123iptv](https://www.123iptv.tv/)
 - [牛視網-線上看電視直播-足球直播-籃球直播-體育直播](https://www.chaojidianshi.net/)（需要[富强](https://help.wwkejishe.top/wang-shang-xue-ke)上网）
+
 - [CIPTV](https://ciptv.org/)：Experience Live TV Streaming With Free YouTube TV And Other Streaming Services.
 
     - **免费直播电视**：聚合全球各地的免费网络电视频道
     - **频道搜索与分类浏览**：通过工具栏和菜单栏快速查找频道
     - **多平台覆盖**：支持随时随地在任何设备上观看
+    
+- IPTV直播源监控：[https://zilong7728.github.io/Collect-IPTV/](https://zilong7728.github.io/Collect-IPTV/)（[github源码](https://github.com/zilong7728/Collect-IPTV)）：节目源每4小时自动更新 | 实时筛选 & 一键复制链接
+
+    >⚠️ **特别说明：** 因使用 GitHub 服务器，**不保证国内网络环境下的链接速度与可用性**。
+    >⚠️ **部分节目源来自互联网公开资源，上游源可能自行添加广告、弹窗、二维码或“赞助”提示。此类内容由上游节目源提供，与本项目及项目作者本人无关，本项目未主动添加、推广或收取相关赞助。**
+    >⚠️ 所有频道的完整性与有效性高度依赖上游网络资源；若上游频道源大面积失效，自动更新时可能会被可用性检测过滤。
+
+### 国外频道在线电视直播
+
+美国、韩国、日本等国外频道在线查看直播
+
+- [IPTV Web](https://iptv-web.app/)：Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
+- [FashionTV](https://fashiontv.com/)
+- [Parsa TV](https://www.parsatv.com/)
+- [COOLSTREAMING](https://www.coolstreaming.us/)
+- [OX-AX](http://oxax.tv) (18+)
+- [Teleonline](https://teleonline.org/)
+- [Jackal](http://jackal.surge.sh/) - Watch live tv from your browser with the help of Next application.
 
 ### Global Free TV
 
@@ -430,6 +447,14 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 > - 移动用户可联系客服开通或领取会员。
 > - 为避免封号风险，请谨慎使用，本仓库不保证安全性。
 
+### 咪咕直播源
+
+- 咪咕源实时更新：`https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u`
+
+### 排位赛阿塞拜疆F1练习赛Apple TV
+
+排位赛阿塞拜疆F1练习赛Apple TV杜比视界4K开启了，4K杜比视界+5.1声道 F1直播均在：`https://kan.waiguotai.top/other.m3u`（来自：[IPTV直播源总部](https://t.me/iptvorganization/164)）
+
 ## TG直播源
 
 - Mursor大佬的 IPTV TG订阅机器人： [@mursorottiptv_bot](https://t.me/mursorottiptv_bot)
@@ -480,48 +505,21 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 - M3U 格式直播源：`https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u`
 - TXT 格式直播源：`https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt`
 
-### imDazui（2025）
+### Collect-IPTV
 
-[imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)：直播源相关资源汇总 📺 💯 IPTV、M3U（境外中文直播源）
+[zilong7728/Collect-IPTV: 📡IPTV节目源收集，每4小时更新！！](https://github.com/zilong7728/Collect-IPTV)（[在线TV List](https://zilong7728.github.io/Collect-IPTV/)）
 
-- 国内电视台直播源.m3u8 - (CCTV、各大卫视、上千个地方台)
-- ~~CCTV+卫视-百视TV.m3u8~~
-- ~~CCTV+卫视-重庆广电.m3u8~~
-- ~~CCTV+卫视-上海源.m3u8~~
-- ~~CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8~~
-- CCTV+卫视+地方台-安徽农大.m3u8
-- 国外电视台直播源.m3u8 - (韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
-- 台湾香港澳门电视台直播源.m3u8
-- 轮播黑莓华数.NewTV.SiTV.CIBN.m3u8
-- 800个广播电台.m3u8
-- 景区直播源.m3u8
+- m3u 格式直播源：`https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u`
 
-各地运营商 IPTV 直播源
+>⚠️ 特别说明：因使用 GitHub 服务器，**不保证国内网络环境下的链接速度与可用性**。
+>⚠️ 所有频道的完整性与有效性高度依赖上游网络资源；若上游频道源大面积失效，自动更新时可能会被可用性检测过滤。
 
-- ~~北京联通组播IPTV直播源.m3u8~~
-- ~~北京电信组播IPTV直播源.m3u8~~
-- ~~北京移动IPTV直播源.m3u8~~
-- ~~上海电信组播直播源.m3u8~~
+### iptv-scraper
 
-其他直播源，不确定有效性
+[xJEYDAin/iptv-scraper](https://github.com/xJEYDAin/iptv-scraper): 自动抓取全球 IPTV 直播源，支持测速过滤、别名标准化、台标注入，覆盖港台/日韩/欧美等40+国家
 
-- 我的播放源.m3u8
-- GGTV424个源全部可用.m3u
-- 45个影视剧场全部流畅.m3u8
-- 1300个直播源全部有效【全部4k老电脑别用】.m3u8
-- 3100个全部有效.m3u8
-- 5000个直播源全部有效.m3u
-- 国家直播源160多个全部有效.m3u
-- 9个CCTV付费频道直播源.m3u8
-- 央视+卫视+NewTV-广西移动直播源.m3u8
-- CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8
-- CCTV+卫视+地方台-安徽农大.m3u8
-- CCTV+卫视-天途云.m3u8
-- CCTV+卫视-平顶山学院教育网.m3u8
-- CCTV+卫视-腾讯云.m3u8
-- 国内电视台直播源.m3u8 (CCTV、各大卫视、上千个地方台)
-- 台湾香港海外直播源.m3u8 (台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
-- 轮播_华数求索爱奇艺CIBN.m3u8
+- **香港:** `https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/hk_merged.m3u`
+- **全球:** `https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/master/output/all_merged.m3u`
 
 ### migu_video
 
@@ -711,15 +709,15 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 - 推荐直播源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u`
 - 虎牙一起看：`https://live.freetv.top/huyayqk.m3u`
-- 斗鱼一起看：`https://live.freetv.top/douyuyqk.m3u`
-- YY轮播：`https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top`
-- BiliBili直播：`https://www.goodiptv.club/bililive.m3u`
-- 精选IPV6源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u`
-- 4K/8K源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u`
-- YQGD源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u`
+- 斗鱼一起看：`https://live.freetv.top/douyuyqk.m3u` 
+- YY轮播：`https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top` 
+- BiliBili直播：`https://www.goodiptv.club/bililive.m3u` 
+- 精选IPV6源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u` 
+- 4K/8K源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u` 
+- YQGD源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u` 
 - 百视通源 IPV4：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`
 - 重庆广电源 IPV4：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u`
-- 河北广电源 IPV4：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u`
+- 河北广电源 IPV4：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u` 
 - MSP源：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u`
 
 ### jazzforlove（2024）
@@ -845,6 +843,49 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 - 电视直播源：`https://myernestlu.github.io/zby.txt`
 - 电台直播源：`https://myernestlu.github.io/dty.txt`
 
+### imDazui（2025）
+
+[imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)：直播源相关资源汇总 📺 💯 IPTV、M3U（境外中文直播源）
+
+- 国内电视台直播源.m3u8 - (CCTV、各大卫视、上千个地方台)
+- ~~CCTV+卫视-百视TV.m3u8~~
+- ~~CCTV+卫视-重庆广电.m3u8~~
+- ~~CCTV+卫视-上海源.m3u8~~
+- ~~CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8~~
+- CCTV+卫视+地方台-安徽农大.m3u8
+- 国外电视台直播源.m3u8 - (韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
+- 台湾香港澳门电视台直播源.m3u8
+- 轮播黑莓华数.NewTV.SiTV.CIBN.m3u8
+- 800个广播电台.m3u8
+- 景区直播源.m3u8
+
+各地运营商 IPTV 直播源
+
+- ~~北京联通组播IPTV直播源.m3u8~~
+- ~~北京电信组播IPTV直播源.m3u8~~
+- ~~北京移动IPTV直播源.m3u8~~
+- ~~上海电信组播直播源.m3u8~~
+
+其他直播源，不确定有效性
+
+- 我的播放源.m3u8
+- GGTV424个源全部可用.m3u
+- 45个影视剧场全部流畅.m3u8
+- 1300个直播源全部有效【全部4k老电脑别用】.m3u8
+- 3100个全部有效.m3u8
+- 5000个直播源全部有效.m3u
+- 国家直播源160多个全部有效.m3u
+- 9个CCTV付费频道直播源.m3u8
+- 央视+卫视+NewTV-广西移动直播源.m3u8
+- CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8
+- CCTV+卫视+地方台-安徽农大.m3u8
+- CCTV+卫视-天途云.m3u8
+- CCTV+卫视-平顶山学院教育网.m3u8
+- CCTV+卫视-腾讯云.m3u8
+- 国内电视台直播源.m3u8 (CCTV、各大卫视、上千个地方台)
+- 台湾香港海外直播源.m3u8 (台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
+- 轮播_华数求索爱奇艺CIBN.m3u8 
+
 ### owen2000wy（2024）
 
 [owen2000wy/owentv: owentv, more stable, more fun.](https://github.com/owen2000wy/owentv)
@@ -871,6 +912,161 @@ euepg接口: https://epg.112114.eu.org/
 ```
 
 ## IPTV直播源（Docker自搭建）
+
+### 五大联赛赛事直播使用教程
+
+`wudaliansai` 用于生成赛事“直播中”M3U 列表，覆盖足球、篮球、电竞。列表中的每条链接都是本地代理地址，访问时会 302 跳转到真实播放地址。（Docker镜像拉取不下来，请使用：[国内DockerHub镜像加速器](https://www.wangdu.site/course/2109.html)）
+
+镜像支持多平台架构：
+
+- linux/amd64
+- linux/arm64
+- linux/arm/v7
+
+#### Docker 运行
+
+```bash
+docker run -d \
+  --name wudaliansai \
+  --restart always \
+  -p 18765:18765 \
+  -v wudaliansai-cache:/cache \
+  iptvtop/wudaliansai:latest
+```
+
+访问直播列表：
+
+```text
+http://你的服务器IP:18765/live.m3u
+```
+
+例如：
+
+```text
+http://127.0.0.1:18765/live.m3u
+```
+
+健康检查：
+
+```text
+http://你的服务器IP:18765/health
+```
+
+#### Docker Compose
+
+```yaml
+services:
+  wudaliansai:
+    image: iptvtop/wudaliansai:latest
+    container_name: wudaliansai
+    restart: always
+    ports:
+      - "18765:18765"
+    volumes:
+      - wudaliansai-cache:/cache
+
+volumes:
+  wudaliansai-cache:
+```
+
+启动：
+
+```bash
+docker compose up -d
+```
+
+#### 播放地址自动匹配访问地址
+
+列表里的本地链接会根据你访问 M3U 时使用的地址自动生成，不需要手动指定前缀：
+
+- 用 `http://127.0.0.1:18765/live.m3u` 访问，生成的链接就是 `http://127.0.0.1:18765/play/...`
+- 用 `http://192.168.1.100:18765/live.m3u` 访问，生成的链接就是 `http://192.168.1.100:18765/play/...`
+
+#### CDN 或反向代理地址
+
+如果通过 CDN 或反向代理提供 HTTPS 域名，推荐直接设置固定基址：
+
+```bash
+docker run -d \
+  --name wudaliansai \
+  --restart always \
+  -p 18765:18765 \
+  -v wudaliansai-cache:/cache \
+  -e WUDALIANSAI_BASE_URL=https://你的域名 \
+  iptvtop/wudaliansai:latest
+```
+
+也可以让反向代理透传 `X-Forwarded-Proto` 和 `X-Forwarded-Host`，服务会自动使用对应协议和域名生成链接。
+
+#### 环境变量
+
+| 变量                       | 默认值          | 说明                            |
+| -------------------------- | --------------- | ------------------------------- |
+| `BIND`                     | `0.0.0.0:18765` | 监听地址                        |
+| `WUDALIANSAI_CACHE_DIR`    | `/cache`        | 域名等缓存目录                  |
+| `WUDALIANSAI_BASE_URL`     | 空              | 固定 M3U 链接基址，覆盖自动识别 |
+| `WUDALIANSAI_DOMAIN`       | 空              | 优先使用的上游 API 域名         |
+| `WUDALIANSAI_KIWI_DOMAINS` | 空              | Kiwi 预埋域名，逗号分隔         |
+| `RUST_LOG`                 | `info`          | 日志级别                        |
+
+#### 缓存说明
+
+- 直播中列表缓存 10 分钟；
+- 每个真实播放地址缓存 10 分钟；
+- 上游 API 域名健康检查结果缓存 5 分钟，失败自动切换并进入冷却；
+- 域名列表会写入 `WUDALIANSAI_CACHE_DIR/domain_cache.json`，重启后优先复用。
+
+#### Watchtower 自动更新
+
+如果已经有 Watchtower，不需要再创建第二个。重建现有 Watchtower，并把
+`wudaliansai` 加入监控列表即可：
+
+```bash
+docker rm -f watchtower
+docker run -d \
+  --name watchtower \
+  --restart always \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  containrrr/watchtower:latest \
+  wudaliansai \
+  --cleanup \
+  --interval 3600
+```
+
+如果还需要同时监控其他容器，把容器名一起写在 `wudaliansai` 后面即可。
+
+#### 手动更新
+
+```bash
+docker pull iptvtop/wudaliansai:latest
+docker rm -f wudaliansai
+docker run -d \
+  --name wudaliansai \
+  --restart always \
+  -p 18765:18765 \
+  -v wudaliansai-cache:/cache \
+  iptvtop/wudaliansai:latest
+```
+
+#### 常用检查
+
+检查容器状态：
+
+```bash
+docker ps | grep wudaliansai
+```
+
+查看日志：
+
+```bash
+docker logs -f wudaliansai
+```
+
+检查服务与缓存状态：
+
+```bash
+curl http://127.0.0.1:18765/health
+```
 
 ### pixman
 
@@ -1080,20 +1276,20 @@ rtp2httpd 支持将组播 RTP/UDP 流、RTSP 流转换为 HTTP 单播流，并�
 
 [IPTV / HLS /m3u8 player / 7000+ free channels](https://microsoftedge.microsoft.com/addons/detail/iptv-hls-m3u8-player-/eacakocccifgomomoepgblandcbaiooj)
 
-- 播放您在文本框中单击的 m3u8 链接
+- 播放您在文本框中单击的 m3u8 链接 
 - 针对不同国家和类别的 7000 多个 IPTV 频道。
 - 所有频道都是公开的
 - 根据关键字、国家和类别搜索 IPTV 频道
 - 为喜爱的频道添加书签
 - 所有频道都分为不同的类别和国家组
 
-### IPTV Pro
+### IPTV Pro 
 
 IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、多媒体、通讯等技术于一体，向家庭用户提供包括数字电视在内的多种交互式服务的崭新技术。它能够很好地适应当今网络飞速发展的趋势，充分有效地利用网络资源。让您可以从 Internet 服务提供商处观看 IPTV，或从网络上的任何其他来源观看免费的直播电视频道。
 
 [IPTV Pro v8.0.7 for Android 解锁专业版](https://pan.quark.cn/s/0e5d00d5af78)
 
-- 如何添加M3U直播源？
+- 如何添加M3U直播源？ 
   - 加入播放列表 - 添加网址 - 输入M3U直播源地址 - 确定。
 
 
@@ -1279,6 +1475,7 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 
 | 软件名称                   | 支持系统                            | 央视频道 | 卫视频道 | 地方频道 | 港澳台频道 | 海外地区 | 体育频道 |
 | -------------------------- | ----------------------------------- | -------- | -------- | -------- | ---------- | -------- | -------- |
+| 柠檬IPTV直播               | Android                             | ✅        | ✅        |          |            |          |          |
 | DongYuTVWeb                | Android                             | ✅        | ✅        |          |            |          |          |
 | 電視家9                    | Android                             | ✅        | ✅        |          |            |          |          |
 | 电视家                     | Android                             | ✅        | ✅        | ✅        |            |          |          |
@@ -1314,6 +1511,21 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 | 爱尚电视                   | Android                             | ✅        | ✅        |          | ✅          |          |          |
 | 千寻电视直播               | Android                             | ✅        | ✅        |          |            |          |          |
 | 圆桌直播                   | Android                             | ✅        | ✅        | ✅        |            |          |          |
+
+### 柠檬IPTV直播
+
+[柠檬IPTV直播](https://pan.quark.cn/s/2935f196d0d0)（[Github地址](https://github.com/jia070310/lemonTV)）一款专为 Android TV / 电视盒子 打造的 IPTV 直播应用
+
+- 📺 **专为电视端优化** — 遥控器完整操控，横向布局，大屏体验极佳
+- 📡 **M3U/TvBox 双格式支持** — 兼容主流直播源格式
+- 📅 **智能节目单（EPG）** — 自动降级多备用地址，支持 `.xml` / `.xml.gz` 格式
+- 🔄 **直播源 UA 智能识别** — 从 M3U 的 `#EXT-X-APP` 参数自动提取 User-Agent 用于 EPG 请求
+- ⭐ **频道收藏** — 收藏常用频道，快速切换
+- 🔢 **数字选台** — 遥控器直接输入频道号
+- 🌐 **局域网推送** — 扫码打开网页端，远程推送直播源地址
+- 🔔 **应用内更新** — 自动检测新版本，黄色高亮提醒
+- 🖥️ **多界面风格** — 经典面板 / 现代面板自由切换
+- 🎬 **硬件解码加速** — 基于 Media3/ExoPlayer，支持 FFmpeg 扩展解码
 
 ### DongYuTVWeb
 
@@ -1755,13 +1967,13 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 - 台标配置
   - txt格式的直播源里没有写入台标来源，在用txt格式观看的时候显示不了台标，如果想让显示台标就需要把一个文件放在指定目录即可。
   - 文件：在下载该 app 的地方，下载 epg_data.json 文件，在电视里打开文件夹管理器，比如文件管理器+，打开【酷9】-【logo】目录，把下载的 epg_data.json 文件复制到这里即可。
-
+  
 - UA设置
-
+  
   - 一些直播源需要更改UA，大部分都支持okhttp的ua，所以你可以将UA改成okhttp，以备不时之需~
-
+  
     打开设置，点击【列表配置】-【UserAgent】，选中 OKhttp 即可（1.3.6版本才有内置，之前的版本需要手动添加）
-
+  
   ![酷9 - UA设置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250306095237997.webp)
 
 ### OKPG整合包
@@ -1778,7 +1990,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
   - 默认直播源是肥羊的ITV，点击首页的【直播】进去就能看！
   - 切换直播源：手机上点击屏幕右侧，电视按下菜单键即可在底部打开菜单，点击【肥羊直播】就能打开内置的直播源！肥羊的TPTV也有啦~
 - 如何看肥羊的虎牙，YY轮播
-  - 点击首页左上角，或者点击【首页】，打开一个弹窗，点击【宫殿专用】就会打开一个新的首页页面，在顶部导航就可以看到啦~
+  - 点击首页左上角，或者点击【首页】，打开一个弹窗，点击【宫殿专用】就会打开一个新的首页页面，在顶部导航就可以看到啦~ 
 -  如何精简首页内容
   - 在首页点击【设置】-【个性设置】，首页UI选择简洁风格，最近观看选择关闭，首页按钮只保留直播，设置即可。
 
@@ -1918,10 +2130,10 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 使用方法具体步骤如下：（动手能力强的可以看本地包里的 README 文档，有高阶教程！）
 
-1. 将本地包下载后，解压到本地，是一个名字为pg的文件夹。注意：解压在一个方便找到的目录！以后更新的时候将新包里的文件都粘贴到这里就行
-2. 下载安装 OK 影视。注意：必须是 OK 影视，这个好像是专门针对 OK 影视做的，连 OK 影视 Pro 都多少有点问题。
+1. 将本地包下载后，解压到本地，是一个名字为pg的文件夹。注意：解压在一个方便找到的目录！以后更新的时候将新包里的文件都粘贴到这里就行 
+2. 下载安装 OK 影视。注意：必须是 OK 影视，这个好像是专门针对 OK 影视做的，连 OK 影视 Pro 都多少有点问题。 
 3. 打开 OK 影视的设置，点击【点播】后在弹出的浮层里点击【选择】，在弹出的对话框里，找到刚才解压的 pg 文件夹，选择里面的 jsm.json，点击【确定】就好了。注意：直播为空的时候会自动填写跟点播一样的，如果不一样的话，就手动再输入下！
-4. 然后回到OK影视的首页，点击左上角的【首页】按钮就可以打开接口列表。现在还有一些不能看，但荐片是可以的，可以选择【荐片】。
+4. 然后回到OK影视的首页，点击左上角的【首页】按钮就可以打开接口列表。现在还有一些不能看，但荐片是可以的，可以选择【荐片】。 
 5. 点击【直播】就可以看电视直播了，默认使用的直播源是肥羊大佬的 itv。注意：最好是看到底部有个 allinone 加载成功的提示再打开直播，进去后如果黑屏，退出软件再打开就好了。
 6. 直播的操作：按 ok 键打开换台界面，安菜单键打开上图示例，点击【肥羊国内直播】可以看到其他直播源，目前其他的都还不太行，期待以后的更新。
 
@@ -2440,6 +2652,23 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ## 更新日志
 
+### 2026年10月12日
+
+- 新增 咪咕直播源
+
+### 2026年8月20日
+
+- Docker自搭建IPTV直播源 新增 五大联赛赛事直播使用教程
+
+### 2026年8月11日
+
+- Github 直播源新增 Collect-IPTV
+
+### 2026年8月1日
+
+- Github 直播源新增 iptv-scraper
+- IPTV直播源播放工具（自带源） 新增 柠檬IPTV直播
+
 ### 2026年6月29日
 
 - 更新 Github 直播源
@@ -2819,7 +3048,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 ### 2025年4月29日
 
 1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、港澳台频道
-2. 新增自部署教程
+2. 新增 [自部署教程](https://help.wwkejishe.top/iptv-all/vps-zi-bu-shu-4gtv-cha-kan-wan-wan-pin-dao)
 
 ### 2025年4月28日
 
