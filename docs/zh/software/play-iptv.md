@@ -1,9 +1,9 @@
 ---
-title: 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月3日持续更新）
-description: 这篇文章介绍了2026年7月最新的中国大陆、台湾、香港、澳门及海外的IPTV直播源M3U和观看工具。内容包括直播源的分类（如纯IPv4源、纯IPv6源、部分IPv4和IPv6源等），以及相关的播放工具（如IPTV Pro、VideoLAN、Kodi等）。还提供了一些直播源的检测和转换工具、EPG节目单及其使用方法，并总结了智能电视安装TVBox和影视仓的方法。
+title: 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月21日持续更新）
+description: 这篇文章介绍了2026年11月最新的中国大陆、台湾、香港、澳门及海外的IPTV直播源M3U和观看工具。内容包括直播源的分类（如纯IPv4源、纯IPv6源、部分IPv4和IPv6源等），以及相关的播放工具（如IPTV Pro、VideoLAN、Kodi等）。还提供了一些直播源的检测和转换工具、EPG节目单及其使用方法，并总结了智能电视安装TVBox和影视仓的方法。
 ---
 
-# 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月3日持续更新）
+# 超全IPTV、APTV、TVBox直播源和电视TV观看工具（2026年11月21日持续更新）
 
 ![APTV、IPTV、TVBox直播源&播放工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
@@ -60,6 +60,8 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 👉 [点击查看各稳定IPTV直播源套餐详情](https://docs.qq.com/doc/DVnRrb3JhSGFVT3NR)（[备用地址](https://app.notion.com/p/wwkjs/IPTV-380bbe97ed4580959c77c842e5b75111?source=copy_link)、[备用地址2](https://share.note.youdao.com/s/DOoxI0We)）（其他套餐，请看左侧文档，介绍更全面）
 
+➡️**体育套餐**重新上线，有需要的可以查看上面文档，查看详情
+
 ### 稳定套餐详情（推荐）
 
 - 常用频道：汇聚了 `400` 多个优质频道，涵盖国内外新闻时事、影视娱乐、体育赛事、纪录片、少儿教育等各类精彩内容，满足全家不同的观影需求。
@@ -69,7 +71,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 - 3 条对于不同运营商的优化线路
 - **XSTREAM CODES 登录**，非 m3u 订阅地址（m3u 订阅地址可看下面 `国内频道 m3u 套餐`）
 
-| 常用频道类目                    | 试用版（1天）                                                | 季卡（90天）                                                 | 年卡（365天+赠送180天）                                      |
+| 常用频道类目                    | 试用版（1天）                                                | 季卡（90天）                                                 | 年卡（365天）                                                |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 价格                            | [5元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [140元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [400元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
@@ -257,6 +259,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
     - **HOY TV 系列**: HOY TV (77台), HOY 資訊台 (78台), 76台
     - **RTHK 系列**: 港台電視 31, 32, 33
     - **Now TV 系列**: Now 新聞台, Now 直播台
+12. [RTHK 香港电台电视](https://www.rthk.hk/tv)：香港电台官方直播入口，提供港台电视 31、32、33 台直播。
 
 ### 港澳台电视直播apk
 
@@ -283,6 +286,22 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 ### DISCOVERY
 
 [Discovery Channel](https://www.discovery.com/) 探索頻道是由探索傳播於1985年在美國創立的。探索頻道主要播放流行科學、科技、歷史、考古及自然紀錄片。探索頻道在世界主要國家地區均有落地，但探索頻道會因應不同地區設立不同版本，加上字幕或配音。美國版本主要播放寫實電視節目，如著名的流言終結者系列。
+
+### NHK World
+
+[NHK World Live](https://www3.nhk.or.jp/nhkworld/en/live/) 日本 NHK 面向海外的官方英语频道，提供新闻、纪录片和文化节目直播。
+
+### Al Jazeera
+
+[Al Jazeera Live](https://www.aljazeera.com/live) 卡塔尔半岛电视台官方英语直播，24 小时新闻。
+
+### DW 德国之声
+
+[DW English Live](https://www.dw.com/en/live-tv/channel-english) 德国之声官方英语直播，24 小时新闻与专题节目。
+
+### France 24
+
+[France 24 English Live](https://www.france24.com/en/live) 法国 24 小时国际新闻频道官方英语直播。
 
 ## IPTV电视直播（在线观看）
 
@@ -543,6 +562,14 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt): TV直播源 (每日自动收集・持续更新)
 
 - `https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/others_output.txt`
+
+### suxuang/myIPTV（2026）
+
+[suxuang/myIPTV](https://github.com/suxuang/myIPTV)：【典藏版】高清直播源，覆盖央视、卫视、地方、港澳台等频道，内置台标和节目预告。
+
+- IPv4 订阅：`https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u`
+- IPv6 订阅：`https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u`
+- 仓库内还提供移动 IPTV、APTV 手机专享等分组文件。
 
 ### iptv-org（2026）
 
@@ -1232,6 +1259,7 @@ rtp2httpd 支持将组播 RTP/UDP 流、RTSP 流转换为 HTTP 单播流，并�
   - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
 - AppleTV
   - [APTV](https://apps.apple.com/cn/app/aptv/id1630403500) 高级版：不限制订阅源数量，免费版只能订阅 1 个
+  - [iPlayTV](https://apps.apple.com/us/app/iplaytv-iptv-m3u-player/id1072226801) 买断制（美区 $5.99），支持多播放列表、Xtream Codes、EPG 和回看。
 
 - iOS（iPhone、iPad）
 
@@ -1244,6 +1272,7 @@ rtp2httpd 支持将组播 RTP/UDP 流、RTSP 流转换为 HTTP 单播流，并�
 
   - [云影空蒙](https://pan.quark.cn/s/ae67460312a5)
   - [TVbox](https://pan.quark.cn/s/0e5d00d5af78) 通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+  - [Televizo](https://televizo.net/) 安卓手机、平板、电视通用的 IPTV 播放器，支持 M3U、Xtream Codes、EPG 和回看；官方提供免费版 APK，Premium 版解锁更多功能。（[添加 m3u 教程](https://www.wangdu.site/software/dianshihezi/2234.html)）
   - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
 
 | 软件名称                                               | 支持系统                                      | m3u文件如何导入直播软件                             |
@@ -1351,6 +1380,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 ### TiviMate、DIYP
 
 - [TiviMate](https://tivimate.com/)：是一款专为安卓TV端打造的IPTV播放器，支持导入本地和网络M3U节目列表以及EPG电视预告源，播放器可设置软硬解码，同时支持录像、家长控制等实用功能，是一款体验相当棒的播放器。（收费软件，$33.9/5台设备）
+  - [TiviMate 添加 m3u 在线直播源教程](https://www.wangdu.site/software/dianshihezi/2235.html)
 - DIYP 直播空壳，这是一款非常好用的影视盒子app，可以自定义直播源，支持电视、手机、投影等安卓设备，让你可以很方便的在这里看剧、看直播频道的节目。
 
 ### ntPlayer
@@ -1381,7 +1411,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ### CharmingTVBox 1.5.2
 
-[CharmingTVBox](https://pan.quark.cn/s/1448343997e0) （Github地址：[CharmingCheung/CharmingTVBox](https://github.com/CharmingCheung/CharmingTVBox/releases)）现改名为：Charming Player，基于 Flutter 构建的跨平台 IPTV 播放器，具备 EPG 集成、多播放器引擎和MPD字幕样式定制功能。
+[CharmingTVBox](https://pan.quark.cn/s/1fd42c5e1dd0) （Github地址：[CharmingCheung/CharmingTVBox](https://github.com/CharmingCheung/CharmingTVBox/releases)）现改名为：Charming Player，基于 Flutter 构建的跨平台 IPTV 播放器，具备 EPG 集成、多播放器引擎和MPD字幕样式定制功能。
 
 - 支持系统：Windows、MacOS
 - **播放核心优化**：为提升兼容性，非 mpd 声明的流将暂时强制通过 hls 协议播放，暂时解决部分hls流的媒体类型判断错误问题。后续考虑引入多播放器库以优化体验。
@@ -1420,7 +1450,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ### VsTV
 
-VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地址](https://github.com/vesaaa/vstv)） 让你在 **智能电视、电视盒子、平板或手机** 上收看直播频道：选台、换台、多线路、节目单、精选频道、比例与音量等常见需求都可在应用内完成。**首次安装不会写入默认直播源**，需在 **设置** 或浏览器访问 **`http://设备IP:1616`** 自行配置订阅地址与节目单。**本应用不提供任何直播源或节目内容**，请仅使用你已获得合法授权的地址。
+VsTV （[高速下载](https://pan.quark.cn/s/83200c44715e) 、[Github开源地址](https://github.com/vesaaa/vstv)） 让你在 **智能电视、电视盒子、平板或手机** 上收看直播频道：选台、换台、多线路、节目单、精选频道、比例与音量等常见需求都可在应用内完成。**首次安装不会写入默认直播源**，需在 **设置** 或浏览器访问 **`http://设备IP:1616`** 自行配置订阅地址与节目单。**本应用不提供任何直播源或节目内容**，请仅使用你已获得合法授权的地址。
 
 - **🚀 极度轻量与响应**：全包体积**不足 5MB**，剔除所有冗余库。针对低端盒子（如 S905 系列）深度优化内存占用，**秒速启动**，操作丝滑不卡顿。
 - **🛰️ 原生组播支持 (专为电信/联通/移动 IPTV 优化)**：
@@ -1514,7 +1544,7 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 
 ### 柠檬IPTV直播
 
-[柠檬IPTV直播](https://pan.quark.cn/s/2935f196d0d0)（[Github地址](https://github.com/jia070310/lemonTV)）一款专为 Android TV / 电视盒子 打造的 IPTV 直播应用
+[柠檬IPTV直播](https://pan.quark.cn/s/71ebd7f6c4f7)（[Github地址](https://github.com/jia070310/lemonTV)）一款专为 Android TV / 电视盒子 打造的 IPTV 直播应用
 
 - 📺 **专为电视端优化** — 遥控器完整操控，横向布局，大屏体验极佳
 - 📡 **M3U/TvBox 双格式支持** — 兼容主流直播源格式
@@ -1529,7 +1559,7 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 
 ### DongYuTVWeb
 
-[DongYuTVWeb](https://pan.quark.cn/s/2564b037214a)（1.0.6.5） 轻松在电视上观看直播，操作简单，适合家中老人使用，使用 WebView JavaScript 注入方式实现，全新网页直播电视，涵盖多种电视频道，永不失效
+[DongYuTVWeb](https://pan.quark.cn/s/2564b037214a)（1.0.6.5） 轻松在电视上观看直播，操作简单，适合家中老人使用，使用 WebView JavaScript 注入方式实现，全新网页直播电视，涵盖多种电视频道，永不失效。[DongYuTVWeb 详细介绍](https://www.wangdu.site/software/dianshihezi/2316.html)
 
 - 高Android版本电视请下载名称里面带WebView的版本（体积小，系统内核）
 - 设备比较老的请下载名称带X5的版本，使用的X5内核，可能只支持Android13以下版本，并且需要是64位设备。
@@ -1599,7 +1629,7 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 
 ### 天光云影
 
-[天光云影](https://pan.quark.cn/s/0e5d00d5af78)（版本号：3.3.8） 能多屏同播的直播APP，同一个源它的 Media3 内核可以秒播！肥羊大佬推荐！这个其实是我的电视的衍生版本，配置麻烦些，尤其是手机，因为只能扫码在其他应用里配置。可以多屏同播，这是在 TiviMate 之后的第二个有这个功能的，还是国人开发的！当内置直播源或自定义直播源无法播放时，它会自动从央视频获取直播源进行播放，就是清晰度不太行！
+[天光云影](https://pan.quark.cn/s/0e5d00d5af78)（版本号：3.3.8） 能多屏同播的直播APP，同一个源它的 Media3 内核可以秒播！肥羊大佬推荐！这个其实是我的电视的衍生版本，配置麻烦些，尤其是手机，因为只能扫码在其他应用里配置。可以多屏同播，这是在 TiviMate 之后的第二个有这个功能的，还是国人开发的！当内置直播源或自定义直播源无法播放时，它会自动从央视频获取直播源进行播放，就是清晰度不太行！添加直播源步骤：[天光云影添加 IPTV 直播源使用教程](https://www.wangdu.site/software/dianshihezi/2203.html)。
 
 - original：正常版本
 - disguised：伪装版本，伪装成Z视介（com.chinablue.tv）。解决鸿蒙系统小窗无法横屏，支持超级桌面。
@@ -1729,7 +1759,7 @@ VsTV （[高速下载](https://pan.quark.cn/s/05bb902d30b9) 、[Github开源地�
 
 ### 大吉电视TV版
 
-[大吉电视tv版](https://pan.quark.cn/s/0e5d00d5af78)（版本号：1.3.88）是一款集合了丰富资源和强大功能的电视直播平台应用程序。它通过互联网连接，将传统电视节目的观看方式带入了一个全新的数字时代，让用户能够随时随地享受到高清、流畅的电视直播服务。这款软件以其独特的设计和用户体验，迅速在用户中获得了广泛的好评和高度的认可。
+[大吉电视tv版](https://pan.quark.cn/s/0e5d00d5af78)（版本号：1.3.88）是一款集合了丰富资源和强大功能的电视直播平台应用程序。它通过互联网连接，将传统电视节目的观看方式带入了一个全新的数字时代，让用户能够随时随地享受到高清、流畅的电视直播服务。这款软件以其独特的设计和用户体验，迅速在用户中获得了广泛的好评和高度的认可。详细介绍：[大吉电视（DajiTV）](https://www.wangdu.site/software/dianshihezi/2256.html)。
 
 ![大吉电视TV版](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241223165118110.webp)
 
@@ -1877,10 +1907,11 @@ http://epg.aptvapp.com/xml
 - [epg.streamstv.me](http://epg.streamstv.me/epg/) 欧亚大陆和北美频道的节目指南。
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) 主要用于CIS频道的节目指南。
 - [i.mjh.nz](http://i.mjh.nz/) 来自澳大利亚，新西兰和南非的频道的节目指南。
+- [iptv-org/epg](https://github.com/iptv-org/epg)：可自建的 EPG 抓取工具，支持数百个节目源，提供 Node.js 和 Docker 部署方式，适合 NAS、软路由定时生成 XMLTV。
 
 ## TVBox介绍
 
-[TVBox Android TV版](https://pan.quark.cn/s/0e5d00d5af78) 是 GitHub 的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+[TVBox Android TV版](https://pan.quark.cn/s/0e5d00d5af78) 是 GitHub 的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。播放工具、播放源和多仓接口的完整说明，可看：[TVBox 播放工具、播放源与使用教程](https://www.wangdu.site/software/dianshihezi/2195.html)。
 
 TVBox 支持各类爬虫源、XP源、采集源等。**全免费，无限制，无广告**。支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
 
@@ -1906,15 +1937,20 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 | TVBox ok 版         |            |              |
 | TVBox Pro 版        |     ●      |              |
 
-1. TVBox q215613905 版：TVBox OSC纯净版，TVBox 空壳，需要自己配置订阅源，支持直播回放
+1. TVBox q215613905 版：TVBox 纯净空壳版，需要自己配置订阅源，支持直播回放
 2. TVBox fongmi 版：支持直播多线路、自动换源、直播倍速，手机投屏；
 3. TVBox takagen99 版：TVBox OSC美化版，支持直播回放，界面美观；
 4. TVBox ok 版：内置了多仓线路，下载安装可以直接观看；
 5. TVBox Pro 版：内置订阅源，可以导入其他订阅源（不支持自定义直播源）
 
-## TVBox系列客户端
+各版本官方源码/发布页：
 
-[下载地址](https://shop.wwkejishe.top/buy/43)
+- TVBox fongmi 版：[FongMi/TV](https://github.com/FongMi/TV)（源码）、[FongMi/Release](https://github.com/FongMi/Release)（安装包）
+- TVBox q215613905 版：[q215613905/TVBoxOS](https://github.com/q215613905/TVBoxOS)
+- TVBox takagen99 版：[takagen99/Box](https://github.com/takagen99/Box)
+- TVBox OSC 纯净版：[j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC)（原 `o0HalfLife0o/TVBoxOSC`，旧链接会自动跳转）
+
+## TVBox系列客户端
 
 | 软件名称           | 支持系统                         |
 | ------------------ | -------------------------------- |
@@ -1933,7 +1969,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ### 宝盒TV
 
-[宝盒TV](https://shop.wwkejishe.top/buy/43)是基于开源软件tvbox的二次开发版本，完美支持电视和机顶盒，主要实现的是美化UI、自动换源、支持多个接口（多仓），多直播，且优化了加载速度。
+[宝盒TV](https://pan.quark.cn/s/a2c78537f5df)（2026-09-26 电视版）是基于开源软件tvbox的二次开发版本，完美支持电视和机顶盒，主要实现的是美化UI、自动换源、支持多个接口（多仓），多直播，且优化了加载速度。
 
 ### 影视仓库
 
@@ -2283,7 +2319,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 [APTV](https://apps.apple.com/cn/app/aptv/id1630403500)（[官网地址](https://aptv.wegic.app/)） 是一款高颜值的实时预览直播源播放器 App，让您轻松畅享直播世界。
 
-[APTV 使用教程](https://docs.aptvapp.com/)
+[APTV 使用教程](https://docs.aptvapp.com/)（官方文档）、[APTV 添加直播源图文教程](https://www.wangdu.site/software/dianshihezi/2238.html)
 
 - 支持系统：iOS、iPadOS、tvOS、watchOS、macOS
 
@@ -2298,6 +2334,9 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 ## 智能电视安装TVBox/影视仓方法
 
 - [智能电视安装TVBox/影视仓方法](https://pan.quark.cn/s/0e5d00d5af78)
+- [各品牌电视/机顶盒安装第三方应用方法](https://www.wangdu.site/software/dianshihezi/2191.html)
+- [野草助手：电视端装应用的管理工具](https://www.wangdu.site/software/dianshihezi/2186.html)
+- [Aerial：把常用应用放回电视首页](https://www.wangdu.site/software/dianshihezi/2426.html)
 - [Google TV 安装apk 第三方App](https://kxsw.gitbook.io/tv/google-tv-an-zhuang-apk-di-san-fang-app)（需要富强查看YTB视频，视频底下广告切勿相信，后果自负）
 
 ## IPTV直播源观看攻略
@@ -2322,6 +2361,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 1. 使用直播源列表工具 TeleList 编辑
 2. [xteve-project/xTeVe: M3U Proxy for Plex DVR and Emby Live TV](https://github.com/xteve-project/xTeVe) xTeVe 是一个 IPTV 管理工具，它的主要功能有合并多个 M3U 文件，合并多个 XMLTV 文件，自动更新 M3U 和 XMLTV 文件，导出 M3U 和 XMLTV 文件，可以过滤频道，可以修改频道的名称、台标、分组、排序、分类等信息，可以给每个频道单独设置节目单，可以设置缓存，可以接入 Plex 和 Emby，还有更多其他功能。（[使用教程](https://blog.csdn.net/u010567698/article/details/129341065)）
+3. [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin)：基于 xTeVe 的维护分支，改进了界面和缓存机制，适合接入 Plex、Emby、Jellyfin 的 Live TV。
 
 ### 把mytv安装到电视盒子
 
@@ -2651,6 +2691,16 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 metv直播是一款功能强大的视频播放软件，提供了丰富的分类内容，用户可以根据自己的喜好筛选并观看喜爱的视频。软件内置多个高清播放源，用户可以随时切换源以获得更好的播放体验。此外，软件还具有历史记录功能，可自动记录用户观看的剧集信息，方便用户随时在线查看。另外，还提供了倍速调节功能，用户可以根据自己的需求选择快速或慢速播放视频。
 
 ## 更新日志
+
+### 2026年11月21日
+
+- TVbox下载 补充 fongmi、q215613905、TVBoxOSC、takagen99 各版本官方源码/发布页
+- IPTV直播源播放工具 新增 Televizo、iPlayTV 官方入口
+- 中国(港澳台) 直播源M3U 新增 RTHK 官方直播
+- 国际频道直播源 新增 NHK World、Al Jazeera、DW、France24 官方直播
+- Github 直播源新增 suxuang/myIPTV
+- IPTV直播源常见问题 补充 Threadfin
+- EPG 节目单 新增 iptv-org/epg 自建工具
 
 ### 2026年10月12日
 
