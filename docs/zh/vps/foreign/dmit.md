@@ -1,10 +1,10 @@
 ---
-title: "DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年5月12日）"
-description: "DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年5月12日） DMIT 简介 DMIT 2018 年初开始运营 VPS 相关业务，美国纽约注册公司 (5246271)，目前主营中国香港、美国洛杉矶以及日本东京的独立服务器和 KVM VPS。VPS 基于 ..."
+title: "DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年11月26日）"
+description: "DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年11月26日） DMIT 简介 DMIT 2018 年初开始运营 VPS 相关业务，美国纽约注册公司 (5246271)，目前主营中国香港、美国洛杉矶以及日本东京的独立服务器和 KVM VPS。VPS 基于 ..."
 category: "国外VPS"
 ---
 
-# DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年5月12日）
+# DMIT 洛杉矶/香港/东京 CN2 GIA 中国大陆优化线路高防建站 VPS 最新优惠活动（2026年11月26日）
 
 ## DMIT 简介
 
@@ -18,26 +18,27 @@ category: "国外VPS"
 
 DMIT 的产品线比较多，第一次进官网的小伙伴可能比较懵圈，这里先简单做个说明。在后面可以找到博主整理的更详细的信息和直达购买链接。
 
-DMIT VPS 产品目前分布四个地区，每个地区分别有多个产品线：
+DMIT VPS 目前在售三个地区：洛杉矶、香港、东京。圣何塞机房已停售，下文仅保留历史套餐记录，供老用户续费参考。
 
 - DMIT 美国洛杉矶 VPS
     - DMIT 洛杉矶 Premium (LAX.Pro) ：高性能处理器 + 三网回程 CN2 GIA 高端高速线路
     - DMIT 洛杉矶 Premium Secure (LAX.sPro) ：高性能处理器 + 三网回程 CN2 GIA 高端高速线路 + 三网去程 CFMT DDoS 保护线路
     - DMIT 洛杉矶 Premium Unmetered (LAX.Pro.u) ：高性能处理器 + 三网回程 CN2 GIA 高端高速线路 + 无限流量
     - DMIT 洛杉矶 Eyeball (LAX.EB) ：高性能处理器 + 三网回程 CMIN2 高端高速线路
-- DMIT 美国圣何塞 VPS
-    - DMIT 圣何塞 Tier 1 (SJC.T1) ：高性能处理器 + 中国大陆常规优化线路 + 20Gbps DDos 防御
+    - DMIT 洛杉矶 Tier 1 (LAX.T1) ：国际线路，无中国大陆优化
 - DMIT 中国香港 VPS
     - DMIT 香港 Premium (HKG.Pro) ：高性能处理器 + 电信 CN2 GIA 高端线路、联通 AS9929 精品线路、移动 CMI 优质线路
     - DMIT 香港 Eyeball (HKG.EB) ：电信、联通去程绕日本 NTT、回程直连，移动双程 CMI 优质线路
     - DMIT 香港 Tier 1 (HKG.T1) ：国际线路，无中国大陆优化。
 - DMIT 日本东京 VPS
     - DMIT 东京 Premium (TYO.Pro) ：高性能处理器 + 电信 CN2 GIA 高端线路、联通 AS9929 精品线路、移动 CMI 优质线路
+    - DMIT 东京 Tier 1 (TYO.T1) ：国际线路，无中国大陆优化
 
 ## 购买建议和其它说明
 
-- 科学上网搭梯子，考虑性价比可选择洛杉矶 LAX.Pro/LAX.EB 系列、圣何塞 SJC.T1 系列，对延迟有要求可选香港 HKG.Pro 和 HKG.EB。
-- 建站推荐选择带 DDoS 保护的洛杉矶 LAX.sPro 和圣何塞 SJC.T1 系列。
+- 科学上网搭梯子，考虑性价比可选择洛杉矶 LAX.Pro/LAX.EB 系列，对延迟有要求可选香港 HKG.Pro 和 HKG.EB。
+- 建站推荐选择带 DDoS 保护的洛杉矶 LAX.sPro 系列。
+- 圣何塞 SJC 已停售，不再推荐新购；老用户可直接在客户中心续费。
 - DMIT 全系标配 AMD EPYC 高性能处理器，是常规 Intel Xeon E5 系列的 4-6 倍左右性能。
 - DMIT 全系标配原生 IP，博主和网友们实测可以解锁 Netflix 、TikTok 等主流流媒体服务，但由于流媒体网站的 IP 封禁名单是动态变化的，所以商家并做任何不保证，也不以此为卖点，请以实际测试结果为准。
 - DMIT 的 VPS 默认使用安全性更高的 SSH 密钥登录方式，如果对此不了解可以[查看官方提供的教程](https://www.dmit.io/index.php?rp=%2Fknowledgebase%2F58%2FHow-to-connect-DMIT-VPS-via-SSH-Key-using-XShell.html&language=chinese)。
@@ -151,9 +152,67 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 | LAX.EB.LARGE   | 16G  | 8核  | 320G | 50T/月  | 10Gbps | $338.88/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=195) |
 | LAX.EB.GIANT   | 24G  | 8核  | 640G | 100T/月 | 10Gbps | $619.99/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=196) |
 
-## DMIT 美国圣何塞 VPS
+### 洛杉矶 AS3 Pro VPS（三网 CN2 GIA）
 
-### 圣何塞 Tier 1 VPS
+AS3 平台新套餐，线路与上方 LAX.Pro 一致；同名套餐配置和价格不同，下单时注意平台区别。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| LAX.AS3.Pro.TINY | 2G | 1核 | 20G | 1000G/月 | 1Gbps | $10.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=253) |
+| LAX.AS3.Pro.Pocket | 2G | 2核 | 40G | 1500G/月 | 4Gbps | $16.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=254) |
+| LAX.AS3.Pro.STARTER | 2G | 2核 | 80G | 3000G/月 | 10Gbps | $34.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=255) |
+| LAX.AS3.Pro.MINI | 4G | 4核 | 80G | 5000G/月 | 10Gbps | $62.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=256) |
+| LAX.AS3.Pro.MICRO | 4G | 4核 | 160G | 7000G/月 | 10Gbps | $87.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=257) |
+| LAX.AS3.Pro.MEDIUM | 8G | 6核 | 160G | 15000G/月 | 10Gbps | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=258) |
+
+### 洛杉矶 AS3 Eyeball VPS（三网 CMIN2）
+
+AS3 平台 Eyeball 套餐，线路与上方 LAX.EB 一致。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| LAX.AS3.EB.TINY | 2G | 1核 | 20G | 1500G/月 | 2Gbps | $10.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=259) |
+| LAX.AS3.EB.Pocket | 2G | 2核 | 40G | 3000G/月 | 4Gbps | $16.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=260) |
+| LAX.AS3.EB.STARTER | 2G | 2核 | 80G | 5000G/月 | 10Gbps | $34.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=261) |
+| LAX.AS3.EB.MINI | 4G | 4核 | 80G | 10000G/月 | 10Gbps | $62.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=262) |
+| LAX.AS3.EB.MICRO | 4G | 4核 | 160G | 14000G/月 | 10Gbps | $87.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=263) |
+| LAX.AS3.EB.MEDIUM | 8G | 6核 | 160G | 30000G/月 | 10Gbps | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=264) |
+
+### 洛杉矶 AS3 Tier 1 VPS（国际线路）
+
+Tier 1 国际线路，无中国大陆优化，最高 10Gbps QoS 带宽。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| LAX.AS3.T1.WEE | 1G | 1核 | 20G | 1000G/月 | 10Gbps QoS | $36.90/年 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=270) |
+| LAX.AS3.T1.TINY | 1G | 1核 | 20G | 2000G/月 | 10Gbps QoS | $6.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=271) |
+| LAX.AS3.T1.STARTER | 2G | 2核 | 40G | 4000G/月 | 10Gbps QoS | $12.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=272) |
+| LAX.AS3.T1.MINI | 4G | 2核 | 80G | 8000G/月 | 10Gbps QoS | $21.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=273) |
+| LAX.AS3.T1.MICRO | 4G | 4核 | 120G | 16000G/月 | 10Gbps QoS | $32.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=274) |
+
+### 洛杉矶 AN5 Tier 1 VPS（国际线路）
+
+AN5 平台 Tier 1 套餐，分标准系列和 GENERAL 系列，均为国际线路。
+
+| 方案名称 | 系列 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| LAX.AN5.T1.V2C2G | 标准 | 2G | 2核 | 40G | 5000G/月 | 10Gbps | $14.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=169) |
+| LAX.AN5.T1.V2C4G | 标准 | 4G | 2核 | 80G | 10000G/月 | 10Gbps | $23.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=170) |
+| LAX.AN5.T1.V4C4G | 标准 | 4G | 4核 | 120G | 20000G/月 | 10Gbps | $36.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=171) |
+| LAX.AN5.T1.V4C8G | 标准 | 8G | 4核 | 160G | 40000G/月 | 10Gbps | $52.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=180) |
+| LAX.AN5.T1.V8C16G | 标准 | 16G | 8核 | 240G | 80000G/月 | 10Gbps | $119.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=172) |
+| LAX.AN5.T1.V12C24G | 标准 | 24G | 12核 | 320G | 160000G/月 | 10Gbps | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=173) |
+| LAX.AN5.T1.G2C4G | GENERAL | 4G | 2核 | 80G | 4000G/月 | 10Gbps | $16.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=234) |
+| LAX.AN5.T1.G4C8G | GENERAL | 8G | 4核 | 160G | 8000G/月 | 10Gbps | $36.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=235) |
+| LAX.AN5.T1.G8C16G | GENERAL | 16G | 8核 | 320G | 12000G/月 | 10Gbps | $79.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=236) |
+| LAX.AN5.T1.G12C24G | GENERAL | 24G | 12核 | 480G | 240000G/月 | 10Gbps | $119.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=174) |
+| LAX.AN5.T1.G16C32G | GENERAL | 32G | 16核 | 640G | 320000G/月 | 10Gbps | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=175) |
+
+## DMIT 美国圣何塞 VPS（已停售）
+
+> ⚠️ DMIT 圣何塞机房早期主打联通 AS4837，2023 年 4 月线路调整后取消该路由，并于 2025 年初停止售卖。以下为历史套餐记录，仅供老用户续费/配置参考；新用户请选择洛杉矶或东京的 T1 系列。
+
+### 圣何塞 Tier 1 VPS（历史套餐）
 
 VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固态硬盘，默认 1 IPv4 & 1 IPv6 /64，最高 10Gbps 带宽 (QoS)，附带 20Gbps DDos 防御。
 
@@ -161,18 +220,18 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 
 测试 IP：174.136.205.2
 
-| 方案名称       | 内存  | CPU  | 硬盘 | 流量    | 带宽   | 价格       | 购买链接                                                 |
-| :------------- | :---- | :--- | :--- | :------ | :----- | :--------- | :------------------------------------------------------- |
-| SJC.T1.WEE     | 0.5G  | 1核  | 10G  | 1T/月   | 10Gbps | $36.9/年   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=152) |
-| SJC.T1.TINY    | 0.75G | 1核  | 10G  | 2T/月   | 10Gbps | $6.9/月    | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=145) |
-| SJC.T1.STARTER | 1.5G  | 1核  | 20G  | 4T/月   | 10Gbps | $12.9/月   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=146) |
-| SJC.T1.MINI    | 2G    | 2核  | 40G  | 8T/月   | 10Gbps | $21.9/月   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=147) |
-| SJC.T1.MICRO   | 4G    | 2核  | 80G  | 16T/月  | 10Gbps | $32.9/月   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=148) |
-| SJC.T1.MEDIUM  | 4G    | 4核  | 120G | 32T/月  | 10Gbps | $49.9/月   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=149) |
-| SJC.T1.LARGE   | 8G    | 4核  | 200G | 64T/月  | 10Gbps | $99.9/月   | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=150) |
-| SJC.T1.GIANT   | 16G   | 8核  | 400G | 128T/月 | 10Gbps | $199.99/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=151) |
+| 方案名称       | 内存  | CPU  | 硬盘 | 流量    | 带宽   | 价格       | 历史记录 |
+| :------------- | :---- | :--- | :--- | :------ | :----- | :--------- | :------- |
+| SJC.T1.WEE     | 0.5G  | 1核  | 10G  | 1T/月   | 10Gbps | $36.9/年   | [pid=152](https://www.dmit.io/aff.php?aff=7952&pid=152) |
+| SJC.T1.TINY    | 0.75G | 1核  | 10G  | 2T/月   | 10Gbps | $6.9/月    | [pid=145](https://www.dmit.io/aff.php?aff=7952&pid=145) |
+| SJC.T1.STARTER | 1.5G  | 1核  | 20G  | 4T/月   | 10Gbps | $12.9/月   | [pid=146](https://www.dmit.io/aff.php?aff=7952&pid=146) |
+| SJC.T1.MINI    | 2G    | 2核  | 40G  | 8T/月   | 10Gbps | $21.9/月   | [pid=147](https://www.dmit.io/aff.php?aff=7952&pid=147) |
+| SJC.T1.MICRO   | 4G    | 2核  | 80G  | 16T/月  | 10Gbps | $32.9/月   | [pid=148](https://www.dmit.io/aff.php?aff=7952&pid=148) |
+| SJC.T1.MEDIUM  | 4G    | 4核  | 120G | 32T/月  | 10Gbps | $49.9/月   | [pid=149](https://www.dmit.io/aff.php?aff=7952&pid=149) |
+| SJC.T1.LARGE   | 8G    | 4核  | 200G | 64T/月  | 10Gbps | $99.9/月   | [pid=150](https://www.dmit.io/aff.php?aff=7952&pid=150) |
+| SJC.T1.GIANT   | 16G   | 8核  | 400G | 128T/月 | 10Gbps | $199.99/月 | [pid=151](https://www.dmit.io/aff.php?aff=7952&pid=151) |
 
-### 圣何塞 Tier 1 Unmetered VPS
+### 圣何塞 Tier 1 Unmetered VPS（历史套餐）
 
 VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固态硬盘，默认 1 IPv4 & 1 IPv6 /64，最高 10Gbps 带宽 (QoS)，附带 20Gbps DDos 防御。可自定义升级配置。
 
@@ -180,9 +239,11 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 
 测试 IP：174.136.205.2
 
-| 方案名称         | 内存 | CPU  | 硬盘 | 流量   | 带宽   | 价格       | 购买链接                                                 |
-| :--------------- | :--- | :--- | :--- | :----- | :----- | :--------- | :------------------------------------------------------- |
-| SJC.T1.UNMETERED | 2G   | 1核  | 10G  | 无限制 | 自定义 | $14.9/年起 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=152) |
+| 方案名称         | 内存 | CPU  | 硬盘 | 流量   | 带宽   | 价格       | 历史记录 |
+| :--------------- | :--- | :--- | :--- | :----- | :----- | :--------- | :------- |
+| SJC.T1.UNMETERED | 2G   | 1核  | 10G  | 无限制 | 自定义 | $14.9/年起 | [pid=152](https://www.dmit.io/aff.php?aff=7952&pid=152) |
+
+> 注：`SJC.T1.WEE` 与 `SJC.T1.UNMETERED` 在历史记录中共用 `pid=152`，老用户续费请以客户中心显示为准。
 
 ## DMIT 中国香港 VPS
 
@@ -241,6 +302,32 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 | HKG.T1.LARGE   | 16G  | 8核  | 320G | 64T/月  | 10Gbps | $99.9/月  | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=203)（已缺货） |
 | HKG.T1.GIANT   | 24G  | 8核  | 640G | 128T/月 | 10Gbps | $199.9/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=204)（已缺货） |
 
+### 香港 AS3 Pro VPS（三网优化）
+
+AS3 平台香港 Pro 套餐，线路与上方 HKG.Pro 一致。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| HKG.AS3.Pro.TINY | 1G | 1核 | 20G | 500G/月 | 1Gbps | $39.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=265) |
+| HKG.AS3.Pro.STARTER | 2G | 1核 | 40G | 1000G/月 | 1Gbps | $79.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=266) |
+| HKG.AS3.Pro.MINI | 4G | 2核 | 60G | 1500G/月 | 1Gbps | $126.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=267) |
+| HKG.AS3.Pro.MICRO | 4G | 4核 | 80G | 2000G/月 | 1Gbps | $179.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=268) |
+| HKG.AS3.Pro.MEDIUM | 8G | 4核 | 160G | 2500G/月 | 1Gbps | $239.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=269) |
+
+### 香港 AS3 Eyeball VPS
+
+AS3 平台香港 Eyeball 套餐，线路与上方 HKG.EB 一致。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| HKG.AS3.EB.TINYv2 | 1G | 1核 | 20G | 1000G/月 | 1Gbps | $29.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=210) |
+| HKG.AS3.EB.STARTERv2 | 2G | 1核 | 40G | 2000G/月 | 2Gbps | $59.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=211) |
+| HKG.AS3.EB.MINIv2 | 2G | 2核 | 60G | 3000G/月 | 2Gbps | $89.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=212) |
+| HKG.AS3.EB.MICROv2 | 4G | 4核 | 80G | 4000G/月 | 4Gbps | $129.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=213) |
+| HKG.AS3.EB.MEDIUMv2 | 8G | 4核 | 160G | 6000G/月 | 4Gbps | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=214) |
+| HKG.AS3.EB.LARGEv2 | 16G | 8核 | 320G | 12000G/月 | 4Gbps | $389.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=215) |
+| HKG.AS3.EB.GIANTv2 | 24G | 8核 | 640G | 24000G/月 | 4Gbps | $789.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=216) |
+
 ## DMIT 日本东京 VPS
 
 ### 东京 Premium VPS（三网优化）
@@ -260,6 +347,21 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 | TYO.Pro.MEDIUM  | 4G    | 4核  | 60G  | 3T/月   | 100Mbps | $199.9/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=142) |
 | TYO.Pro.LARGE   | 8G    | 4核  | 100G | 5T/月   | 100Mbps | $329.9/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=143) |
 | TYO.Pro.GIANT   | 16G   | 8核  | 200G | 10T/月  | 100Mbps | $659.9/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=144) |
+
+### 东京 Tier 1 VPS（国际线路）
+
+东京 T1 国际线路，无中国大陆优化，最高 10Gbps QoS 带宽。
+
+| 方案名称 | 内存 | CPU | 硬盘 | 流量 | 带宽 | 价格 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TYO.T1.WEE | 1G | 1核 | 20G | 1000G/月 | 10Gbps QoS | $36.90/年 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=228) |
+| TYO.T1.TINY | 1G | 1核 | 20G | 2000G/月 | 10Gbps QoS | $6.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=131) |
+| TYO.T1.STARTER | 2G | 1核 | 40G | 4000G/月 | 10Gbps QoS | $12.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=132) |
+| TYO.T1.MINI | 2G | 2核 | 60G | 8000G/月 | 10Gbps QoS | $21.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=133) |
+| TYO.T1.MICRO | 4G | 4核 | 80G | 16000G/月 | 10Gbps QoS | $32.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=134) |
+| TYO.T1.MEDIUM | 8G | 4核 | 160G | 32000G/月 | 10Gbps QoS | $49.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=135) |
+| TYO.T1.LARGE | 16G | 8核 | 320G | 64000G/月 | 10Gbps QoS | $99.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=136) |
+| TYO.T1.GIANT | 24G | 8核 | 640G | 128000G/月 | 10Gbps QoS | $199.90/月 | [点击购买](https://www.dmit.io/aff.php?aff=7952&pid=229) |
 
 ### 东京 Eyeball VPS
 
