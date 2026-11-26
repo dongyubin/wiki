@@ -31,6 +31,7 @@ category: "VPS总览"
 | [GreenCloud（绿云）](https://greencloudvps.com/billing/aff.php?aff=6819)（[绿云最新优惠 点此查看](/zh/vps/foreign/greencloud)） | $6/月     | 2013 年老牌，30+ 机房，标配 **10Gbps 端口**，特价机 $25/年起；共享核平均占用限 30% | 支付宝、银联、PayPal、信用卡、加密货币 |
 | [丽萨主机 LisaHost](https://lisahost.com/aff.php?aff=17248)（[丽萨主机最新优惠 点此查看](/zh/vps/foreign/lisahost)） | 299元/年  | **双ISP家宽住宅IP**，美国/香港/日本/韩国/英国等多机房，TikTok、流媒体、跨境电商适用 | 以结账页为准 |
 | [Vultr](https://www.vultr.com/?ref=8888141)（[Vultr 最新价格 点此查看](/zh/vps/foreign/vultr)） | $2.5/月   | 34 个机房、按小时计费，高性能 NVMe 型 $6/月起；新用户最高 $200 赠金。**$2.5 档为 IPv6-only** | 支付宝、银联、PayPal、信用卡、加密货币 |
+| [HostDare](https://bill.hostdare.com/aff.php?aff=4863)（[套餐与优惠码](/zh/vps/foreign/hostdare)） | 普通线路活动价 $20.99/年 | 洛杉矶另有 CN2 GIA 系列，可选东京及保加利亚机房 | 支付宝、银联、PayPal、银行卡、加密货币 |
 | [AlphaVPS](https://alphavps.com/)（[AlphaVPS 最新优惠 点此查看](/zh/vps/foreign/alphavps)） | €15/年    | AMD Ryzen型号VPS性能好，性价比高。                           | 支付宝、PayPal、信用卡       |
 | 未使用过的VPS厂家👇                                           |           |                                                              |                              |
 | [DigitalOcean](https://www.digitalocean.com/)                | $4/月     | 21年上市企业，可靠，高效，注册送$200体验金。                 | 信用卡、PayPal               |

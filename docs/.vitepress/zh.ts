@@ -266,6 +266,7 @@ function sidebarVps(): DefaultTheme.SidebarItem[] {
         { text: '搬瓦工 BandwagonHost', link: 'foreign/banwagon' },
         { text: 'DMIT', link: 'foreign/dmit' },
         { text: 'Vultr', link: 'foreign/vultr' },
+        { text: 'HostDare', link: 'foreign/hostdare' },
         { text: 'BuyVM', link: 'foreign/buyvm' },
         { text: 'CloudCone', link: 'foreign/cloudcone' },
         { text: 'CloudSilk', link: 'foreign/cloudsilk' },
