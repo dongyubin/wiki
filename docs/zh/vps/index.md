@@ -26,8 +26,8 @@ category: "VPS总览"
 | [Bandwagon（搬瓦工）](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](/zh/vps/foreign/banwagon)） | $49.99/年 | CN2 GIA线路，到国内速度最快的线路。**高端高速优化线路**，老牌商家，一键换机房、自动备份，**稳定、快速** | 支付宝、微信、PayPal、信用卡 |
 | [Dmit](https://www.dmit.io/aff.php?aff=7952)（[DMIT 最新优惠 点此查看](/zh/vps/foreign/dmit)） | $39.9/年  | **高端高速优化线路**，EPYC 高性能 CPU、DDoS                  | 支付宝、微信、PayPal         |
 | [BuyVM (Frantech)](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](/zh/vps/foreign/buyvm)） | $2/月     | **万兆网络**、**无限流量**、大硬盘、流媒体解锁、抗版权投诉   |                              |
-| [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](/zh/vps/foreign/racknerd)） | $10.18/年 | 官方顶部有活动提示，可买到低价VPS。便宜、流量多、配置高、服务好、稳定。 | PayPal、支付宝、信用卡       |
-| [CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](/zh/vps/foreign/cloudcone)） | 3$/月     | 便宜、大流量、大硬盘，自动备份                               | PayPal、支付宝、信用卡       |
+| [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](/zh/vps/foreign/racknerd)） | 黑五 $15.98/年起 | 2026 黑五 KVM VPS，入门档 1 核 / 1 GB / 20 GB SSD / 月流量 3 TB。 | PayPal、支付宝、信用卡       |
+| [CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](/zh/vps/foreign/cloudcone)） | $28/年起 | 常规 SSD VPS，入门档 2 核 / 1 GB / 30 GB SSD / 月流量 4 TB | PayPal、支付宝、信用卡       |
 | [GreenCloud（绿云）](https://greencloudvps.com/billing/aff.php?aff=6819)（[绿云最新优惠 点此查看](/zh/vps/foreign/greencloud)） | $6/月     | 2013 年老牌，30+ 机房，标配 **10Gbps 端口**，特价机 $25/年起；共享核平均占用限 30% | 支付宝、银联、PayPal、信用卡、加密货币 |
 | [丽萨主机 LisaHost](https://lisahost.com/aff.php?aff=17248)（[丽萨主机最新优惠 点此查看](/zh/vps/foreign/lisahost)） | 299元/年  | **双ISP家宽住宅IP**，美国/香港/日本/韩国/英国等多机房，TikTok、流媒体、跨境电商适用 | 以结账页为准 |
 | [Vultr](https://www.vultr.com/?ref=8888141)（[Vultr 最新价格 点此查看](/zh/vps/foreign/vultr)） | $2.5/月   | 34 个机房、按小时计费，高性能 NVMe 型 $6/月起；新用户最高 $200 赠金。**$2.5 档为 IPv6-only** | 支付宝、银联、PayPal、信用卡、加密货币 |

@@ -122,8 +122,8 @@ category: "VPS选购指南"
 | [Bandwagon（搬瓦工）](https://bwh88.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](https://vps.wangdu.site/guowai-vps/23.html)） | $49.99/年 | CN2 GIA线路，到国内速度最快的线路。**高端高速优化线路**，老牌商家，一键换机房、自动备份，**稳定、快速** | 支付宝、微信、PayPal、信用卡 |
 | [Dmit](https://www.dmit.io/aff.php?aff=7952)（[DMIT 最新优惠 点此查看](https://vps.wangdu.site/guowai-vps/59.html)） | $39.9/年  | **高端高速优化线路**，EPYC 高性能 CPU、DDoS                  | 支付宝、微信、PayPal         |
 | [BuyVM (Frantech)](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](https://vps.wangdu.site/guowai-vps/61.html)） | $2/月     | **万兆网络**、**无限流量**、大硬盘、流媒体解锁、抗版权投诉   |                              |
-| [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)） | $10.18/年 | 官方顶部有活动提示，可买到低价VPS。便宜、流量多、配置高、服务好、稳定。 | PayPal、支付宝、信用卡       |
-| [CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)） | 3$/月     | 便宜、大流量、大硬盘，自动备份                               | PayPal、支付宝、信用卡       |
+| [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)） | 黑五 $15.98/年起 | 2026 黑五 KVM VPS，入门档 1 核 / 1 GB / 20 GB SSD / 月流量 3 TB。 | PayPal、支付宝、信用卡       |
+| [CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)） | $28/年起 | 常规 SSD VPS，入门档 2 核 / 1 GB / 30 GB SSD / 月流量 4 TB | PayPal、支付宝、信用卡       |
 | [Vultr](https://www.vultr.com/?ref=8888141)                  | $2.5/月   | 小时计费，**万兆网络**，全球几十个机房任选，机房丰富，注册送$100。 | 支付宝、PayPal、信用卡       |
 | [AlphaVPS](https://alphavps.com/)（[AlphaVPS 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/alphavps)） | €15/年    | AMD Ryzen型号VPS性能好，性价比高。                           | 支付宝、PayPal、信用卡       |
 | 未使用过的VPS厂家👇                                           |           |                                                              |                              |
