@@ -23,7 +23,7 @@ category: "VPS总览"
 | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ---------------------------- |
 | [腾讯云](https://curl.qcloud.com/fzVb4zsY)                   | ￥95/年   | 国内服务器推荐，新手优惠，需备案。                           | 微信、银行卡                 |
 | [阿里云个人ECS](https://www.aliyun.com/minisite/goods?userCode=5jirorgx)、[企业ECS](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=5jirorgx) | ￥99/年   | 国内服务器推荐，新手优惠，需备案。                           | 支付宝、银行卡               |
-| [Bandwagon（搬瓦工）](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](/zh/vps/foreign/banwagon)） | $49.99/年 | CN2 GIA线路，到国内速度最快的线路。**高端高速优化线路**，老牌商家，一键换机房、自动备份，**稳定、快速** | 支付宝、微信、PayPal、信用卡 |
+| [Bandwagon（搬瓦工）](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](/zh/vps/foreign/banwagon)） | $99.99/年 | CN2 GT / CN2 GIA / 新加坡 / 迪拜多机房，**高端高速优化线路**，老牌商家，一键换机房、自动备份，**稳定、快速**；2026 年起 20G 下架，40G 起 | 支付宝、微信、PayPal、信用卡 |
 | [Dmit](https://www.dmit.io/aff.php?aff=7952)（[DMIT 最新优惠 点此查看](/zh/vps/foreign/dmit)） | $39.9/年  | **高端高速优化线路**，EPYC 高性能 CPU、DDoS                  | 支付宝、微信、PayPal         |
 | [BuyVM (Frantech)](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](/zh/vps/foreign/buyvm)） | $2/月     | **万兆网络**、**无限流量**、大硬盘、流媒体解锁、抗版权投诉   |                              |
 | [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](/zh/vps/foreign/racknerd)） | 黑五 $15.98/年起 | 2026 黑五 KVM VPS，入门档 1 核 / 1 GB / 20 GB SSD / 月流量 3 TB。 | PayPal、支付宝、信用卡       |
